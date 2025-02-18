@@ -1,7 +1,7 @@
 # PTF
 Prime Time Freeware - a CD snapshot of Internet in 1992
 
-[cd image](PTF.jpg)
+![cd image](PTF.jpg)
 
 # Saving the Internet
 
