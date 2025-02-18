@@ -1,0 +1,6 @@
+rwxr-xr-x107/1      0 Sep 16 20:07 1991 UPGRADE-1/
+rw-r--r--100/100    718 Sep 15 00:02 1991 UPGRADE-1/SNMP-UPGRADE-1
+rw-r--r--100/100  74937 Sep 15 00:02 1991 UPGRADE-1/files1a.Z
+rw-r--r--100/100 120945 Sep 15 00:02 1991 UPGRADE-1/files1b.Z
+rw-r--r--100/100 181724 Sep 15 00:03 1991 UPGRADE-1/patches1.Z
+rw-r--r--100/100   3471 Sep 15 00:03 1991 UPGRADE-1/upgrade-1.sh

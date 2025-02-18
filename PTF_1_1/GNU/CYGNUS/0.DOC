@@ -1,0 +1,38 @@
+Package:	gnu/cygnus
+
+Description:	Cygnus Vintage GNU Release
+
+Version:	911206	(December 6, 1991)
+
+Notes:
+
+  Cygnus Support provides support for GNU Software.  As a small sideline,
+  they produced this "vintage" release.  You can buy the release on a tape,
+  with a nifty manual and some start-up help, from Cygnus.  Or, by their
+  gracious cooperation, you can use the copy here.  Along with source code,
+  the release includes binaries for Sun-3s and Sun-4s.  Enjoy.  
+
+  P.S.  Unpack _etc_.atz and look over the README.  The original Install
+  file (included) is for the Cygnus tape, and won't work on our archive at
+  all.  Look at Install.ptf, and see if you can make our hacks work.  We
+  pretend that the archive file is a tape drive, and disable bogus tape
+  commands.  This may work.  Otherwise, you're on your own...
+
+Language(s):    C
+
+Requirements:   ?
+
+Origin:         Cygnus Support
+		(see a2z/origins/cygnus.doc) and
+		GNU Project, Free Software Foundation
+		(see a2z/origins/fsf.doc)
+
+See Also:
+
+  language/c
+  pgm_tools
+
+Restrictions:   See a2z/text/gnu_gpl.txt
+
+References:	?
+

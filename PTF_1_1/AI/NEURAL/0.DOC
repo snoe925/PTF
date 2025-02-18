@@ -1,0 +1,19 @@
+Topic:		ai/neural
+
+Description:	Neural Network Tools
+
+Notes:
+
+  Neural Network simulations attempt to model one or more neurons.
+
+Contains:
+
+  atree     P    atree - Adaptive Logic Network (ALN) sim.
+
+See Also:
+
+  ai/cellular
+  ai/connect
+
+References:	?
+

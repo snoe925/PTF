@@ -1,0 +1,23 @@
+Package:        language/lisp/ew
+
+Description:    EW - Express Windows
+
+Version:        900402 (?)
+
+Notes:
+ 
+  Window management code for X and Lisp.
+
+Language(s):    Lisp
+
+Requirements:   X11
+
+Origin:         Liszt Programming, Inc.
+		(see a2z/origins/liszt.doc)
+
+See Also:       ?
+
+Restrictions:   See .../COPYING
+
+References:	?
+

@@ -1,0 +1,13 @@
+rwxr-xr-x5509/12640      0 Mar 28 06:18 1991 imake/
+rwxrwxr-x5509/12640      0 Feb 27 13:17 1991 imake/RCS/
+r--r--r--5509/12640   1731 Feb 27 13:17 1991 imake/RCS/Makefile.ini,v
+r--r--r--5509/12640  19373 Jan 24 03:45 1991 imake/RCS/imake.c,v
+r--r--r--5509/12640   6018 Jan 24 03:57 1991 imake/RCS/imakemdep.h,v
+r--r--r--5509/12640    726 Feb 27 13:17 1991 imake/Makefile.ini
+rwxr-xr-x5509/12640      0 Mar 28 06:18 1991 imake/Makefile symbolic link to Makefile.ini
+r--r--r--5509/12640    559 Mar 20 11:49 1990 imake/ccimake.c
+rwxr-xr-x5509/12640      0 Mar 28 06:18 1991 imake/config symbolic link to ../../config
+r--r--r--5509/12640  18602 Jan 24 03:45 1991 imake/imake.c
+r--r--r--5509/12640   5355 Jan 24 03:57 1991 imake/imakemdep.h
+r--r--r--5509/12640    361 Apr 11 12:26 1990 imake/mkdirhier.sh
+rw-r--r--5509/12640    141 Mar 28 06:18 1991 imake/README

@@ -1,0 +1,22 @@
+Topic:		archive
+
+Description:	Archive Maintenance Tools
+
+Notes:
+
+  It is frequently useful to collect files into archives, for storage or
+  shipment among computers.  These tools create, edit, and otherwise work
+  with such archives.
+
+Contains:
+
+  compress  P    compress - file compression utilities
+  cpio      P    GNU cpio(1)
+  tar       T    tar - maintain tape archives
+
+See Also:
+
+  pgm_tool
+
+References:	?
+

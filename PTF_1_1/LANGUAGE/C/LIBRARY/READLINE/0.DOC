@@ -1,0 +1,46 @@
+Package:	language/c/library/readline
+
+Description:	GNU history and readline libraries
+
+Version:	1.1
+
+Notes:
+
+  Many programs read input from the user a line at a time.  The GNU history
+  library is able to keep track of those lines, associate arbitrary data with
+  each line, and utilize information from previous lines in making up new
+  ones.
+
+  The programmer using the History library has available to him functions
+  for remembering lines on a history stack, associating arbitrary data
+  with a line, removing lines from the stack, searching through the stack
+  for a line containing an arbitrary text string, and referencing any line
+  on the stack directly.  In addition, a history @dfn{expansion} function
+  is available which provides for a consistent user interface across many
+  different programs.
+
+  The end-user using programs written with the History library has the
+  benifit of a consistent user interface, with a set of well-known
+  commands for manipulating the text of previous lines and using that text
+  in new commands.  The basic history manipulation commands are similar to
+  the history substitution used by @code{Csh}.
+
+  If the programmer desires, he can use the Readline library, which
+  includes some history manipulation by default, and has the added
+  advantage of Emacs style command line editing.
+
+	.../doc/hist.texinfo
+
+Language(s):    C
+
+Requirements:   ?
+
+Origin:         GNU Project, Free Software Foundation
+		(see a2z/origins/fsf.doc)
+
+See Also:       ?
+
+Restrictions:   See a2z/text/gnu_gpl.txt
+
+References:	?
+

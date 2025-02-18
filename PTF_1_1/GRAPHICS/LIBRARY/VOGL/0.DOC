@@ -1,0 +1,39 @@
+Package:	graphics/library/vogl
+
+Description:	VOGL - Very Ordinary Graphics Library
+
+Version:	?
+
+Notes:
+
+  VOGL is a library of C routines which try to allow a programmer to write
+  programs which can be moved to machines which have the Silicon Graphics GL
+  library on them.  It is based entirely on the VOGLE graphics library, and
+  as a result can handle circles, curves, arcs, patches, and polygons in a
+  device independent fashion.  Simple hidden line removal is also available
+  via polygon backfacing.  Access to hardware text and double buffering of
+  drawings depends on the driver.  There is also a FORTRAN interface but as
+  it goes through the C routines FORTRAN users are warned that arrays are
+  in row-column order in C.  Both the long FORTRAN names and the shortened
+  six character names are supported.  People interested in using software
+  text should see the hershey library, HERSHEY(3).
+
+	.../docs/vogl.doc
+
+Language(s):    C, Fortran
+
+Requirements:   ?
+
+Origin:         University Of Melbourne
+		(see a2z/origins/melbourn.doc)
+
+See Also:
+
+  graphics/library/vogle
+  graphics/library/vopl
+  graphics/render/vort
+
+Restrictions:   See .../README
+
+References:	?
+

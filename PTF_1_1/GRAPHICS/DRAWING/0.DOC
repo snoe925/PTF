@@ -1,0 +1,21 @@
+Topic:		graphics/drawing
+
+Description:	Drawing Programs
+
+Notes:
+
+  Drawing programs range from the trivial to the exotic.  At the extreme
+  they can be full-scale CAD (Computer-Aided Design) packages.  They also
+  tend to be stongly tied to particular window and/or display technology.
+
+Contains:
+
+  fig       T    fig - Drawing Package
+
+See Also:
+
+  cad
+  window
+
+References:	?
+

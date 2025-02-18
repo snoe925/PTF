@@ -1,0 +1,33 @@
+Topic:		graphics/dataplot
+
+Description:	Data Plotting Programs
+
+Notes:
+
+  This is a collection of programs for plotting data.  They typically produce
+  line charts, pie charts, surface grids, etc.
+
+Contains:
+
+  gnuplot   P    gnuplot - an interactive plotting program
+  graphics  P    GNU graphics utilities
+  ncsa      T    NCSA Data Analysis and Display Tools
+
+See Also:
+
+  window
+
+References:
+
+  The Elements of Graphing Data
+  William S. Cleveland
+  Wadsworth. 1985, ISBN 0-534-03730-5
+
+  Envisioning Information
+  Edward R. Tufte
+  Graphics Press, 1990, ISBN (none)
+
+  The Visual Display of Quantitative Information
+  Edward R. Tufte
+  Graphics Press, 1983, ISBN (none)
+

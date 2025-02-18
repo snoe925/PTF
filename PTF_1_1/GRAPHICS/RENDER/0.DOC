@@ -1,0 +1,29 @@
+Topic:		graphics/render
+
+Description:	Rendering Programs
+
+Notes:
+
+  Rendering translates the scene description into an image, adding shading,
+  texturing, light sources, etc.
+
+Contains:
+
+  vort      P    VORT - Very Ordinary Rendering Tool-kit
+
+See Also:
+
+  graphics/fractal
+  window
+
+References:
+
+  Computer Graphics, Principles and Practice, 2nd. Ed.
+  James D. Foley, Andries van Dam, Steven K. Feiner, John F. Hughes
+  Addison-Wesley, 1990, ISBN 0-201-12110-7
+
+  The RenderMan Companion:
+    A Programmer's Guide to Realistic Computer Graphics
+  Steve Upstill
+  Addison-Wesley, 1990, ISBN 0-201-50868-0
+

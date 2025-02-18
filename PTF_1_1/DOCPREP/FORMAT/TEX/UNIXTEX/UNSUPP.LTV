@@ -1,0 +1,14 @@
+rwxr-xr-x4010/30      0 May  8 11:55 1991 Unsupported/
+rwxr-xr-x4010/30      0 May  8 11:55 1991 Unsupported/MFpxl/
+rwxr-xr-x4010/30      0 May  8 11:55 1991 Unsupported/MFpxl/CMFpxlware/
+r--r--r--4010/30  11947 Dec  5 04:02 1987 Unsupported/MFpxl/CMFpxlware/pktopx.c
+r--r--r--4010/30  19182 Dec  5 04:03 1987 Unsupported/MFpxl/CMFpxlware/pxtopk.c
+rw-r--r--4010/30   1284 Oct  5 11:07 1988 Unsupported/MFpxl/CMFpxlware/pxtogf.1
+rw-r--r--4010/30    524 Oct  5 11:07 1988 Unsupported/MFpxl/CMFpxlware/pxtogf.orig
+rw-r--r--4010/30  26601 Oct  5 11:07 1988 Unsupported/MFpxl/CMFpxlware/pxtogf.p
+rwxr-xr-x4010/30      0 May  8 11:55 1991 Unsupported/MFpxl/man/
+rw-r--r--4010/30   1260 Oct  5 16:00 1988 Unsupported/MFpxl/man/pktopx.1
+rw-r--r--4010/30    970 Oct  5 16:00 1988 Unsupported/MFpxl/man/pxtopk.1
+rwxr-xr-x4010/30      0 May  8 11:55 1991 Unsupported/undump/
+rw-r--r--4010/30  83173 Oct  2 11:30 1990 Unsupported/undump/undump.tar.Z
+rw-r--r--4010/30   8996 Oct 25 13:57 1990 Unsupported/undump/NOTE

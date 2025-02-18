@@ -1,0 +1,12 @@
+rwxr-xr-x  0/1      0 Feb 28 09:09 1991 xinfo-1.01.01/
+rw-r--r--  0/1    229 Jan  9 14:12 1991 xinfo-1.01.01/Imakefile
+rw-r--r--  0/1   7749 Jan  9 14:12 1991 xinfo-1.01.01/XInfo.ad
+rw-r--r--  0/1  12488 Jan  9 14:12 1991 xinfo-1.01.01/COPYING
+rw-r--r--  0/1  64653 Jan  9 14:12 1991 xinfo-1.01.01/Info.c
+rw-r--r--  0/1   2839 Jan 10 06:21 1991 xinfo-1.01.01/Info.h
+rw-r--r--  0/1   9129 Jan  9 14:12 1991 xinfo-1.01.01/InfoP.h
+rw-r--r--  0/1   1259 Jan  9 14:12 1991 xinfo-1.01.01/NOTES
+rw-r--r--  0/1   4444 Jan  9 14:12 1991 xinfo-1.01.01/README
+rw-r--r--  0/1   2931 Jan  9 14:12 1991 xinfo-1.01.01/xinfo.c
+rw-r--r--  0/1    872 Jan  9 14:12 1991 xinfo-1.01.01/xinfo.bm
+rw-r--r--  0/1  10079 Jan  9 14:12 1991 xinfo-1.01.01/Makefile

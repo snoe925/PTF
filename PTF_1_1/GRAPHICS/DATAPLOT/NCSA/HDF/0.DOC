@@ -1,0 +1,26 @@
+Package:	graphics/dataplot/ncsa/hdf
+
+Description:	NCSA Hierarchical Data Format Tools
+
+Version:	3.1r5
+
+Notes:
+
+  The National Center for Supercomputer Applications' Hierarchical Data
+  Format is an attempt to set up a standard for scientific data storage
+  and exchange.  They have defined it, and they have also set about making
+  and collecting tools to use it.
+
+Language(s):    C, Fortran, ...
+
+Requirements:   ?
+
+Origin:         Nat. Ctr. for Supercomputer Appls., University of Illinois
+		(see a2z/origins/uil.doc)
+
+See Also:       ?
+
+Restrictions:   .../README.FIRST
+
+References:	?
+

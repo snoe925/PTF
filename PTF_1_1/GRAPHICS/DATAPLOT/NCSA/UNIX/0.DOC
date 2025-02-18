@@ -1,0 +1,23 @@
+Package:	graphics/dataplot/ncsa/unix
+
+Description:	NCSA UNIX-based tools
+
+Version:	?
+
+Notes:
+
+  These tools are intended for use on UNIX systems.
+
+Language(s):    NA
+
+Requirements:   ?
+
+Origin:         Nat. Ctr. for Supercomputer Appls., University of Illinois
+		(see a2z/origins/uil.doc)
+
+See Also:       ?
+
+Restrictions:   .../README.FIRST
+
+References:	?
+

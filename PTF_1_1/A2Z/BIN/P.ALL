@@ -1,0 +1,34 @@
+:
+# p.all - ask about package(s) or topic(s); print *everything* 
+#
+# Usage: p.all [package|topic] ...
+#
+# Written by Rich Morin, CFCL, January, 1992
+#
+# Public Domain - all uses allowed
+
+PTF_CASE=${PTF_CASE-lower}
+if [ $PTF_CASE = UPPER ]; then
+  doc=DOC
+else
+  doc=doc
+fi
+
+PTF_PAGE=${PTF_PAGE-more}
+
+args="${*-.}"
+
+list=
+for arg in $args; do
+  if [ -f $arg/0.$doc ]; then			# handle topics
+    list="$list $arg/0.$doc"
+  else
+    if [ ! -f $arg.$doc ]; then			# handle errors
+      echo "p.all: no documentation for package/topic <$arg>"
+      sleep 2
+    fi
+    list="$list $arg.$doc"			# handle packages
+  fi
+done
+
+$PTF_PAGE $list					# display files

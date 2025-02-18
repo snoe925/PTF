@@ -1,0 +1,39 @@
+Package:	language/shell/tput
+
+Description:	tput - Portable Terminal Control Utility
+
+Version:	1.0
+
+Notes:
+
+  The tput command translates the terminal-independent name of a terminal
+  capability into its actual value for the terminal type being used.  This
+  allows shell scripts to do things like clear the screen, underline text,
+  and center text no matter how wide the screen is.
+
+  tput takes as an argument the name of a Unix System V terminfo capability,
+  which it translates into the equivalent termcap capability name.
+
+  There are three types of terminfo (and termcap) capabilities: string,
+  Boolean, and numeric.  String capabilities either cause a special effect
+  on the terminal when they are displayed or are the value sent by a special
+  key on the terminal (the latter type are probably of no use in shell
+  scripts).  Numeric and Boolean capabilities give information about the
+  terminal such as how many columns wide it is or whether whether it has a
+  meta key.
+
+	.../tput.terminfo
+
+Language(s):    C
+
+Requirements:   ?
+
+Origin:         GNU Project, Free Software Foundation
+		(see a2z/origins/fsf.doc)
+
+See Also:       ?
+
+Restrictions:   See a2z/text/gnu_gpl.txt
+
+References:	?
+

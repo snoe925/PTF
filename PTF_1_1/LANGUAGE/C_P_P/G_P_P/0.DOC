@@ -1,0 +1,45 @@
+Package:	language/c_p_p/g_p_p
+
+Description:	g++ - GNU C++
+
+Version:	1.39.1, 1.40.3
+
+Notes:
+
+  GNU C++ is GNU CC, with a C++ front end.  GNU CC is the Free Software
+  Foundation's optimizing, retargetable, ANSI C compiler.  GNU CC has
+  source level debugging support from the GDB debugger (also available
+  from the Free Software Foundation).  For more information about GNU
+  CC, write to the Free Software Foundation at the address given below.
+  GNU C++ is an extension of GNU CC.  It keeps the powerful optimizer,
+  and maintains a high degree of source-level debugging support, while
+  providing the object-oriented features of C++.  Numerous files have
+  been added, changed, and hacked without mercy from their original GNU
+  CC incarnation to make this compiler accept a reasonable super/subset
+  of C++.
+
+  *Disclaimer*: GNU C++ is not perfectly compatible with AT&T
+  C++.  It is, however, a reasonably faithful implementation of C++ as
+  described in the C++ reference manual.  To make GNU C++ more mobile,
+  only the files that are not shared with GNU CC are currently being
+  distributed.  If you do not have GNU CC yet, or your version is older
+  than 1.39, you should take care of getting that first.  GNU CC is
+  available to sites which have anonymous ftp capability to
+  prep.ai.mit.edu.  Contact the Free Software Foundation for more
+  information.
+
+	.../README
+
+Language(s):    C
+
+Requirements:   bison, gcc
+
+Origin:         GNU Project, Free Software Foundation
+		(see a2z/origins/fsf.doc)
+
+See Also:       ?
+
+Restrictions:   See a2z/text/gnu_gpl.txt
+
+References:	?
+

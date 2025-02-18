@@ -1,0 +1,26 @@
+Topic:		docprep/edit
+
+Description:	Text Editors
+
+Notes:
+
+  Text editors are often confused with word-processing packages.  The
+  distinction, in general, is that the latter provide formatting services,
+  usually in a WYSIWYG (What You See is What You Get) fashion.
+
+  Most UNIX editors will allow the user to format a ducument by means of a
+  special command.  This is frequently just a UNIX command, however, and it
+  does only monospace formatting.  To get a fully formatted document in a
+  UNIX environment, you must invoke a formatting programm, such as TeX or
+  troff  (or find a word processor).
+
+Contains:
+
+  crisp     P    CRISP - Programmers Editor
+  emacs     T    The Emacs Text Editor
+  vi        T    The VI Text Editor
+
+See Also:	?
+
+References:	?
+

@@ -1,0 +1,35 @@
+Topic:		datacomm/network/athena
+
+Description:	Project Athena
+
+Notes:
+
+  Project Athena at MIT has emerged as one of the most important models of
+  next generation distributed computing in the academic environment.  MIT
+  pioneered this new systems approach to computation based on the client-
+  server model to support a network of workstations.  This new model is
+  replacing time-sharing (which MIT also pioneered) as the preferred model
+  of computing at the Institute.  Athena is unique in that it is one of the
+  first and one of the largest integrated implementations of this new model,
+  perhaps paralleled only by the Andrew project at Carnegie-Mellon
+  University.  Athena's uniqueness has led to widespread interest in its
+  design, implementation, and results.
+
+	Preface, MIT Project Athena: A Model for Distributed Campus Computing
+
+Contains:
+
+  hesiod    P    hesiod - the Project Athena nameserver
+  moira     P    moira - Project Athena Service Mgt. System
+  tools     P    Assorted Athena Tools
+  zephyr    P    zephyr - Project Athena Service Mgt. System
+
+See Also:	?
+
+References:
+
+  MIT Project Athena
+    A Model for Distributed Campus Computing
+  George A. Champine
+  Prentice Hall, 1991, ISBN 0-13-585324-9
+

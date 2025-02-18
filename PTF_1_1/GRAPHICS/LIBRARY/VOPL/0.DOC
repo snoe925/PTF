@@ -1,0 +1,36 @@
+Package:	graphics/library/vopl
+
+Description:	VOPL - Very Ordinary Plotting Library
+
+Version:	?
+
+Notes:
+
+  VOPL is a library of C routines for doing graph plots.  It handles a variety
+  of fits and scalings, together with providing defaults for positioning graph
+  titles, axis titles, and labels.  VOPL may be called from C or FORTRAN.
+
+	.../docs/vopl.doc
+
+
+  vopl isn't finished yet.  Need to do the Fortran interfaces and PC versions
+
+	.../src/README
+
+Language(s):    C, Fortran
+
+Requirements:   ?
+
+Origin:         University Of Melbourne
+		(see a2z/origins/melbourn.doc)
+
+See Also:
+
+  graphics/library/vogl
+  graphics/library/vogle
+  graphics/render/vort
+
+Restrictions:   See .../README
+
+References:	?
+

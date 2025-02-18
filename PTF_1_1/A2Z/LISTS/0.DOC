@@ -1,0 +1,19 @@
+Admin:		a2z/lists
+
+Description:	Lists of packages, etc.
+
+Notes:
+
+  These lists centralize key data about packages found on this disc.  Use
+  them to help locate desired packages.
+
+Contains:
+
+  hpl.txt	Hierarchical Package List
+  tpi.txt	Topic/Package Index
+
+See Also:
+
+  0.lst		Top-level package summary (in Package directories)
+  *.ltv		Full archive listings (in Package directories)
+  _etc_.atz	Ancillary files (in Package directories)

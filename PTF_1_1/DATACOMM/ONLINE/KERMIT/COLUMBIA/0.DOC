@@ -1,0 +1,42 @@
+Package:	datacomm/online/kermit/columbia
+
+Description:	Columbia Kermit Distribution
+
+Version:	as of Dec 30, 1991
+
+Notes:
+
+  The complete Kermit is divided into five reels of 9-track magnetic tape,
+  Tapes A through E.
+
+    Tape A contains Kermit versions for the more popular PCs (MS-DOS, CP/M,
+           Apple II, Commodore 64, etc),
+
+    Tape B for the more popular workstations, minis, and mainframes (DEC
+           operating systems, IBM mainframes, UNIX, etc),
+
+    Tape C for less popular PCs,
+
+    Tape D for less popular minis and mainframes, and
+
+    Tape E for online documentation plus utilitity programs (including
+           programs for reading tapes).
+
+  See the file AAFILES.HLP for an explanation of where the files are and
+  what they're called.
+
+	.../aatape.hlp
+
+Language(s):    C, Fortran, ???
+
+Requirements:   ?
+
+Origin:         GNU Project, Columbia University
+		(see a2z/origins/columbia.doc)
+
+See Also:       ?
+
+Restrictions:   see .../AAXCOM.DOC
+
+References:	?
+

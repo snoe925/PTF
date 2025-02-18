@@ -1,0 +1,38 @@
+Package:        language/lisp/t
+
+Description:    T - dialect of Lisp
+
+Version:        3.1
+
+Notes:
+ 
+  T is a dialect of Lisp derived from SCHEME.  It is comparable in power and
+  expressiveness to other recent Lisp dialects such as Lisp Machine Lisp,
+  Common Lisp, and NIL, but fundamentally more similar in spirit to SCHEME
+  than these other Lisp dialects.
+
+  T endeavors to be a powerful, expressive language which also permits
+  portable and efficient implementations.  T is a "modern" Lisp suitable
+  for a broad variety of applications, including symbolic, numerical, and
+  systems programming, on a variety of machines.
+
+  T draws from many sources in its attempt to provide a complete yet simple
+  and unified system.  For the most part, the language's designers are
+  collators, not originators.  Common Lisp, NIL, and SCHEME have been the
+  strongest influences.
+
+	.../intro.mss
+
+Language(s):    T
+
+Requirements:   ?
+
+Origin:         Computer Science Department, Yale University
+		(see a2z/origins/yale.doc)
+
+See Also:       ?
+
+Restrictions:   .../sources/scheme/compiler.t
+
+References:	?
+

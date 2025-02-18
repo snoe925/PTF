@@ -1,0 +1,53 @@
+Package:	language/c_p_p/nihcl
+
+Description:	NIHCL - NIH (C++) Class Library
+
+Version:	2.204a
+
+Notes:
+
+  This release of the NIH Class Library contains  the  following classes:
+
+    NIHCL---Library Static Member Variables and Functions
+      Object---Root of the NIH Class Library Inheritance Tree
+        Bitset---Set of Small  Integers (like  Pascal's  type SET)
+        Class---Class Descriptor
+        Collection---Abstract Class for Collections
+          Arraychar---Byte Array
+          ...
+        Date---Gregorian Calendar Date
+        FDSet---Set of File Descriptors for Use with select(2) System Call
+        Float---Floating Point Number
+        Fraction---Rational Arithmetic
+        Link---Abstract Class for LinkedList Links
+          LinkOb---Link Containing Object Pointer
+          ...
+        LookupKey---Abstract Class for Dictionary Associations
+          Assoc---Association of Object Pointers
+          ...
+        Integer---Integer Number Object
+        Iterator---Collection Iterator
+        Nil---The Nil Object
+        ...
+
+	.../README
+
+Language(s):    C++
+
+Requirements:   ?
+
+Origin:         National Institutes of Health
+		(see a2z/origins/nih.doc)
+		GNU Project, Free Software Foundation
+		(see a2z/origins/fsf.doc)
+
+See Also:       i_views, nihcl
+
+Restrictions:   See .../COPYRIGHT and a2z/text/gnu_gpl.txt
+
+References:
+
+  Data Abstraction and Object-Oriented Programming in C++
+  Keith E. Gorlen, Sanford M. Orlow, Perry S. Plexico
+  Wiley, 1990, ISBN 0-471-92346-X
+

@@ -1,0 +1,23 @@
+Topic:		docprep/edit/vi
+
+Description:	The VI Text Editor
+
+Notes:		?
+
+Contains:
+
+  elvis     P    elvis - GNU vi
+
+See Also:	?
+
+References:
+
+  A Guide to VI
+    Visual Editing on the UNIX System
+  Dan Sonnenschein
+  Prentice-Hall, 1987, ISBN 0-13-371311-3
+
+  The Ultimate Guide to the VI and EX Text Editors
+  Hewlett-Packard Company
+  Benjamin/Cummings, 1990, ISBN 0-8053-4460-8
+

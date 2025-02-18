@@ -1,0 +1,29 @@
+Package:        language/lisp/leif
+
+Description:    Leif - Language Oriented Editor
+
+Version:        900402 (?)
+
+Notes:
+ 
+  Leif is a language oriented editor that supports a full set of text editing
+  commands as well as commands based on the program's syntax.  The editor
+  uses an incremental parser to update syntactic information about the
+  program.  Leif can be used with several different context free languages
+  simultaneously.
+
+Language(s):    C
+
+Requirements:   (based on GNU emacs)
+
+Origin:         Department of Computer Science, University of Illinois
+		(see a2z/origins/uil.doc)
+
+See Also:
+
+  docprep/edit/emacs
+
+Restrictions:   See a2z/text/gnu_gpl.txt
+
+References:	?
+

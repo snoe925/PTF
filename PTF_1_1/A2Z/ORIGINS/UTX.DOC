@@ -1,0 +1,40 @@
+utx.doc
+=======
+
+University of Texas
+
+
+AKCL
+----
+
+  There are source files on cli.com:akcl/akcl-XX.tar.Z You probably
+  want the highest XX version number.  For example akcl-1-65.tar.Z would
+  allow you to build the version 1.65 of AKCL.  In the following the
+  compressed tar file is simply referred to as akcl.tar.Z You will also
+  need to obtain the original kcl distribution of June 1987.  That is
+  referred to as kcl.tar.Z and is also available on cli.com and
+  rascal.ics.utexas.edu.
+                                   
+  If you cannot obtain these files via internet, a cartridge tape (sun
+  compatible) or diskettes containing akcl, and kcl sources may be
+  obtained for $250 US plus shipping, from J. Schelter, 1715
+  Barnswallow, Autin TX 78746.  This would be in standard tar format.
+  Some machines on which akcl compiles are 386 under System V (eg
+  Microport), Sun's (sparc,sun3's), HP under hpux and 4.3.  An older
+  version of sources is also available from Austin Code Works, 11100
+  Leafwood Ln., Austin TX 78750.  Tel:(512) 258-0785.
+
+  DISCLAIMER:
+  ----------
+
+  W. Schelter, the University of Texas, and other parties provide this
+  program on an "as is" basis without warranty of any kind, either
+  expressed or implied, including, but not limited to, the implied
+  warranties of merchantability and fitness for a particular purpose.
+
+
+  Bill Schelter 
+  wfs@rascal.ics.utexas.edu
+
+  See the file doc/contributors for a partial list of people who have
+  made helpful contributions to ports etc.

@@ -1,0 +1,46 @@
+Package:	window/x11/r5/pex
+
+Description:	pex - PHIGS Extension to X
+
+Version:	?
+
+Notes:
+
+  The PEX code is scattered all over the X11R5 distribution.  Here is
+  a list of the major directories:
+
+    .../r5/mit/con_1	contrib/examples/PEX/
+
+    .../r5/mit/con_2	contrib/lib/Xpex/
+    .../r5/mit/con_2	contrib/lib/pexim/
+    .../r5/mit/con_2	contrib/lib/PEXt/
+    .../r5/mit/con_2	contrib/lib/dec-pexlib/
+
+    .../r5/mit/mit_1	mit/extensions/include/PEX/
+    .../r5/mit/mit_1	mit/extensions/lib/PEX/
+    .../r5/mit/mit_1	mit/extensions/server/PEX/
+    .../r5/mit/mit_1	mit/extensions/test/InsPEX/
+    .../r5/mit/mit_1	mit/fonts/PEX/
+    .../r5/mit/mit_1	mit/util/PEX/
+
+    .../r5/mit/mit_4	mit/doc/extensions/PEX/
+    .../r5/mit/mit_4	mit/hardcopy/extensions/PEX/
+
+Language(s):    C
+
+Requirements:   bit-mapped printing or display device
+
+Origin:		See window/x11/r5
+
+See Also:
+
+  graphics
+
+Restrictions:   See window/x11/r5
+
+References:
+
+  A Primer for PHIGS
+  F.R.A. Hopgood, D.A. Duce
+  Wiley, 1991, ISBN 0-471-93043-1
+

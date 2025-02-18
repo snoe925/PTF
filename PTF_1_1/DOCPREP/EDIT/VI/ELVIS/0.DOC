@@ -1,0 +1,26 @@
+Package:	docprep/edit/vi/elvis
+
+Description:	elvis - GNU vi
+
+Version:	1.4
+
+Notes:
+
+  Elvis is a clone of vi/ex, the standard UNIX editor.  Elvis supports nearly
+  all of the vi/ex commands, in both visual mode and colon mode.
+
+	.../README
+
+Language(s):    C
+
+Requirements:   ?
+
+Origin:         GNU Project, Free Software Foundation
+		(see a2z/origins/fsf.doc)
+
+See Also:       ?
+
+Restrictions:   See a2z/text/gnu_gpl.txt
+
+References:	?
+

@@ -1,0 +1,48 @@
+Topic:		language/perl
+
+Description:	Practical Extraction and Report Language
+
+Notes:
+
+  In the beginning, Perl was intended to be a data reduction language: a
+  language for navigating among various files in an arbitrary fashion,
+  scanning large amounts of text efficiently, invoking commands to obtain
+  dynamic data, and printing easily-formatted reports based on the information
+  gleaned.  And it does these things quite well -- the pattern matching and
+  textual manipulation capabilities of Perl often outperform dedicated C
+  programs.  But as Perl developed, it also became a convenient file
+  manipulation language -- that is, a language in which you can deal with the
+  files themselves apart from their contents, moving them, renaming them,
+  changing their permissions, and so on.  And it also became a convenient
+  process manipulation language, allowing you to create and destroy processes,
+  to control the flow of data between them, to preprocess their input and
+  postprocess their output, and to clean up after them when they blow up.  And
+  it became a networking language, with the ability to communicate to other
+  processes on other machines via sockets.
+
+  These things can be done in other languages, such as C or one of the shells.
+  But the solutions are difficult and ugly, because C can't easily do many of
+  the things that a shell can do, and a shell can't do many of the things that
+  C lets you do.  Perl fills a rather large niche between them -- providing
+  you with those things that are easy to do in both languages (all in one
+  convenient place), thus bridging the gap between shell programming and C
+  programming.
+
+	Preface, Programming perl
+
+Contains:
+
+  perl      P    Practical Extraction and Report Language
+
+See Also:
+
+  language/awk
+  language/sed
+  language/shell
+
+References:
+
+  Programming perl
+  Larry Wall, Randal L. Schwartz
+  O'Reilly, 1991, ISBN 0-937175-64-1
+

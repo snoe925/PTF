@@ -1,0 +1,46 @@
+Package:	language/c/btool
+
+Description:	btool - measure C branch coverage
+
+Version:	1.3
+
+Notes:
+
+  This tool is used to measure whether a test suite forces every branch
+  in a program to be taken in every possible way.  If it hasn't, you may
+  need to write more tests.  The tool is intended to be used in the
+  testing of large systems written in C, including the UNIX kernel and
+  embedded systems.  Such systems have certain characteristics that
+  affected the design:
+
+  1. The process of compiling the system is a complex task in its own
+  right.  The tool should require only minor and isolated changes to
+  this process.  (If you use makefiles, usually only one needs to be
+  changed.)
+
+  2. Such systems often must be cross-compiled on a host and then
+  downloaded to the target machine, or they depend on a particular C
+  compiler in some other way.  Therefore, adding branch coverage
+  instrumentation must be a source-to-source transformation.
+
+  3. Embedded systems will not be able to use ordinary file I/O.  The
+  internal interface is designed and documented so that the tester can
+  easily write the code used to extract branch coverage information.
+  (When testing application programs, you just use the code provided
+  with the tool.)
+
+	.../blurb.n
+
+Language(s):	C
+
+Requirements:   ?
+
+Origin:         University of Illinois
+		(see a2z/origins/uil.doc)
+
+See Also:       ?
+
+Restrictions:   See a2z/text/gnu_gpl.txt
+
+References:	?
+

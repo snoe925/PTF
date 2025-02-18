@@ -1,0 +1,61 @@
+Topic:		language/s_talk
+
+Description:	Smalltalk Language Tools
+
+Notes:
+
+  Smalltalk is a vision.
+
+  Smalltalk is based on a small number of concepts, but defined by unusual
+  terminology.
+
+  Smalltalk is a graphical, interactive programming environment.
+
+  Smalltalk is a big system.
+
+	.../Preface,
+	  Smalltalk-80 The Language and its Implementation
+
+Contains:
+
+  gnu_st    P    GNU SmallTalk
+
+See Also:	?
+
+References:
+
+  A Taste of Smalltalk
+  Ted Kaehler, Dave Patterson
+  Norton, 1986, ISBN 0-393-95505-2
+
+  An Introduction to Object-Oriented Programming and Smalltalk
+  Lewis J. Pinson, Richard S. Wiener
+  Addison-Wesley, 1988, ISBN 0-201-19127-X
+
+  Inside Smalltalk, Volume I
+  Wilf R. LaLonde, John R. Pugh
+  Prentice Hall, 1990, 0-13-468414-1
+
+  Inside Smalltalk, Volume II
+  Wilf R. LaLonde, John R. Pugh
+  Prentice Hall, 1991, 0-13-465964-3
+
+  Practical Smalltalk
+  Dan Shafer, Dean A. Ritz
+  Springer-Verlag, 1991, ISBN 0-387-97394-X
+
+  Smalltalk-80
+    Bits of History, Words of Advice
+  Glenn Krasner, ed.
+  Addison-Wesley, 1983, ISBN 0-201-11669-3
+
+  Smalltalk-80
+    The Interactive Programming Environment
+  Adele Goldberg
+  Addison-Wesley, 1984, ISBN 0-201-11372-4
+
+  Smalltalk-80
+    The Language and its Implementation
+  Adele Goldberg, David Robson
+  Addison-Wesley, 1983, ISBN 0-201-11371-6
+

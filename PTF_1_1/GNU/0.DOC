@@ -1,0 +1,19 @@
+Topic:		gnu
+
+Description:	GNU miscellanea
+
+Notes:
+
+  We have put the latest versions of the GNU tools into topical directories.
+  This directory, therefore must (and does) contain other stuff.  Check it
+  out...
+
+Contains:
+
+  cygnus    P    Cygnus Vintage GNU Release
+  gnudos    P    GCC for DOS
+
+See Also:	?
+
+References:	?
+

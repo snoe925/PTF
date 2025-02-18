@@ -1,0 +1,16 @@
+0_17            783552  graphics-0.17
+0_17            125818  graphics-0.17/dist-stat
+0_17             14718  graphics-0.17/double
+0_17             24229  graphics-0.17/getopt
+0_17             60620  graphics-0.17/graph
+0_17              8496  graphics-0.17/include
+0_17             54133  graphics-0.17/plot2fig
+0_17             17524  graphics-0.17/plot2plot
+0_17            112800  graphics-0.17/plot2ps
+0_17               454  graphics-0.17/plot2ps/afm
+0_17             45273  graphics-0.17/plot2tek
+0_17             41761  graphics-0.17/tek2plot
+0_17            160157  graphics-0.17/test
+0_17             36779  graphics-0.17/xplot
+_etc_            55746  graphics-0.17.info
+_etc_           186946  graphics-doc-0.17.ps

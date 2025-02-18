@@ -1,0 +1,26 @@
+Package:	window/x11/r5/pbmplus
+
+Description:	pbmplus - Poskanzer Bit Map Utilities
+
+Version:	?
+
+Notes:
+
+  The pbmplus code is concentrated in a single directory subtree:
+
+    .../r5/mit/con_1	contrib/clients/pbmplus
+
+Language(s):    C
+
+Requirements:   bit-mapped printing or display device
+
+Origin:         See window/x11/r5
+
+See Also:
+
+  graphics/img_proc
+
+Restrictions:   See window/x11/r5
+
+References:	?
+

@@ -1,0 +1,58 @@
+toronto.doc
+===========
+
+University of Totonto
+
+
+C-NEWS
+------
+
+  C News has been tested pretty thoroughly.  We're also thoroughly sick of
+  it and make no promises that there will ever be another release.  We may,
+  repeat *may*, provide updates via some appropriate newsgroup (currently
+  the best choice is "news.software.b", although there is some sentiment for
+  folding all the subgroups there into just "news.software"; we oppose
+  creation of "news.software.c" because we don't think there will be enough
+  traffic to justify a whole newsgroup).
+
+  If you've found a problem, we definitely do want to hear about it.  But,
+  we *do not* want to see 2000 lines of diff listing!  What we want to see
+  is a concise human-readable description of what the problem is and how, 
+  if at all, you solved it.  If we want the diff listing, we will ask.
+  Similarly, we are interested in hearing about changes and improvements,
+  but want to see terse descriptions first.
+
+  If you want us to consider changes/fixes/etc, send them to us, don't just
+  post them to the net.  We don't necessarily read all possibly-relevant
+  groups.  Only postings from us are officially part of C News.
+
+  To send comments, complaints, problem reports, etc., do *not* mail to
+  Geoff or Henry personally, but to:
+
+          c-news@zoo.toronto.edu
+  aka     c-news@zoo.utoronto.ca
+  aka     utzoo!c-news
+
+  (Note that this has changed, c-news used to be on utstat.)  Utzoo connects
+  to half the known universe (well, not quite, but try via allegra, att,
+  attcan, decvax, floyd, hoptoad, kitty, linus, mnetor, pyramid, suncan, utai,
+  utgpu, watmath, or yunexus).
+
+  The current C News distribution can currently always be retrieved by
+  anonymous ftp from ftp.cs.toronto.edu in file pub/c-news/c-news.Z (a shell
+  archive) or pub/c-news/c-news.tar.Z (a tar archive) and the complete set
+  of patches can also be found on ftp.cs.toronto.edu in the directory
+  pub/c-news/patches.  FTP during our peak hours (12h00-17h00 Eastern) is
+  not encouraged.
+
+    Geoff Collyer
+    Henry Spencer
+
+
+SLIP
+----
+
+  Let me know if you make fixes or major changes to any of this stuff.
+
+  Rayan Zachariassen <rayan@ai.toronto.edu>
+  881003,890601

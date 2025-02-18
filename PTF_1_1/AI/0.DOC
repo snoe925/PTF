@@ -1,0 +1,25 @@
+Topic:		ai
+
+Description:	Artificial Intelligence Tools
+
+Notes:
+
+  Artificial Intelligence (AI) tends to deal with problems for which there are
+  no reliable algorithmic solutions.  Further, AI problems are likely to be
+  somewhat domain-specific.  Consequently, generality, flexibility, and
+  robustness are frequently valued more than polish or execution speed.
+
+Contains:
+
+  connect   T    Connectionist Tools
+  genetic   T    Genetic Algorithm Tools
+  neural    T    Neural Network Tools
+
+See Also:
+
+  language/icon
+  language/lisp
+  language/prolog
+
+References:	?
+

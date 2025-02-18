@@ -1,0 +1,33 @@
+Package:	pgm_tool/b_utils
+
+Description:	binutils - GNU binary file utilities
+
+Version:	1.9
+
+Notes:
+
+  These files are some GNU utilities for operating on binary files.  GNU
+  make, which used to be included here, is now distributed in a separate
+  tar file.
+
+	.../README
+
+  The current set includes ar, getopt, gprof, ld, nm, objdump, ranlib,
+  robotussin, size, and strip.
+
+Language(s):    C
+
+Requirements:   ?
+
+Origin:         GNU Project, Free Software Foundation
+		(see a2z/origins/fsf.doc)
+
+See Also:
+
+  language
+  misc/f_utils
+
+Restrictions:   See a2z/text/gnu_gpl.txt
+
+References:	?
+

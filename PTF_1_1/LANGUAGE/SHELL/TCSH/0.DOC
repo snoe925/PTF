@@ -1,0 +1,25 @@
+Package:	language/shell/tcsh
+
+Description:	tcsh - modifications for csh.
+
+Version:	6.00.02
+
+Notes:
+
+  This is a nifty set of modifications for csh.  Unfortunately, you must
+  get a copy of csh sources in order to use it.  Sigh.  Well, maybe a freed
+  version of csh will emerge Real Soon Now.
+
+Language(s):    C
+
+Requirements:   ?
+
+Origin:         Cornell University
+		(see a2z/origins/cornell.doc)
+
+See Also:       ?
+
+Restrictions:   See .../README
+
+References:	?
+

@@ -1,0 +1,65 @@
+Topic:		(/)
+
+Description:	This is the top level directory of the PTF disc.
+
+Notes:
+
+  The sub-directory a2z contains administrative files which should be
+  inspected before any attempt is made to use the disc.  In addition,
+  the accompanying booklet should be read for hints on using the disc.
+  The a2z directory is laid out as follows:
+
+    a2z/
+      bin			scripts for using the disc
+      doc			assorted reference text files
+      lists			lists of packages, etc.
+      origins			information on package origins
+
+  The remaining sub-directories are the tops of topical directory trees.
+  These are (typically) structured as follows:
+
+    a/
+      0.doc			documentation file for topic a
+      aa/ 
+        0.doc			documentation file for topic aa
+        aaa/ 
+          0.doc			documentation file for package aaa
+          0.lst			summary listing file for package aaa
+          aaa.ltv		verbose tar(1) listing of aaa.atz
+          aaa.atz		compressed tar(1) archive
+      ab/ 
+        ...
+
+  There are some definite flaws with the current hierarchy.  We left some
+  major collections (e.g., window/x11/r5/mit) intact, to preserve their
+  structure.  In other cases (e.g., GNU), we folded collections into our
+  own structure.  This may cause packages to appear in places other than
+  where you might expect them.  In addition, some programs (e.g. compress)
+  show up multiple times, because several collections include them.  CDROM
+  real estate is cheap, so we decided to live with this.  In any event, we
+  expect to rearrange things in future releases, so let us know your
+  preferences...
+
+Contains:
+
+  a2z       A    Administrative directory for the PTF disc
+  ai        T    Artificial Intelligence Tools
+  archive   T    Archive Maintenance Tools
+  database  T    Data Base Maintenance Tools
+  datacomm  T    Data Communication Tools
+  desktop   T    Desktop Productivity Tools
+  docprep   T    Document Preparation Tools
+  game      T    Game Programs
+  gnu       T    GNU miscellanea
+  graphics  T    Graphics Programs
+  language  T    Computer Languages
+  misc      T    Miscellaneous Packages
+  os        T    Operating Systems
+  pgm_tool  T    Programming Tools
+  usenet    T    Usenet Archives
+  window    T    Window Systems
+
+See Also:	?
+
+References:	?
+

@@ -1,0 +1,34 @@
+Topic:		graphics/drawing/fig
+
+Description:	fig - Drawing Package
+
+Notes:
+
+  Fig (Facility for Interactive Generation of Figures) is a menu-driven tool
+  that allows the user to draw and manipulate objects interactively on the
+  screen of a Sun Workstation. It can only be run within the SunWindows
+  environment and requires a three-button mouse.
+  ...
+  The output from fig can be translated into one of several graphics
+  languages for printing or inclusion in troff(1) or TeX documents.
+  These languages include pic(1), postscript, LaTeX pictures, and pictex or
+  epic macros for TeX.  The preprocessors which implement these translations
+  are part of the TransFig software package.
+
+	.../fig.1
+
+Contains:
+
+  fig       P    original Fig
+  fig_fs    P    fig-fs - modified Fig
+  plot2fig  P    plot2fig - plot(1) to Fig filter
+  transfig  P    TransFig - Fig to TeX filter
+  xfig      P    xfig - Fig under X
+
+See Also:
+
+  graphics
+  window
+
+References:	?
+

@@ -1,0 +1,11 @@
+rwxrwxrwx 10/0      0 Mar  7 09:35 1990 fgrep-1.1/
+rw-rw-rw- 10/0    280 Mar  7 09:35 1990 fgrep-1.1/Makefile
+rw-rw-rw- 10/0   3808 Nov  8 18:32 1989 fgrep-1.1/std.h
+rw-rw-rw- 10/0  13097 Mar  7 09:33 1990 fgrep-1.1/fgrep.c
+rw-rw-rw- 10/0   2555 Oct 31 14:42 1989 fgrep-1.1/kwset.h
+rw-rw-rw- 10/0   9028 Nov  1 11:09 1989 fgrep-1.1/obstack.c
+rw-rw-rw- 10/0  15834 Nov  1 11:09 1989 fgrep-1.1/obstack.h
+rw-rw-rw- 10/0   2854 Nov  8 18:32 1989 fgrep-1.1/unix.h
+rw-rw-rw- 10/0  16961 Mar  7 09:29 1990 fgrep-1.1/kwset.c
+rw-rw-rw- 10/0    984 Nov  8 18:32 1989 fgrep-1.1/std.c
+rw-rw-rw- 10/0    820 Mar  7 09:34 1990 fgrep-1.1/README

@@ -1,0 +1,16 @@
+rwxrwxr-x5083/11      0 Feb 16 07:16 1988 tsystem/
+rw-rw-r--5083/11   4861 Feb 10 10:18 1988 tsystem/sunbuild.t
+rw-rw-r--5083/11  10837 Jan  7 13:02 1988 tsystem/dynload.c
+rw-r--r--5083/11   3096 Jan  7 13:02 1988 tsystem/expand.c
+rw-r--r--5083/11    473 Jan  7 13:02 1988 tsystem/float.c
+rwxr-xr-x5083/11    118 Jan  7 13:04 1988 tsystem/linkt
+rw-rw-r--5083/11     10 Jan  7 13:05 1988 tsystem/localfs.t
+rw-r--r--5083/11   2858 Jan  7 13:02 1988 tsystem/unassist.c
+rw-rw-r--5083/11   1815 Jan  7 13:02 1988 tsystem/dynload.o
+rw-rw-r--5083/11    825 Jan  7 13:02 1988 tsystem/expand.o
+rw-rw-r--5083/11    697 Jan  7 13:03 1988 tsystem/float.o
+rw-rw-r--5083/11    242 Jan  7 13:06 1988 tsystem/sun_start_t.o
+rw-r--r--5083/11    491 Jan  7 13:06 1988 tsystem/sun_start_t.s
+rw-rw-r--5083/11   1693 Jan  7 13:03 1988 tsystem/unassist.o
+rwxrwxr-x5083/112342912 Feb 12 08:49 1988 tsystem/xt
+rwxrwxr-x5083/11    323 Feb 10 06:18 1988 tsystem/envset

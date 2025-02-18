@@ -1,0 +1,36 @@
+Package:	language/sr/sr
+
+Description:	SR Programming Language
+
+Version:	1.1
+
+Notes:
+
+  This document surveys the changes introduced between Version 1.0 and
+  Version 1.1 of the SR Programming Language.  The revised language is
+  described more precisely in the reference manual.
+
+  New Platforms
+
+  SR now supports a wider variety of system architectures.  New systems 
+  include the Decstation 3100, the Sun 4, the NeXT computer system, and the
+  Hewlett-Packard 9000 (series 300 and 800).  SR can now also run on Vax
+  Ultrix systems if the GNU C compiler is available.  As a result of the
+  modifications these systems required, additional ports should be
+  considerably easier.
+
+	.../doc/release.ms
+
+Language(s):    C
+
+Requirements:   ?
+
+Origin:         SR Project, University of Arizona
+		(see a2z/origins/uaz.doc)
+
+See Also:       ?
+
+Restrictions:   See .../README
+
+References:	?
+

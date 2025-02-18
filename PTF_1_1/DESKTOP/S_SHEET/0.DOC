@@ -1,0 +1,21 @@
+Topic:		desktop/s_sheet
+
+Description:	Spreadsheets
+
+Notes:
+
+  Commercial spreadsheets have become megalithic application environments.
+  In the freeware arena, emacs fills that role (:-), so the spreadsheets
+  are relatively underpowered.  They should still be capable of doing the
+  usual kind of calculations, however.
+
+Contains:
+
+  oleo      P    oleo - GNU spreadsheeet
+
+See Also:
+
+  desktop/calc
+
+References:	?
+

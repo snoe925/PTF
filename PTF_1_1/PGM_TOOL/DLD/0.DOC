@@ -1,0 +1,32 @@
+Package:	pgm_tool/dld
+
+Description:	dld - dynamic link/unlink editor
+
+Version:	3.2.3
+
+Notes:
+
+  Dld is a library package of C functions that performs dynamic link editing.
+  Programs that use dld can add compiled object code to or remove such code
+  from a process anytime during its execution.  Loading modules, searching
+  libraries, resolving external references, and allocating storage for global
+  and static data structures are all performed at run time.
+  
+	.../doc/dld.texinfo
+
+Language(s):    C
+
+Requirements:   ?
+
+Origin:         GNU Project, Free Software Foundation
+		(see a2z/origins/fsf.doc)
+
+See Also:
+
+  pgm_tools/b_utils
+  language/c
+
+Restrictions:   See a2z/text/gnu_gpl.txt
+
+References:	?
+

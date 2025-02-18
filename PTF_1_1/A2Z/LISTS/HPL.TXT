@@ -1,0 +1,221 @@
+ai                       1421   T    Artificial Intelligence Tools
+.  connect               1118   T    Connectionist Tools
+.  .  gradsim             320   P    GRADSIM Connectionist Network Simulator
+.  .  planet              796   P    PlaNet - PDP Network Tool
+.  genetic                 63   T    Genetic Algorithm Tools
+.  .  genesis              60   P    GENESIS (GENEtic Search Impl. System)
+.  neural                 238   T    Neural Network Tools
+.  .  atree               236   P    atree - Adaptive Logic Network (ALN) sim.
+archive                  1109   T    Archive Maintenance Tools
+.  compress               155   P    compress - file compression utilities
+.  cpio                   127   P    GNU cpio(1)
+.  tar                    825   T    tar - maintain tape archives
+.  .  gnu_tar             823   P    GNU tar(1)
+database                  975   T    Data Base Maintenance Tools
+.  ingres                 973   T    INGRES Data Base Management System
+.  .  ingres              971   P    University INGRES RDBMS
+datacomm                43499   T    Data Communication Tools
+.  netnews               6090   T    Netnews readers, back ends, etc.
+.  .  anu_news           4252   P    ANU NEWS
+.  .  cnews               756   P    c-news
+.  .  tmnn               1080   P    tmnn - Teenage Mutant Ninja Netnews
+.  network               3796   T    Network Administration Tools
+.  .  athena             3318   T    Project Athena
+.  .  .  hesiod           315   P    hesiod - the Project Athena nameserver
+.  .  .  moira           1822   P    moira - Project Athena Service Mgt. System
+.  .  .  tools            173   P    Assorted Athena Tools
+.  .  .  zephyr          1005   P    zephyr - Project Athena Service Mgt. System
+.  .  finger              196   P    finger - GNU finger
+.  .  isode                25   P    isode - ISO Development Environment
+.  .  sos                 255   P    SOS - Stan's Own (NFS) Server
+.  online               33611   T    On-line (Interactive) Data Comm. Tools
+.  .  kermit            33609   T    Kermit Terminal Emulator
+.  .  .  columbia       33607   P    Columbia Kermit Distribution
+desktop                  1396   T    Desktop Productivity Tools
+.  calc                  1106   T    Desk Calculator
+.  .  calc               1104   P    calc - GNU desk calculator
+.  s_sheet                288   T    Spreadsheets
+.  .  oleo                286   P    oleo - GNU spreadsheeet
+docprep                 34679   T    Document Preparation Tools
+.  check                  249   T    Document Checking Tools
+.  .  ispell              247   P    ispell - GNU spelling checker
+.  edit                 11309   T    Text Editors
+.  .  crisp              1317   P    CRISP - Programmers Editor
+.  .  emacs              9756   T    The Emacs Text Editor
+.  .  .  elisp           1634   T    elisp - Emacs Lisp
+.  .  .  .  el_man       1632   P    GNU Elisp Manual
+.  .  .  emacs           4332   P    emacs - GNU Emacs
+.  .  .  epoch           3788   P    emacs - GNU Emacs for X
+.  .  vi                  234   T    The VI Text Editor
+.  .  .  elvis            232   P    elvis - GNU vi
+.  format               22375   T    Text Formatters
+.  .  tex               21172   T    TeX and related packages
+.  .  .  latex              6   T    The LaTeX System
+.  .  .  .  latex           3   P    LaTeX
+.  .  .  metafont           6   T    The METAFONT System
+.  .  .  .  metafont        3   P    METAFONT
+.  .  .  tex                6   T    TeX
+.  .  .  .  tex             3   P    TeX
+.  .  .  texinfo          887   P    texinfo - documentation system
+.  .  .  unixtex        20265   P    The unixtex distribution
+.  .  troff              1201   T    The Troff System
+.  .  .  groff           1163   P    groff - GNU troff(1)
+.  .  .  texi2rof          34   P    texi2roff - Texinfo to *roff filter
+.  misc                   744   T    Miscellaneous Document Preparation Tools
+.  .  jargon              493   P    jargon - GNU/MIT Jargon file, etc.
+.  .  t_utils             249   P    t_utils - GNU text utilities
+game                     1175   T    Game Programs
+.  chess                  292   T    The Game of Chess
+.  .  gnuchess            290   P    gnuchess - GNU Chess game
+.  empire                 831   P    BSD Empire
+.  go                      50   T    The Game of Go
+.  .  gnugo                48   P    gnugo - GNU Go game
+gnu                     55239   T    GNU miscellanea
+.  cygnus               54051   P    Cygnus Vintage GNU Release
+.  gnudos                1186   P    GCC for DOS
+graphics                33399   T    Graphics Programs
+.  dataplot             25422   T    Data Plotting Programs
+.  .  gnuplot             510   P    gnuplot - an interactive plotting program
+.  .  graphics            426   P    GNU graphics utilities
+.  .  ncsa              24484   T    NCSA Data Analysis and Display Tools
+.  .  .  hdf             2423   P    NCSA Hierarchical Data Format Tools
+.  .  .  samples         7085   P    NCSA Sample Data
+.  .  .  unix           14974   P    NCSA UNIX-based tools
+.  drawing               1299   T    Drawing Programs
+.  .  fig                1297   T    fig - Drawing Package
+.  .  .  fig              216   P    original Fig
+.  .  .  fig_fs           195   P    fig-fs - modified Fig
+.  .  .  plot2fig          33   P    plot2fig - plot(1) to Fig filter
+.  .  .  transfig         342   P    TransFig - Fig to TeX filter
+.  .  .  xfig             509   P    xfig - Fig under X
+.  img_proc              4936   T    Image Processing Tools
+.  .  fbm                 276   P    FBM - Fuzzy PixMap library
+.  .  jpeg                287   P    jpeg - JPEG tools
+.  .  tiff               1190   P    tiff - Tagged Image File Format tools
+.  .  urt                3180   P    urt - Utah Raster Toolkit
+.  library               1049   T    Graphics Libraries
+.  .  vogl                489   P    VOGL - Very Ordinary Graphics Library
+.  .  vogle               481   P    VOGLE - Graphics Learning Environment
+.  .  vopl                 77   P    VOPL - Very Ordinary Plotting Library
+.  render                 690   T    Rendering Programs
+.  .  vort                688   P    VORT - Very Ordinary Rendering Tool-kit
+language               122213   T    Computer Languages
+.  abc                   2003   P    The ABC Programming Language
+.  assembly               476   T    Assembly Language Tools
+.  .  as                  474   T    Assemblers
+.  .  .  gas              472   P    gas - GNU as
+.  awk                    823   T    The AWK Programming Language
+.  .  gawk                819   P    gawk - GNU AWK
+.  bc                     146   T    bc - arbitrary precision desk calculator
+.  .  gnu_bc              144   P    gnu_bc - GNU bc
+.  c                    19196   T    C Language Tools
+.  .  btool              2167   P    btool - measure C branch coverage
+.  .  gcc                6840   P    cpp - GNU C compiler
+.  .  gdb                9694   P    gdb - GNU debugger
+.  .  library             492   T    C Language Libraries
+.  .  .  gmp              260   P    gmp - GNU multiple precision (MP) library
+.  .  .  readline         230   P    GNU history and readline libraries
+.  c_p_p                 7574   T    The C++ Programming Language
+.  .  g_p_p              4696   P    g++ - GNU C++
+.  .  libg_p_p           2144   P    libg++ - GNU C++ library
+.  .  nihcl               730   P    NIHCL - NIH (C++) Class Library
+.  clu                  10087   P    CLU
+.  forth                  259   T    Forth Language Tools
+.  .  t_forth             254   P    TILE Forth
+.  icon                 10382   T    The Icon Programming Language
+.  .  bibleref           3929   P    Bibleref - Icon-based Bible browser
+.  .  icon               2027   P    icon - Icon interpreter
+.  .  iconc              1182   P    iconc - Icon compiler
+.  .  library            3241   P    Icon program library, etc.
+.  lex                    207   T    The Lex Programming Language
+.  .  flex                205   P    flex - GNU lex
+.  lisp                 61019   T    Lisp Language Tools
+.  .  ew                 1085   P    EW - Express Windows
+.  .  kcl                1044   T    KCL - Kyoto Common Lisp
+.  .  .  akcl            1028   P    AKCL - Austin Kyoto Common Lisp
+.  .  .  kcl                2   P    KCL - Kyoto Common Lisp
+.  .  .  low               11   P    low for Kyoto Common Lisp (KCL)
+.  .  leif                727   P    Leif - Language Oriented Editor
+.  .  pcl                 570   P    PCL - Portable CommonLoops
+.  .  scheme            40907   T    The SCHEME Programming Language
+.  .  .  bench             29   P    Assorted Scheme Benchmarks
+.  .  .  oaklisp         2180   P    The CMU implementation of Oaklisp
+.  .  .  scheme         38694   P    Scheme for assorted machines
+.  .  t                 16684   P    T - dialect of Lisp
+.  m4                     318   T    m4 Language Tools
+.  .  gnu_m4              316   P    GNU m4 clone
+.  p_script              2000   T    PostScript Language Tools
+.  .  g_script           1997   P    GhostScript - GNU PostScript interpreter
+.  perl                   824   T    Practical Extraction and Report Language
+.  .  perl                821   P    Practical Extraction and Report Language
+.  prolog                 812   T    The Prolog Programming Language
+.  .  sbprolog            807   P    The SB-Prolog system
+.  s_talk                 538   T    Smalltalk Language Tools
+.  .  gnu_st              535   P    GNU SmallTalk
+.  sed                     87   T    The Sed Programming Language
+.  .  gnu_sed              85   P    GNU sed
+.  shell                 2147   T    The Shell Programming Language
+.  .  bash                904   P    bash - GNU Bourne Again SHell
+.  .  rc                  151   P    rc
+.  .  s_utils             234   P    shellutils - GNU Shell Utilities
+.  .  tcsh                523   P    tcsh - modifications for csh.
+.  .  tput                 68   P    tput - Portable Terminal Control Utility
+.  .  zsh                 264   P    zsh - the Z shell
+.  sr                    1401   T    The SR Programming Language
+.  .  sr                 1397   P    SR Programming Language
+.  tcl                   1242   T    Tcl - an embeddable command language
+.  .  expect              190   P    expect - Interactive Program Harness
+.  .  tcl                 233   P    Tcl - Tool Command Language
+.  .  tk                  817   P    The Tk Toolkit for X11
+.  txl                    411   T    TXL - Tree Transformation Language
+.  .  txl                 409   P    TXL - Tree Transformation Language
+.  yacc                   258   T    The Yacc Programming Language
+.  .  bison               256   P    bison - GNU yacc
+misc                      783   T    Miscellaneous Packages
+.  f_utils                225   P    fileutils - GNU file utilities
+.  find                   191   P    find - GNU find, etc.
+.  grep                   132   T    grep, fgrep, etc.
+.  .  fgrep                34   P    GNU fgrep
+.  .  grep                 96   P    GNU grep
+.  less                   158   P    less - GNU more (more or less)
+.  ms                      75   P    MandelSpawn - network Mandelbrot
+os                       3821   T    Operating Systems
+.  mach                  3292   P    The Mach operating system
+.  mdqs                   527   P    MDQS - Multi-Device Queueing System
+pgm_tool                 2660   T    Programming Tools
+.  b_utils                294   P    binutils - GNU binary file utilities
+.  cvs                    159   P    cvs - Concurrent Version System
+.  diff                   149   P    diff - GNU file difference analyzer
+.  dld                    175   P    dld - dynamic link/unlink editor
+.  indent                  73   P    indent - indent and format C program source
+.  make                  1285   P    make - dependency driven programming language
+.  patch                   75   P    patch - update files per a diff file
+.  rcs                    358   P    rcs - Revision Control System
+.  time                    90   P    GNU time
+usenet                 117262   T    Usenet Archives
+.  comp                117259   T    "comp" Usenet Archives
+.  .  sources          117257   T    "comp.sources" Usenet Archives
+.  .  .  3b1              777   P    "comp.sources.3b1" Usenet Archives
+.  .  .  amiga             11   P    "comp.sources.amiga" Usenet Archives
+.  .  .  games             31   P    "comp.sources.games" Usenet Archives
+.  .  .  misc           39841   P    "comp.sources.misc" Usenet Archives
+.  .  .  reviewed         606   P    "comp.sources.reviewed" Usenet Archives
+.  .  .  sun             2502   P    "comp.sources.sun" Usenet Archives
+.  .  .  unix           48082   P    "comp.sources.unix" Usenet Archives
+.  .  .  x              25405   P    "comp.sources.x" Usenet Archives
+window                  30269   T    Window Systems
+.  andrew               10598   P    The Andrew Distribution
+.  i_views              14570   P    InterViews - window-based appl. env.
+.  news                  1340   T    NeWS - Network/extensible Window System
+.  .  h_news             1337   P    HyperNeWS - window-based appl. env.
+.  screen                  57   P    screen - window system
+.  serpent               3605   P    Serpent user interface management system
+.  x11                     97   T    The X Window System, Version 11
+.  .  r5                   91   T    X Window System, Vers. 11, Rel. 5
+.  .  .  andrew             3   P    Andrew - Andrew Window code
+.  .  .  athena             3   P    Athena Demonstration Programs
+.  .  .  mit               19   P    X Window System, Version 11 (MIT files)
+.  .  .  pbmplus            3   P    pbmplus - Poskanzer Bit Map Utilities
+.  .  .  pex                3   P    pex - PHIGS Extension to X
+.  .  .  xinfo             55   P    xinfo - X Info Widget
+.  .  .  xview              3   P    XView - SunView-like API

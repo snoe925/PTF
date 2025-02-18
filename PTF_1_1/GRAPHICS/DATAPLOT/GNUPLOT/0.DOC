@@ -1,0 +1,63 @@
+Package:	graphics/dataplot/gnuplot
+
+Description:	gnuplot - an interactive plotting program
+
+Version:	3.0
+
+Notes:
+
+  Gnuplot is a command-driven interactive function plotting program.
+
+  If files are given, gnuplot loads each file with the load command, in the
+  order specified.  Gnuplot exits after the last file is processed.
+
+  Here are some of its features:
+
+  Plots any number of functions, built up of C operators, C library functions,
+  and some things C doesn't have like **, sgn(), etc.  Also support for
+  plotting data files, to compare actual data to theoretical curves.
+
+  User-defined X and Y ranges (optional auto-ranging), smart axes scaling,
+  smart tic marks.
+
+  Labelling of X and Y axes.
+
+  User-defined constants and functions.
+
+  Support through a generalized graphics driver for AED 512, AED 767, BBN
+  BitGraph, Commodore Amiga, Roland DXY800A, EEPIC, EmTeX, Epson 60dpi
+  printers, Epson LX-800, Fig, HP2623, HP2648, HP75xx, HPGL, HP LaserJet II,
+  Imagen, Iris 4D, Kermit-MS, Kyocera laser printer, LaTeX, NEC CP6 pinwriter,
+  PostScript, QMS QUIC, ReGis (VT125 and VT2xx), SCO Xenix CGI, Selanar, Star
+  color printer, Tandy DMP-130 printer, Tek 401x, Tek 410x, Vectrix 384, VT
+  like tekronix emulator, Unix PC (ATT 3b1 or ATT 7300), unixplot, and X11.
+  The PC version compiled by Microsoft C supports IBM CGA, EGA, VGA, Hercules,
+  ATT 6300, and Corona 325 graphics.  The PC version compiled by Turbo C
+  supports IBM CGA, EGA, MCGA, VGA, Hercules and ATT 6300 graphics.  Other
+  devices can be added simply, but will require recompiling.
+
+  Shell escapes and command line substitution.
+
+  Load and save capability.
+
+  Output redirection.
+
+  All computations performed in the complex domain.  Just the real part is
+  plotted by default, but functions like imag() and abs() and arg() are
+  available to override this.
+
+	.../docs/gnuplot.1
+
+Language(s):    C
+
+Requirements:   some kind of graphics device (see above)
+
+Origin:         Pixar
+		(see a2z/origins/pixar.doc)
+
+See Also:       ?
+
+Restrictions:   See .../Copyright
+
+References:	?
+

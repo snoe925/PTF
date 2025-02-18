@@ -1,0 +1,25 @@
+Package:	database/ingres/ingres
+
+Description:	University INGRES RDBMS
+
+Version:	ingres89 (8.9)
+
+Notes:
+
+  This version of INGRES  is not what you would get from a commercial
+  provider.  It isn't as fast, bullet-proof, or full-featured.  Nonetheless,
+  a number of sites use it on a regular basis.  And the price is right...
+
+Language(s):    C
+
+Requirements:   ?
+
+Origin:         INGRES Project, UC Berkeley
+		(see a2z/origins/ucb.doc)
+
+See Also:       ?
+
+Restrictions:   See .../README
+
+References:	?
+

@@ -1,0 +1,503 @@
+fsf.doc
+=======
+
+Free Software Foundation
+675 Massachusetts Avenue
+Cambridge, MA  02139
+
+GNU Project
+-----------
+
+  ftp:	prep.ai.mit.edu
+	altdorf.ai.mit.edu (scheme)
+
+For any GNU programs without specific sections below, refer to the "default"
+notes at the end of this file.
+
+
+bash (GNU Bourne Again Shell)
+-----------------------------
+
+  Bug reports for 1.10 should be sent to:
+
+        bash-maintainers@ai.mit.edu
+
+  The discussion list "bug-bash@ai.mit.edu" often contains information
+  about new ports of Bash, or discussions of new features or behaviour
+  changes that people would like.  This mailing list is also available
+  as a news feed in gnu.bash.bug.
+
+  When you send a bug report to bash-maintainers@ai.mit.edu, please
+  include:
+
+    * the version number of Bash
+    * the machine and OS that it is running on (see .machine or .made)
+    * a description of the bug
+    * a recipe for recreating the bug reliably
+    * a fix for the bug if you have one!
+
+  While the maintainers of Bash do not promise to fix all bugs, we would
+  like this shell to be the best that we can make it.
+
+
+Calc (advanced desk calculator for GNU Emacs)
+---------------------------------------------
+
+  Written and maintained by:
+
+    Dave Gillespie
+    256-80 Caltech
+    Pasadena CA 91125
+    daveg@synaptics.com, uunet!synaptx!daveg
+    or: daveg@csvax.cs.caltech.edu, cit-vax!daveg
+
+
+cvs (Concurrent Version System)
+-------------------------------
+
+  PLEASE report any problems to me, berliner@sun.com (Brian Berliner)
+  and I will try to collect patches and enhancements into future CVS
+  distributions.  "patch" format files are best, using context diffs,
+  if you will.
+
+  GOOD LUCK!
+
+  Brian Berliner
+  berliner@sun.com
+
+
+dld (dynamic link/unlink editor)
+--------------------------------
+
+  I've received quite a number of suggestions for improvements, new features,
+  and debugging support.  I'll incorporate them in release 3.3--whenever I
+  have time to work on it!
+
+  Wilson Ho (how@cs.ucdavis.edu)
+  Wed May 29 22:21:31 PDT 1991
+
+  P.S.  Port for Atari is contributed by Edgar Roeder.  See ChangeLog
+
+
+elvis (vi clone)
+----------------
+
+  Author: Steve Kirkendall
+
+  E-mail: kirkenda@cs.pdx.edu
+
+  Snail   14407 SW Teal Blvd.  Apt.C
+   Mail:  Beaverton, OR   97005
+
+  Phone:  (503) 643-6980
+
+
+fgrep, grep (GNU versions)
+--------------------------
+
+  Correspondence regarding this program should be addressed directly
+  to me, mike@ai.mit.edu, *not* bug-gnu-utils.  Enjoy.
+
+        Mike Haertel
+        mike@ai.mit.edu
+
+
+flex (GNU lex)
+--------------
+
+  Please send problems and feedback to:
+
+    vern@cs.cornell.edu
+    decvax!cornell!vern
+
+    Vern Paxson
+    CS Department
+    4126 Upson Hall
+    Cornell University
+    Ithaca, NY 14853-7501
+
+
+g_p_p (GNU C++)
+---------------
+
+  For questions concerning GNU CC and GDB, the Free Software Foundation
+  maintains the following address:
+ 
+    The Free Software Foundation
+    675 Massachusetts Avenue
+    Cambridge, MA 02139
+
+    Phone: (617) 876 - 3296
+
+  Cygnus Support provides commercial support for GNU C++ on a fixed-fee
+  basis.  If you want support, or have support-related questions, please
+  contact:
+
+    Cygnus Support
+    814 University Avenue
+    Palo Alto, CA 94301
+
+    Phone: (415) 322-3811
+
+
+g_script (GNU PostScript)
+-------------------------
+
+  If you have problems with Ghostscript, contact
+
+    Aladdin Enterprises
+    P.O. box 60264
+    Palo Alto, CA 94306
+    (415)322-0103
+    ...{uunet,decwrl}!aladdin!ghost
+    ghost@aladdin.com
+
+  The best times to call on the phone are 8:30-11:30 AM Monday-Friday;
+  at other times you may get an answering machine.  Only use the
+  Internet if your organization or activity allows this -- the UUCP
+  path works just as well, but may take longer.
+
+  If you report a problem, please specify which version of Ghostscript
+  you are running, and the hardware, operating system, window system,
+  and C compiler you are using, and be as specific as you can about the
+  problem -- this will help us a lot in tracking it down.  We want
+  Ghostscript to be a high-quality product, and will do our best to fix
+  any reported problem.
+
+
+g_st (GNU SmallTalk)
+---------------------
+
+  GNU Smalltalk version 1.1.1
+  by Steve Byrne
+
+  To report bugs or suggestions (or even offer assistance :-) ), send mail
+  to bug-gnu-smalltalk@prep.ai.mit.edu.  Bugs reported here will be echoed
+  to the gnu.smalltalk.bug newsgroup.
+
+
+gas (GNU as)
+------------
+
+  Bugs in gas should be reported to bug-gnu-utils@prep.ai.mit.edu
+  If you can't get through to prep, try hack@gnu.ai.mit.edu or
+  hack@media-lab.media.mit.edu
+
+  If you report a bug in GAS, please remember to include:
+
+    A description of exactly what went wrong.
+
+    The type of machine GAS was running on (VAX, 68020, etc),
+
+    The Operating System GAS was running under.
+
+    The options given to GAS.
+
+    The actual input file that caused the problem.
+
+    It is silly to report a bug in GAS without including an input file for
+    GAS.  Don't ask us to generate the file just because you made it from
+    files you think we have access to.
+
+      1. You might be mistaken.
+
+      2. It might take us a lot of time to install things to regenerate that
+         file.
+
+      3. We might get a different file from the one you got, and might not
+         see any bug.
+
+    To save us these delays and uncertainties, always send the input file
+    for the program that failed.
+
+    If the input file is very large, and you are on the internet, you may
+    want to make it avaliable for anonymous FTP instead of mailing it.  If
+    you do, include instructions for FTP'ing it in your bug report.
+
+
+gawk (GNU AWK)
+--------------
+
+  Please coordinate changes through David Trueman and/or Arnold Robbins.
+
+  David Trueman
+  Department of Mathematics, Statistics and Computing Science,
+  Dalhousie University, Halifax, Nova Scotia, Canada
+
+  UUCP            {uunet utai watmath}!dalcs!david
+  INTERNET        david@cs.dal.ca
+
+  Arnold Robbins
+  1736 Reindeer Drive
+  Atlanta, GA, 30329, USA
+
+  INTERNET:       arnold@skeeve.atl.ga.us
+  UUCP:           { gatech, emory, emoryu1 }!skeeve!arnold
+
+
+gnu_m4 (GNU m4)
+---------------
+
+  Send bug reports to me (Rene' Seindal, email: seindal@diku.dk) or to
+  bug-gnu-utils@prep.ai.mit.edu.
+
+  ALL bug reports should include:
+
+    * The version number of m4
+    * The hardware and operating system
+    * The compiler used to compile
+    * A description of the bug behaviour
+    * The input to m4, that triggered the bug
+    * A transcript of the output from m4
+
+  If I can't reproduce the bug, there is really not much I can do about it.
+
+  Again, since I have no access to System V machines, I can't do much about
+  bugs, that are System V specific, unless, of course, the bug reports are
+  accompanied by patches/fixes.
+
+
+gnudos (GCC for DOS)
+--------------------
+
+  Contact:  Vladan Djakovic, IDT, Santa Clara, CA.
+
+
+gnugo (GNU Go game)
+-------------------
+
+  Please report any bug/fix, modification, suggestion to
+
+  mail address:   Man L. Li
+                  Dept. of Computer Science
+                  University of Houston
+                  4800 Calhoun Road
+                  Houston, TX 77004
+
+  e-mail address: manli@cs.uh.edu         (Internet)
+                  coscgbn@uhvax1.bitnet   (BITNET)
+                  70070,404               (CompuServe)
+
+
+gnuplot (GNU graphics utilities)
+---------------------------------
+
+  see a2z/origins/pixar.doc
+
+
+graphics (GNU graphics utilities)
+---------------------------------
+
+  The alpha distribution is available via anonymous ftp from
+  qed.rice.edu (128.42.4.38) in /pub/graphics.tar.Z.  Ready to print
+  documentation in postscript form is in /pub/graphics.ps.Z, and
+  info-ized documentation is in /pub/info/graphics.info.
+
+  Comments, suggestions and bug reports (please specify your machine
+  architecture and operating system version) are welcome.  Send them to
+  Rich@Rice.edu, or bug-gnu-utils@prep.ai.mit.edu.
+
+
+groff (GNU troff)
+-----------------
+
+  Please report bugs using the form in the file BUG-REPORT; the idea of
+  this is to make sure that I have all the information I need to fix the
+  bug.  At the very least, read the BUG-REPORT form and make sure that
+  you supply all the information that it asks for.  Even if you are not
+  sure that something is a bug, report it using BUG-REPORT: this will
+  enable me to determine whether it really is a bug or not.  As well as
+  bug reports, I would be interested in suggestions for improvements to
+  groff (no matter how small).
+
+  James Clark
+  jjc@jclark.uucp
+  jjc%jclark@mcsun.eu.net
+  jjc@gnu.ai.mit.edu
+
+
+ispell (GNU spelling checker)
+-----------------------------
+
+  My eternal gratitude to the author of ispell -- I don't know how I
+  ever lived without it.  I received his permission to post ispell to
+  the net and have added a GNU EMACS interface.  Look in the file
+  ispell.el for installation instructions.
+
+  As far as I know, no one informally "supports" this program.  If you
+  would like to "adopt" it (collect fixes/enhancements and post a new
+  version periodically), feel free to do so.
+
+  I volunteer to collect dictionary diffs and post a composite diff
+  periodically.  If you add a lot of words to the main dictionary, send
+  me the diffs between the the modified dictionary and the posted one.
+  Also, if you have access to a TOPS20 system with a more complete
+  dictionary in ispell format, send me the diffs if you can.  Just
+  PLEASE don't dump an entire dictionary to our site!
+ 
+  The dictionary posted is one I snarfed from around here -- after
+  comparison with the one originally supplied, ours appears a tad more
+  complete and accurate.
+
+  Walt Buehring
+  Texas Instruments - Computer Science Center
+
+  ARPA:  Buehring%TI-CSL@CSNet-Relay
+  UUCP:  {smu, texsun, im4u, rice} ! ti-csl ! buehring
+
+
+less (GNU more)
+---------------
+
+  If you have any problems building or running "less", 
+  suggestions, complaints, etc., you may mail to the 
+  author via USENET at:
+        sun      \
+        uunet     } !pyramid!ctnews!unix386!mark
+        hplabs   /
+
+
+
+libg_p_p (GNU C++ library)
+--------------------------
+
+  There is now a gnu libg++ mailing list (bug-lib-g++@prep.ai.mit.edu) and
+  associated usenet gnu news group.
+ 
+  You will be performing a valuable service if you use libg++ classes and
+  report back any comments, and suggestions, or bugs, preferably to the
+  bug-lib-g++ list.  Your feedback is extremely helpful in efforts to make
+  libg++ as useful and reliable as possible.
+ 
+  I continue to solicit
+ 
+    * bug reports.
+    * suggestions.
+    * comments.
+    * questions about installing and using libg++
+    * other contributions to be incorporated into libg++.
+    * sample programs using libg++.
+ 
+  Often, the best place to send such things is bug-lib-g++@prep.ai.mit.edu,
+  although direct mail to me is also welcome.
+ 
+  Good luck!
+ 
+  Doug Lea, Comp. Sci. Dept., SUNY Oswego, Oswego, NY, 13126 315-341-2367
+  email: dl@g.oswego.edu            or dl@cat.syr.edu
+  UUCP :...cornell!devvax!oswego!dl or ...rutgers!sunybcs!oswego!dl
+
+
+gmp (GNU MP library)
+--------------------
+
+  If you find a bug in the library, please make sure to tell us about it!
+
+  You can report bugs, and propose modifications and enhancements to
+  tege@gnu.ai.mit.edu.  How to report a bug is further described in
+  the texinfo documentation, see the file gmp.texi.
+
+  Torbjorn Granlund
+
+
+oleo (GNU spreadsheet)
+----------------------
+
+  Send questions, comments, bugs, bugfixes, patches, etc to:
+        hack@gnu.ai.mit.edu
+
+
+patch, perl
+-----------
+
+  IMPORTANT!  Help save the world!  Communicate any problems and
+  suggested patches to me, lwall@jpl-devvax.Jpl.Nasa.Gov (Larry Wall),
+  so we can keep the world in sync.  If you have a problem, there's
+  someone else out there who either has had or will have the same problem.
+
+  If possible, send in patches such that the patch program will apply them.
+  Context diffs are the best, then normal diffs.  Don't send ed scripts--
+  I've probably changed my copy since the version you have.
+
+  Watch for patch patches in net.sources.bugs.  Patches will generally be in
+  a form usable by the patch program.  If you are just now bringing up patch
+  and aren't sure how many patches there are, write to me and I'll send any
+  you don't have.  Your current patch level is shown in patchlevel.h.
+
+  Watch for perl patches in comp.lang.perl.  Patches will generally be
+  in a form usable by the patch program.  If you are just now bringing up
+  perl and aren't sure how many patches there are, write to me and I'll send
+  any you don't have.  Your current patch level is shown in patchlevel.h.
+
+
+rcs (Revision Control System)
+-----------------------------
+
+  Report problems and direct all questions to: rcs-bugs@cs.purdue.edu
+
+
+screen (window system)
+----------------------
+
+  Oliver Laumann, Technical University of Berlin, Germany.
+  pyramid!tub!net  net@TUB.BITNET  net@tub.cs.tu-berlin.de
+
+
+t_forth (TILE FORTH)
+--------------------
+
+  Mikael R.K. Patel
+  Computer Aided Design Laboratory (CADLAB)
+  Department of Computer and Information Science
+  Linkoping University
+  S-581 83 LINKOPING
+  SWEDEN
+  Email: mip@ida.liu.se
+
+  N.B.  This is a *shareware* package
+
+
+texi2rof (TeXinfo to *roff)
+---------------------------
+
+  Please report any portability (and other) problems you encounter.
+
+  Several people have asked me whether programs exist to convert TeX and
+  LaTeX documents to troff.  I don't know of any.  If I were to write one,
+  I think I would first write a customised macro package for troff that a
+  texi2roff-like program would translate to.
+
+  If someone would like to collaborate on such a project, please contact me.
+ 
+  Beverly Erlebacher      ...uunet!utai!erlebach  erlebach@cs.toronto.edu
+  8 Roblocke Ave.
+  Toronto, Ontario, Canada  M6G 3R7
+
+
+texinfo
+-------
+
+  Bugs to bob@gnu.ai.mit.edu.  I maintain the Emacs Lisp files and the
+  manual.  I forward bug reports for info, makeinfo, and texindex to
+  bfox@gnu.ai.mit.edu, reports for texinfo.tex to rms@gnu.ai.mit.edu,
+  and reports for texi2dvi to roland@gnu.ai.mit.edu.
+
+
+xinfo (X widget)
+----------------
+
+  Questions, suggestions, bug fixes or large anonymous cash donations
+  (all currencies accepted) should be sent to:
+
+    Jordan Hubbard
+
+    ARPA:   jkh@meepmeep.pcs.com
+    (OR):   jkh@meepmeep.pcs.de   (europe)
+
+
+default
+-------
+
+  Send bug reports to bug-gnu-utils@prep.ai.mit.edu.  Please include the
+  version number from version.c, and a complete, self-contained test
+  case in each bug report.

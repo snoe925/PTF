@@ -1,0 +1,26 @@
+Topic:		archive/tar
+
+Description:	tar - maintain tape archives
+
+Notes:
+
+  Tar was originally written as a way to package multiple files and
+  directories into a single tape file.  It has since become the de facto
+  standard for UNIX freeware archiving.  Compressed (see archive/compress)
+  tar archives are the default for most anonymous FTP sites, distribution
+  tapes, etc.
+
+  Unfortunately, while System V has a utility named "tar", it has been
+  modified to such an extent that it cannot handle normal tar archives.
+  Consequently, we are fortunate to have freeware versions to fall back on.
+
+Contains:
+
+  gnu_tar   P    GNU tar(1)
+
+See Also:
+
+  archive/compress
+
+References:	?
+

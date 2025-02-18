@@ -1,0 +1,23 @@
+Package:	usenet/comp/sources/reviewed
+
+Description:	"comp.sources.reviewed" Usenet Archives
+
+Version:	volume 1
+
+Notes:
+
+  This is a collection of "reviewed" programs.  The moderator thought these
+  were ready to pass on, so they should be in pretty good shape.
+
+Language(s):    C
+
+Requirements:   varies by program
+
+Origin:         See a2z/origins/usenet.doc
+
+See Also:	?
+
+Restrictions:	?
+
+References:	?
+

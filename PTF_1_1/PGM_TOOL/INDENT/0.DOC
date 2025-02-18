@@ -1,0 +1,30 @@
+Package:	pgm_tool/indent
+
+Description:	indent - indent and format C program source
+
+Version:	5.5
+
+Notes:
+
+  The indent program changes the appearance of a C program by inserting or
+  deleting whitespace.  It can be used to make code easier to read.  It can
+  also convert from one style of writing C to another.
+
+  indent understands a substantial amount about the syntax of C, but it also
+  attempts to cope with incomplete and misformed syntax.
+
+	.../indent.texinfo
+
+Language(s):    C
+
+Requirements:   ?
+
+Origin:         GNU Project, Free Software Foundation
+		(see a2z/origins/fsf.doc)
+
+See Also:       ?
+
+Restrictions:   See a2z/text/gnu_gpl.txt
+
+References:	?
+

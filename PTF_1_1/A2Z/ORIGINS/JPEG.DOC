@@ -1,0 +1,37 @@
+jpeg.doc
+========
+
+  The Independent JPEG Group
+
+
+JPEG
+----
+
+  This software is still undergoing revision.  Updated versions may be
+  obtained by anonymous FTP to uunet.uu.net; look under directory
+  /graphics/jpeg.  This particular version will be archived as
+  jpegsrc.v1.tar.Z.  If you don't have access to Internet FTP, UUNET's
+  archives are also available via UUCP; contact postmaster@uunet.uu.net
+  for information on retrieving files that way.
+
+  Please report any problems with this software to jpeg-info@uunet.uu.net.
+
+  If you intend to become a serious user of this software, please contact
+  jpeg-info@uunet to be added to our electronic mailing list.  Then you'll be
+  notified of updates and have a chance to participate in discussions, etc.
+
+  This software is the work of Tom Lane, Philip Gladstone, Luis Ortiz, and other
+  members of the independent JPEG group.
+
+  ...
+
+  We'd appreciate it if people would compile and check out the code on as
+  wide a variety of systems as possible, and report any portability problems
+  encountered (with solutions, if possible).  Checks of file compatibility
+  with other JPEG implementations would also be of interest.  Finally, we
+  would appreciate code profiles showing where the most time is spent,
+  especially on unusual systems.
+
+  Please send bug reports, offers of help, etc. to jpeg-info@uunet.uu.net.
+
+	.../README

@@ -1,0 +1,31 @@
+Package:	window/x11/r5/athena
+
+Description:	Athena Demonstration Programs
+
+Version:	?
+
+Notes:
+
+  The Athena code is scattered all over the X11R5 distribution.  Here is
+  a list of the major directories:
+
+    .../r5/mit/con_1	contrib/clients/pixmap/PixmapAthenaAD
+
+    .../r5/mit/con_2	contrib/lib/Selfmoving/Athena_demo/
+    .../r5/mit/con_2	contrib/lib/graphlib/lib/buttons/b_athena.c
+    .../r5/mit/con_2	contrib/lib/Wcl/Ari/AriAthenaP.h
+    .../r5/mit/con_2	contrib/lib/Wcl/DemosAthena/
+    .../r5/mit/con_2	contrib/lib/Wcl/test_athena
+
+Language(s):    C
+
+Requirements:   bit-mapped printing or display device
+
+Origin:		See window/x11/r5
+
+See Also:	?
+
+Restrictions:   See window/x11/r5
+
+References:	?
+

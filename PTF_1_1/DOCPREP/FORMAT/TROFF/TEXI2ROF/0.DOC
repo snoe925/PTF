@@ -1,0 +1,26 @@
+Package:	docprep/format/troff/texi2rof
+
+Description:	texi2roff - Texinfo to *roff filter
+
+Version:	2
+
+Notes:
+
+  Texi2roff translates the named file s from the Texinfo macro language for
+  TeX to the language accepted by troff(1).
+
+	.../texi2roff.1
+
+Language(s):    C
+
+Requirements:   ?
+
+Origin:         GNU Project, Free Software Foundation
+		(see a2z/origins/fsf.doc)
+
+See Also:       ?
+
+Restrictions:   See .../copyright
+
+References:	?
+

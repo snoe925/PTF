@@ -1,0 +1,24 @@
+Package:	graphics/img_proc/tiff
+
+Description:	tiff - Tagged Image File Format tools
+
+Version:	2.3
+
+Notes:
+
+  This is a collection of tools for working with Tagged Image File Format
+  (TIFF) data.
+
+Language(s):    C
+
+Requirements:   ?
+
+Origin:         UC Berkeley
+		(see a2z/origins/ucb.doc)
+
+See Also:       ?
+
+Restrictions:   See .../README, .../*.c
+
+References:	?
+

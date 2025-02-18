@@ -1,0 +1,23 @@
+Package:	graphics/dataplot/ncsa/samples
+
+Description:	NCSA Sample Data
+
+Version:	?
+
+Notes:
+
+  This directory contains sample files that can be used with NCSA X DataSlice.
+
+Language(s):    NA
+
+Requirements:   ?
+
+Origin:         Nat. Ctr. for Supercomputer Appls., University of Illinois
+		(see a2z/origins/uil.doc)
+
+See Also:       ?
+
+Restrictions:   .../README.FIRST
+
+References:	?
+

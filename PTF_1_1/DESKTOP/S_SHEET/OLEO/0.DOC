@@ -1,0 +1,28 @@
+Package:	desktop/s_sheet/oleo
+
+Description:	oleo - GNU spreadsheeet
+
+Version:	0.03.2
+
+Notes:
+
+  This is the first alpa-test relase of the Gnu spreadsheet, Oleo.  It
+  currently runs under BSD4.3 (using curses) and MS-DOS (PC-DOS?) (using PC
+  video BIOS calls).  It also appears to work on some SYSV systems, but it is
+  not well tested.
+  
+	.../README
+
+Language(s):    C
+
+Requirements:   ?
+
+Origin:         GNU Project, Free Software Foundation
+		(see a2z/origins/fsf.doc)
+
+See Also:       ?
+
+Restrictions:   See a2z/text/gnu_gpl.txt, .../README
+
+References:	?
+

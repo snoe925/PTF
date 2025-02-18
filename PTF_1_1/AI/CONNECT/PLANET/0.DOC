@@ -1,0 +1,43 @@
+Package:	ai/connect/planet
+
+Description:	PlaNet - PDP Network Tool
+
+Version:	5.6
+
+Notes:
+
+  The PlaNet System (Version 5.6) is a tool for constructing, running and
+  examining a PDP (parallel distributed processing) or connectionist network.
+  PlaNet has previously been known as SunNet.  The most significant aspect
+  of PlaNet is that it allows you to deal with a network at a fairly high
+  level of conceptualization, and yet provides the flexibility to construct
+  networks of almost arbitrary structure and size and to run the network in
+  many different ways.  You define the network by specifying layers of units
+  and connections between layers.  You can then "program" the network by
+  defining procedures that specify the way it should be activated, connections
+  modified, etc.  The network specification language of PlaNet is general
+  enough to allow for many different types of networks to be constructed.  It
+  also includes high-level routines based on the back-propagation learning
+  algorithm.
+
+  Another important aspect of PlaNet is that it allows you to examine the
+  state of the network through graphic display of various network states,
+  such as activation patterns or weight matrices in the connecitons, and by
+  plotting the learning curve (error or other network states as a function
+  of learning cycles) in a graph.  ...
+
+	.../doc/PlaNet_doc1.ps
+
+Language(s):    C
+
+Requirements:   ?
+
+Origin:         University of Colorado, Boulder
+		(see a2z/origins/uco.doc)
+
+See Also:       See .../doc/PlaNet_doc1.ps
+
+Restrictions:   ?
+
+References:	?
+

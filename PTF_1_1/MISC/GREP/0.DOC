@@ -1,0 +1,26 @@
+Topic:		misc/grep
+
+Description:	grep, fgrep, etc.
+
+Notes:
+
+  Grep, a cognate for grasp, grope, and grab, actually traces its name
+  to the "Global Regular Expression Print" (:g/.../p) operation available
+  in editors such as ed, ex, and vi.  In any case, it is a very handy tool,
+  and the best freeware versions are markedly superior to the commercial
+  ones.
+
+Contains:
+
+  fgrep     P    GNU fgrep
+  grep      P    GNU grep
+
+See Also:
+
+  docprep/edit/vi
+  language/awk
+  language/perl
+  language/sed
+
+References:	?
+

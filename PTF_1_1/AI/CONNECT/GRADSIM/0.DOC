@@ -1,0 +1,34 @@
+Package:	ai/connect/gradsim
+
+Description:	GRADSIM Connectionist Network Simulator
+
+Version:	2.0
+
+Notes:
+
+  An updated version of the GRADSIM connectionist network simulator is now
+  available. (GRADSIM is general purpose simulator written in C that supports
+  recurrent time-delay network optimization.) The updated simulator (version
+  2.0) supports second-order links, zero delay links, static pattern matching
+  problems,and mixed unit types. The updated simulator also includes a
+  conjugate gradient optimization module, and supports network link masking,
+  for mixing fixed and variable links.
+
+  A brief User's Guide that describes simulator modules and compilation
+  options and the original tech report are included, in both .dvi and .ps form.
+
+	.../doc/guide.ps
+
+Language(s):    C
+
+Requirements:   ?
+
+Origin:         Raymond Watrous
+		(see a2z/origins/watrous.doc)
+
+See Also:       ?
+
+Restrictions:   See .../src/copyright
+
+References:	?
+

@@ -1,0 +1,25 @@
+Package:	language/icon/iconc
+
+Description:	iconc - Icon compiler
+
+Version:	7.6+  (April 28, 1991)
+
+Notes:
+
+  The Icon compiler transforms Icon code into C, then compiles it for the
+  target machine.  This trades compile time for run-time efficiency and a
+  degree of coding flexibility (adding C code is eased considerably).
+
+Language(s):	C, Icon
+
+Requirements:	Icon
+
+Origin:		Icon Project, University of Arizona
+		(see a2z/origins/uaz.doc)
+
+See Also:	language/icon/icon
+
+Restrictions:	?
+
+References:	?
+

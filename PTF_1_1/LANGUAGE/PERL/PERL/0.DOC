@@ -1,0 +1,48 @@
+Package:	language/perl/perl
+
+Description:	Practical Extraction and Report Language
+
+Version:	4.019
+
+Notes:
+
+  Perl is an interpreted language optimized for scanning arbitrary text files,
+  extracting information from those text files, and printing reports based on
+  that information.  It's also a good language for many system management
+  tasks.  The language is intended to be practical (easy to use, efficient,
+  complete) rather than beautiful (tiny, elegant, minimal).
+  It combines (in the author's opinion, anyway) some of the best features of
+  C, \fIsed\fR, \fIawk\fR, and \fIsh\fR, so people familiar with those
+  languages should have little difficulty with it.  (Language historians will
+  also note some vestiges of \fIcsh\fR, Pascal, and even BASIC-PLUS.)
+  Expression syntax corresponds quite closely to C expression syntax.  Unlike
+  most Unix utilities, perl does not arbitrarily limit the size of your data
+  -- if you've got the memory, perl can slurp in your whole file as a single
+  string.  Recursion is of unlimited depth.  And the hash tables used by
+  associative arrays grow as necessary to prevent degraded performance.  Perl
+  uses sophisticated pattern matching techniques to scan large amounts of data
+  very quickly.  Although optimized for scanning text, perl can also deal with
+  binary data, and can make dbm files look like associative arrays (where dbm
+  is available).  Setuid perl scripts are safer than C programs through a
+  dataflow tracing mechanism which prevents many stupid security holes.  If
+  you have a problem that would ordinarily use sed or awk or sh, but it
+  exceeds their capabilities or must run a little faster, and you don't want
+  to write the silly thing in C, then perl may be for you.  There are also
+  translators to turn your sed and awk scripts into perl scripts.  OK, enough
+  hype.
+
+	.../perl.man
+
+Language(s):    C
+
+Requirements:   ?
+
+Origin:         GNU Project, Free Software Foundation
+		(see a2z/origins/fsf.doc)
+
+See Also:       ?
+
+Restrictions:   See a2z/text/gnu_gpl.txt *or* .../Artistic
+
+References:	?
+

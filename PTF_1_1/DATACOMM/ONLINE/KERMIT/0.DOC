@@ -1,0 +1,28 @@
+Topic:		datacomm/online/kermit
+
+Description:	Kermit Terminal Emulator
+
+Notes:
+
+  Developed at Columbia University, Kermit has become universally known as a
+  way of transferring files between computer systems.  Versions exist for
+  almost every kind of computer.
+
+Contains:
+
+  columbia  P    Columbia Kermit Distribution
+
+See Also:       ?
+
+References:
+
+  Kermit
+    A File Transfer Protocol
+  Frank da Cruz
+  Digital Press, 1987, ISBN 0-932376-88-6
+
+  Using MS-DOS Kermit
+    Connecting Your PC to the Electronic World
+  Christine M. Gianone
+  Digital Press, 1992, ISBN 1-55558-082-3
+

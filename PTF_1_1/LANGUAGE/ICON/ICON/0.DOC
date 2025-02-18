@@ -1,0 +1,26 @@
+Package:	language/icon/icon
+
+Description:	icon - Icon interpreter
+
+Version:	8.0 (May 7, 1990)
+
+Notes:
+
+  The Icon interpreter is actually implemented as a pre-compiler and a run-
+  time support system.  On some systems, a "jump start" header allows the
+  binary programs to be executed as commands.  On others, the run-time
+  system must be called in to do it.
+
+Language(s):	C, Icon
+
+Requirements:	None
+
+Origin:		Icon Project, University of Arizona
+		(see a2z/origins/uaz.doc)
+
+See Also:	See language/icon
+
+Restrictions:	See .../icon/README
+
+References:	?
+

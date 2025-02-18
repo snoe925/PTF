@@ -1,0 +1,34 @@
+Package:        language/p_script/g_script
+
+Description:    GhostScript - GNU PostScript interpreter
+
+Version:        2.3, 2.2 fonts
+
+Notes:
+
+  Ghostscript is the name of a set of software that provides:
+
+    - An interpreter for the Ghostscript language, which very
+      closely resembles the PostScript (TM) language; and
+
+    - A set of C procedures (the Ghostscript library) that implement
+      the graphics capabilities that appear as primitive operations
+      in the Ghostscript language.
+
+	.../README
+
+Language(s):    C, assembly-language accelerators for MS-DOS
+
+Requirements:   bit-mapped printing or display device
+
+Origin:		GNU Project, Free Software Foundation
+                (see a2z/origins/fsf.doc)
+
+See Also:	?
+
+Restrictions:	GNU General Public License
+		(see a2z/doc/gnu_gpl.txt)
+		Also .../Copying
+
+References:	See language/p_script
+

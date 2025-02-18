@@ -1,0 +1,36 @@
+Package:	graphics/library/vogle
+
+Description:	VOGLE - Graphics Learning Environment
+
+Version:	2.0
+
+Notes:
+
+  VOGLE (Very Ordinary Graphics Learning Environment) is a library of C
+  routines for doing line drawings and polygon fills in 2 and 3 Dimensions.
+  It handles circles, curves, arcs, patches, polygons, and software text in
+  a device independent fashion.  Simple hidden line removal is also available
+  via polygon backfacing. Access to hardware text and double buffering of
+  drawings depends on the driver.  There is also a FORTRAN interface but as
+  it goes through the C routines FORTRAN users are warned that arrays are
+  in row-column order in C.  A SUN Pascal interface has also been provided.
+
+	.../docs/vogle.doc
+
+Language(s):    C
+
+Requirements:   ?
+
+Origin:         University Of Melbourne
+		(see a2z/origins/melbourn.doc)
+
+See Also:
+
+  graphics/library/vogl
+  graphics/library/vopl
+  graphics/render/vort
+
+Restrictions:   See .../README
+
+References:	?
+

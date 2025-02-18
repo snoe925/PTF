@@ -1,0 +1,54 @@
+Package:	graphics/img_proc/fbm
+
+Description:	FBM - Fuzzy PixMap library
+
+Version:	1
+
+Notes:
+
+  This package allows manipulation and conversion of a variety of color
+  and black-and-white image formats.
+
+  Philosophy
+
+    Each program can read any of the understood formats, and
+    can write any of the understood formats that make sense for
+    the image data.
+
+    Programs are designed around specific image operations (sizing,
+    scaling, retoning, halftoning, quantizing, etc.), rather than
+    simply converting from one format to another.  For example,
+    converting a 4bit color GIF file to a 1bit Sun rasterfile
+    takes the following operations:
+    
+        read GIF format
+        map color values to grayscale
+        adjust aspect ratio (1.2 --> 1.0)
+        scale image up to be visible (320x200 --> 640x480 or 1152x864)
+        optionally sharpen the image (edge enhancement)
+        optionally clean up "snow" in image (flip isolated pixels)
+        halftone (Blue noise, Floyd-Steinberg, Jarvis, Threshhold)
+        write Sun rasterfile format.
+
+    So the equivalent pipeline of fbm routines would be:
+    
+    clr2gray < foo.gif | fbnorm | fbext [ args ] | fbhalf [args] > foo.1bit
+    
+    That way you have maximum control over the resulting image size
+    and quality.
+
+	.../Features
+
+Language(s):    C
+
+Requirements:   ?
+
+Origin:         Carnegie Mellon University
+		(see a2z/origins/cmu.doc)
+
+See Also:       ?
+
+Restrictions:   See .../Features
+
+References:	?
+

@@ -1,0 +1,18 @@
+rwxr-xr-x5509/12640      0 Mar 28 06:16 1991 makedepend/
+r--r--r--5509/12640   1400 Dec 12 09:44 1989 makedepend/cpp.ed
+r--r--r--5509/12640   5679 Dec 12 09:44 1989 makedepend/include.c
+r--r--r--5509/12640    300 Mar  5 08:15 1991 makedepend/Makefile
+r--r--r--5509/12640    196 Dec 22 12:23 1989 makedepend/CHANGES
+r--r--r--5509/12640   2201 Dec 12 09:44 1989 makedepend/pr.c
+r--r--r--5509/12640   9536 Dec 12 09:44 1989 makedepend/parse.c
+r--r--r--5509/12640   9025 Jan 10 12:09 1991 makedepend/main.c
+r--r--r--5509/12640   2403 Dec 12 09:44 1989 makedepend/def.h
+r--r--r--5509/12640   1334 Jan 27 06:03 1990 makedepend/Imakefile
+r--r--r--5509/12640   1667 Dec 12 09:44 1989 makedepend/cppsetup.c
+r--r--r--5509/12640   6497 Dec 21 11:05 1989 makedepend/mkdepend.man
+rwxrwxr-x5509/12640      0 Mar  5 08:15 1991 makedepend/RCS/
+r--r--r--5509/12640   9646 Jan 10 12:09 1991 makedepend/RCS/main.c,v
+r--r--r--5509/12640   1759 Jan 27 06:03 1990 makedepend/RCS/Imakefile,v
+r--r--r--5509/12640    564 Mar  5 08:15 1991 makedepend/RCS/Makefile,v
+rwxr-xr-x5509/12640      0 Mar 28 06:15 1991 makedepend/imakemdep.h symbolic link to ../imake/imakemdep.h
+rw-r--r--5509/12640    151 Mar 28 06:16 1991 makedepend/README

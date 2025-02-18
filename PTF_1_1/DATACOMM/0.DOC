@@ -1,0 +1,29 @@
+Topic:		datacomm
+
+Description:	Data Communication Tools
+
+Notes:
+
+  Data communication tools allow one computer to exchange data with another,
+  usually over a telephone line or a higher-speed network.  They typically
+  provide error correction, allowing less than perfect communication channels
+  to be used in a reliable manner.
+
+Contains:
+
+  netnews   T    Netnews readers, back ends, etc.
+  network   T    Network Administration Tools
+  online    T    On-line (Interactive) Data Comm. Tools
+
+See Also:	?
+
+References:
+
+  Mastering UNIX Serial Communications
+  Peter W. Gofton
+  Sybex, 1991, ISBN 0-89588-708-8
+
+  UNIX Communications
+  Bart Anderson, Bryan Costales, Harry Henderson
+  Sams (Macmillan), 1987, ISBN 0-672-22511-5
+

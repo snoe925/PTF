@@ -1,0 +1,42 @@
+Topic:		window/news
+
+Description:	NeWS - Network/extensible Window System
+
+Notes:
+
+  In October 1986, Sun Microsystems announced NeWS (Network/extensible Window
+  System), a synthesis of the window server and page-description language
+  technologies.  NeWS makes the device-independent, powerful imaging model of
+  the PostScript language available in a distributed window system.  A key
+  innovation is the use of the PostScript language, together with NeWS
+  extensions, as a window system extension language, which makes possible a
+  new level of interactive performance and flexibility.  NeWS provides a
+  platform, independent of hardware and operating systems, on which highly
+  diverse window applications and user interfaces can be built.  NeWS
+  applications attain an unprecedented level of visual quality, and exploit a
+  coherency of network design new to window-based applications.
+
+	Introduction, The NeWS Book: An Introduction to the
+	  Network/extensible Window System
+
+Contains:
+
+  h_news    P    HyperNeWS - window-based appl. env.
+
+See Also:
+
+  language/p_script
+
+References:
+
+  The NeWS Book
+    An Introduction to the Network/extensible Window System
+  James Gosling, David S. Rosenthal, Michelle J. Arden
+  Springer-Verlag, 1989, ISBN 0-387-96915-2
+
+  NeWS ??? Manual
+  Sun Microsystems, Inc.
+
+  NeWS Technical Overview
+  Sun Microsystems, Inc.
+

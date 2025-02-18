@@ -1,0 +1,23 @@
+Topic:		docprep/format/tex
+
+Description:	TeX and related packages
+
+Notes:
+
+  A substantial family of software has arisen to work with Dr. Knuth's TeX
+  typesetting system.  Pre-processors, post-processors, browsers, filters;
+  the list goes on and on.  The unixtex directory is a good starting point,
+  but examine the other sub-directories to see what else is available.
+
+Contains:
+
+  latex     T    The LaTeX System
+  metafont  T    The METAFONT System
+  tex       T    TeX
+  texinfo   P    texinfo - documentation system
+  unixtex   P    The unixtex distribution
+
+See Also:	?
+
+References:	?
+

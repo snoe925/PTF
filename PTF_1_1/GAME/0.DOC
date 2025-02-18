@@ -1,0 +1,26 @@
+Topic:		game
+
+Description:	Game Programs
+
+Notes:
+
+  Computers have been used for games for quite a while.  The UNIX operating
+  system, in fact, owes much of its existence to Ken Thompson's interest in
+  writing a "space travel" game.  Many system administrators try to keep
+  games off their systems, or at least under some degree of control.  This
+  is generally counter-productive.  It annoys the users, and won't work if
+  they are at all motivated.  Just make sure they get their work done, then
+  relax...
+
+Contains:
+
+  chess     T    The Game of Chess
+  empire    P    BSD Empire
+  go        T    The Game of Go
+
+See Also:
+
+  window
+
+References:	?
+

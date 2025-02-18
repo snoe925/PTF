@@ -1,0 +1,20 @@
+Topic:		desktop/calc
+
+Description:	Desk Calculator
+
+Notes:
+
+  Desk calculators range from mundane to very powerful.  For simple tasks,
+  a hand calculator may be better.  When real programmability is needed,
+  however, the software versions begin to shine.
+
+Contains:
+
+  calc      P    calc - GNU desk calculator
+
+See Also:
+
+  language/bc
+
+References:	?
+

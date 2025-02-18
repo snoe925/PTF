@@ -1,0 +1,26 @@
+Package:	language/c/gcc
+
+Description:	cpp - GNU C compiler
+
+Version:	1.39, 1.40
+
+Notes:
+
+  GCC is a very portable version of cc, with performance that frequently
+  surpasses that of the vendors' versions.  In addition, with *some*
+  vendors eliminating cc from their standard distributions, the GNU
+  version may soon be the only cost-free option.
+
+Language(s):    C
+
+Requirements:   bison
+
+Origin:         GNU Project, Free Software Foundation
+		(see a2z/origins/fsf.doc)
+
+See Also:       ?
+
+Restrictions:   See a2z/text/gnu_gpl.txt
+
+References:	?
+

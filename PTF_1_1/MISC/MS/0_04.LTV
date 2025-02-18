@@ -1,0 +1,41 @@
+rwxr-xr-x31662/15      0 Feb 14 07:28 1990 ms-0.04/client/
+rw-r--r--31662/15  12488 Feb  1 06:59 1990 ms-0.04/client/COPYING
+rw-r--r--31662/15   1793 Feb 14 06:29 1990 ms-0.04/client/ChangeLog
+rw-r--r--31662/15  13403 Feb 14 07:28 1990 ms-0.04/client/Makefile
+rw-r--r--31662/15    837 Feb  5 03:31 1990 ms-0.04/client/INSTALL
+rw-r--r--31662/15    639 Feb 12 04:08 1990 ms-0.04/client/Imakefile
+rw-r--r--31662/15   2222 Feb 14 06:52 1990 ms-0.04/client/MANIFEST
+rw-r--r--31662/15   4572 Feb 12 04:10 1990 ms-0.04/client/ms.man
+rw-r--r--31662/15  24570 Feb 12 04:51 1990 ms-0.04/client/Ms.c
+rw-r--r--31662/15   3043 Feb 14 07:26 1990 ms-0.04/client/README
+rw-r--r--31662/15  21730 Feb 14 07:27 1990 ms-0.04/client/Mama.c
+rw-r--r--31662/15    614 Feb  1 06:59 1990 ms-0.04/client/Mama.h
+rw-r--r--31662/15   2582 Feb  1 06:59 1990 ms-0.04/client/MamaP.h
+rw-r--r--31662/15   6106 Feb 12 04:28 1990 ms-0.04/client/TO_DO
+rw-r--r--31662/15    757 Feb  1 06:59 1990 ms-0.04/client/Ms.h
+rw-r--r--31662/15   2316 Feb 12 05:23 1990 ms-0.04/client/MsIPC.h
+rw-r--r--31662/15   1237 Feb  1 06:59 1990 ms-0.04/client/MsJob.h
+rw-r--r--31662/15   2707 Feb  1 06:59 1990 ms-0.04/client/MsP.h
+rw-r--r--31662/15   3395 Feb  1 06:59 1990 ms-0.04/client/MsReal.h
+rw-r--r--31662/15   4671 Feb  8 06:53 1990 ms-0.04/client/R4menu.c
+rw-r--r--31662/15   1205 Feb  1 06:59 1990 ms-0.04/client/backward.h
+rw-r--r--31662/15    273 Feb  1 06:59 1990 ms-0.04/client/dot-mslaves
+rw-r--r--31662/15   3021 Feb  1 06:59 1990 ms-0.04/client/main.c
+rw-r--r--31662/15     28 Feb  1 06:59 1990 ms-0.04/client/version.h
+rwxr-xr-x31662/15      0 Feb 14 06:26 1990 ms-0.04/server/
+rw-r--r--31662/15   1237 Feb  1 06:59 1990 ms-0.04/server/MsJob.h linked to ms-0.04/client/MsJob.h
+rw-r--r--31662/15   1039 Feb  1 06:59 1990 ms-0.04/server/mslaved.8
+rw-r--r--31662/15   6755 Feb  8 06:07 1990 ms-0.04/server/mslaved.c
+rw-r--r--31662/15    894 Feb  1 07:48 1990 ms-0.04/server/Makefile
+rw-r--r--31662/15   1471 Feb  1 06:59 1990 ms-0.04/server/mslavedc.8
+rw-r--r--31662/15   5687 Feb  1 06:59 1990 ms-0.04/server/mslavedc.c
+rw-r--r--31662/15   2316 Feb 12 05:23 1990 ms-0.04/server/MsIPC.h linked to ms-0.04/client/MsIPC.h
+rw-r--r--31662/15   2077 Feb  1 06:59 1990 ms-0.04/server/MsReal.c
+rw-r--r--31662/15   3395 Feb  1 06:59 1990 ms-0.04/server/MsReal.h linked to ms-0.04/client/MsReal.h
+rwxr-xr-x31662/15   2050 Feb  1 06:59 1990 ms-0.04/server/enslave
+rw-r--r--31662/15   2053 Feb  1 06:59 1990 ms-0.04/server/enslave.1
+rw-r--r--31662/15  12488 Feb  1 06:59 1990 ms-0.04/server/COPYING linked to ms-0.04/client/COPYING
+rw-r--r--31662/15    454 Feb  1 06:59 1990 ms-0.04/server/dot-enslave
+rw-r--r--31662/15   2240 Feb  5 03:35 1990 ms-0.04/server/INSTALL
+rw-r--r--31662/15     28 Feb  1 06:59 1990 ms-0.04/server/version.h linked to ms-0.04/client/version.h
+rw-r--r--31662/15    152 Feb 12 05:24 1990 ms-0.04/server/README

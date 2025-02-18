@@ -1,0 +1,15 @@
+1_10           2232139  bash-1.10
+1_10            249752  bash-1.10/builtins
+1_10            347681  bash-1.10/documentation
+1_10             18680  bash-1.10/examples
+1_10             10791  bash-1.10/examples/functions
+1_10              2331  bash-1.10/examples/scripts
+1_10              3358  bash-1.10/examples/startup-files
+1_10            779492  bash-1.10/lib
+1_10             23916  bash-1.10/lib/glob
+1_10             33695  bash-1.10/lib/malloc
+1_10            721881  bash-1.10/lib/readline
+1_10            406344  bash-1.10/lib/readline/doc
+1_10             13267  bash-1.10/lib/readline/examples
+1_10             19220  bash-1.10/support
+1_10              1241  bash-1.10/test-suite

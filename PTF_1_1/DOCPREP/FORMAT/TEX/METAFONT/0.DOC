@@ -1,0 +1,40 @@
+Topic:		docprep/format/tex/metafont
+
+Description:	The METAFONT System
+
+Notes:
+
+  METAFONT is a system for the design of alphabets suited to raster-based
+  devices that print or display text.  The characters that you are reading
+  were all designed with METAFONT, in a completely precise way; and they
+  were developed rather hastily by the author of the system, who is a rank
+  amateur at such things.  It seems clear that further work with METAFONT
+  has the potential of producing typefaces of real beauty.  This manual has
+  been written for people who would like to help advance the art of
+  mathematical type design.
+
+	Preface, The METAFONTbook
+
+Contains:
+
+  metafont  P    METAFONT
+
+See Also:
+
+  docprep/format/tex/unixtex/tex	# actual METAFONT code
+  language/p_script
+
+References:
+
+  Computer Modern Typefaces
+  Donald E. Knuth
+  Addison-Wesley, 1986, ISBN 0-201-13446-2
+
+  METAFONT: The Program
+  Donald E. Knuth
+  Addison-Wesley, 1987, ISBN 0-201-13438-1
+
+  The METAFONTbook
+  Donald E. Knuth
+  Addison-Wesley, 1987, ISBN 0-201-13445-4
+

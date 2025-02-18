@@ -1,0 +1,68 @@
+:
+: p.get - get a package, uncompress it, unpack it, ...
+:
+# Usage: p.get package dest_dir
+#
+# Written by Rich Morin, CFCL, January, 1992
+#
+# Public Domain - all uses allowed
+
+PTF_CASE=${PTF_CASE-lower}
+if [ $PTF_CASE = lower ]; then 
+  at=at
+  atz=atz
+else 
+  at=AT
+  atz=ATZ
+fi 
+ 
+if [ $# -ne 2 ]; then				# Check argument count
+  echo "p.get usage: p.get package dest_dir"
+  exit 1
+fi
+
+if [ ! -d $1 ]; then				# Check for package
+  echo "p.get: package <$1> does not exist"
+  exit 1
+fi
+
+if [ ! -d $2 ]; then				# Check for dest_dir
+  echo "p.get: dest_dir <$2> does not exist"
+  exit 1
+fi
+
+if touch -f $2/.p.get 2>/dev/null; then		# Check ability to write
+  rm $2/.p.get
+else
+  echo "p.get: cannot write in dest_dir <$2>"
+  exit 1
+fi
+
+if [ -d $2/$1 ]; then				# Check for dest_dir/package
+  echo "p.get: dest_dir/package <$2/$1> already exists"
+  exit 1
+fi
+
+PTF_TAR=${PTF_TAR-tar}				# Ye Olde Backe Doore...
+
+mkdir $2/$1
+ls $1						|
+while read file; do
+  case $file in
+    0.doc)					# Documentation
+      cp $1/$file $2/$1
+      echo "<$1/$file> copied"
+      ;;
+    *.at)					# Archive, Tar
+      cat $1/$file        | (cd $2/$1; $PTF_TAR xf -)
+      echo "<$1/$file> unpacked"
+      ;;
+    *.atz)					# Archive, Tar, Compressed
+      cat $1/$file | zcat | (cd $2/$1; $PTF_TAR xf -)
+      echo "<$1/$file> unpacked"
+      ;;
+    *)						# Other
+      echo "<$1/$file> not in at or atz format, ignored."
+      ;;
+  esac
+done

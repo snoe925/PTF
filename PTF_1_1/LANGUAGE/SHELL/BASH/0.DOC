@@ -1,0 +1,37 @@
+Package:	language/shell/bash
+
+Description:	bash - GNU Bourne Again SHell
+
+Version:	1.10
+
+Notes:
+
+  Bash is the GNU Project's Bourne Again SHell, an interactive shell with
+  Bourne shell syntax (/bin/sh); but also with interactive command line
+  editing, job control on architectures that support it, Csh-like history
+  features and brace expansion, and a slew of other stuff.
+
+	.../README
+
+  Bash is an sh-compatible command language interpreter that executes
+  commands read from the standard input or from a file.  Bash also
+  incorporates useful features from the Korn and C shells (ksh and csh).
+
+  Bash is ultimately intended to be a faithful implementation of the IEEE
+  Posix Shell and Tools specification (IEEE Working Group 1003.2).
+
+	.../documentation/bash.1
+
+Language(s):    C
+
+Requirements:   ?
+
+Origin:         GNU Project, Free Software Foundation
+		(see a2z/origins/fsf.doc)
+
+See Also:       ?
+
+Restrictions:   See a2z/text/gnu_gpl.txt
+
+References:	?
+

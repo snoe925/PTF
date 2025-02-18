@@ -1,0 +1,23 @@
+Admin:		a2z/bin
+
+Description:	Shell scripts to assist in using the disc
+
+Notes:
+
+  These scripts are intended to help you find, install, and otherwise work
+  with the disc.  Feel free to adapt them to your own needs, if they do not
+  currently do what you wish.  Let us know about any bugs or opportunities
+  for improvement:  cfcl!ptf-bugs@apple.com
+
+Contains:
+
+  i.csh		Initialize csh variables (source a2z/bin/i.csh)
+  i.ksh		Initialize ksh variables (. a2z/bin/i.ksh)
+  i.sh		Initialize  sh variables (. a2z/bin/i.sh)
+
+  p.all		Ask all about a topic or package
+  p.ask		Ask about a topic or package (short)
+  p.get		Get (install) a topic or package
+  p.key		Look up a package, given a key
+
+See Also:	?

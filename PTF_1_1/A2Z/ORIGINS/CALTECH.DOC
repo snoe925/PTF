@@ -1,0 +1,63 @@
+caltech.doc
+-----------
+
+California Institute of Technology
+
+
+GENESIS
+-------
+
+  This directory contains the final release of the source code for the "free" 
+  version of the GENESIS simulation package.   This code is intended to give 
+  interested parties as taste of the GENESIS simulation package.  In addition 
+  to the source code which makes up the basic package, this distribution
+  includes a number of small simulations built with GENESIS (located beneath
+  the directory /usr/genesis/Scripts).   These are intended as tutorial
+  examples which can demonstrate both the types of neurological simulations
+  which can be modeled with the system as well as the look and feel of XODUS,
+  the graphical front-end for the package.   These tutorials require that
+  /usr/genesis/genesis be built and installed, and that /usr/genesis be in
+  the users path before execution.
+
+ This distribution has been compiled and tested on Sun 3s, Sun 386is, Sun 4s, 
+ SPARCstation 1s, SPARCstation 1+'s, DECstation 3100s and DECstation 5000s.
+ It should function with either X11R3, X11R4 or DECwindows under SUN OS
+ 4.0 (or greater) or Ultrix 3.1.
+
+ Over the coming years Caltech will continue to develop the simulation package.
+ Parties interested in using the package for neural modeling development
+ may wish join us in our development efforts.   We will supply such parties 
+ with updated source code, documentation, and additional computational models
+ as they become available.   A one time annoyance fee of $200.00 has been 
+ associated with "membership" in this group.   For more details see the 
+ remainder of this README file.
+
+  John Uhley
+  uhley@smaug.cns.caltech.edu
+
+  In addition to distributing GENESIS we have also established a GENESIS
+  users group (BABEL) for those interested in developing new GENESIS
+  applications.  Membership in BABEL requires that a one time $200
+  registration fee payable to the California Institute of Technology be sent
+  to BABEL, c/o Jim Bower, Computational Neural Systems Program, 216-76,
+  Caltech, Pasadena, CA, 91125.  As a registered user, one is provided
+  documentation on the simulator itself (currently in an early stage), has
+  access to additional simulator components, bug reports, and a user's bulletin 
+  board.  In addition we are establishing a depository for interesting
+  completed simulations.   BABEL is still currently in it's early stages, but
+  we plan to have a secondary release of the GENESIS system done by early 
+  October, 1990.   This secondary release will only be distributed to BABEL
+  users.
+
+  Full source for the simulator is available via FTP from
+  genesis.cns.caltech.edu (131.215.135.64).   To acquire the software
+  use TELNET to connect to genesis.cns.caltech.edu and login as the
+  user genesis (no password required).  If you answer all the questions
+  asked of you an 'ftp' account will automatically be created for you.
+  You can then 'ftp' back to the machine and download the software.  If you do
+  not have network access the necessary tapes can be provided for a small 
+  handling fee.  Those requiring tapes should send requests plus $50 payable
+  to Caltech at the address listed above.  Any other questions about the
+  system or its distribution should also be sent to genesis@caltech.bitnet.
+
+	.../README

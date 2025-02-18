@@ -1,0 +1,38 @@
+Topic:		game/go
+
+Description:	The Game of Go
+
+Notes:
+
+  I am convinced that Go will gradually share with Chess the leading position
+  among intellectual games in the Occident, just as it has reigned supreme in
+  the Orient for the last three to four thousand years.  As a matter of fact,
+  Go has actually replaced Chess as the favorite pastime of a great many
+  people who are familiar with both games, particularly mathematicians and
+  physicists.
+
+	Preface to First Edition (1934), Go and Go-Moku
+
+Contains:
+
+  gnugo     P    gnugo - GNU Go game
+
+See Also:
+
+  window
+
+References:
+
+  Go for Beginners
+  Kaoru Iwamoto
+  Pantheon, 1972, ISBN 0-394-73331-2
+
+  Go and Go-Moku, second revised edition
+    The Oriental Board Games
+  Edward Lasker
+  Dover, 1960, ISBN ?
+
+  Strategic Concepts of Go
+    Nagahara, 5-Dan
+  Ishi Press, 1972, ISBN ?
+

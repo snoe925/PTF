@@ -1,0 +1,42 @@
+Package:	datacomm/netnews/tmnn
+
+Description:	tmnn - Teenage Mutant Ninja Netnews
+
+Version:	B3.0 (beta level 7.8)
+
+Notes:
+
+  A major new release of the netnews software is about to be unloosed upon the
+  net.world -- yes, after two years of development the software construct
+  known as TEENAGE MUTANT NINJA NETNEWS has escaped from the secret
+  laboratories of Thyrsus Enterprises and will soon assume a very public
+  identity as News 3.0.
+
+  The new release is more than just a set of patches -- it's a complete
+  from-the-ground-up rewrite of the entire suite with loads of new and
+  powerful features (but, of course, protocol-compatible with all B and C
+  news versions).  It is much easier to install, configure and administer
+  than any previous version. And it offers beleaguered news.readers better
+  ways of tracking discussions, winnowing chaff, and coping with a huge
+  and increasing news volume.
+
+  The code is carefully modularized in accordance with abstract-data-type
+  design principles, lavishly commented for comprehensibility, and
+  accompanied by a full set of documents detailing installation, usage and
+  the architecture internals.
+
+	.../doc/BRAGSHEET
+
+Language(s):    C
+
+Requirements:   ?
+
+Origin:         Eric Raymond
+		(see a2z/origins/fsf.doc)
+
+See Also:       ?
+
+Restrictions:   See .../LICENSE
+
+References:
+

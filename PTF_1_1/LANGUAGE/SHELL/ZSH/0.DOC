@@ -1,0 +1,24 @@
+Package:	language/shell/zsh
+
+Description:	zsh - the Z shell
+
+Version:	2.00.01
+
+Notes:
+
+
+	.../documentation/bash.1
+
+Language(s):    C
+
+Requirements:   ?
+
+Origin:         Princeton University
+		(see a2z/origins/pu.doc)
+
+See Also:       ?
+
+Restrictions:   See a2z/text/gnu_gpl.txt
+
+References:	?
+

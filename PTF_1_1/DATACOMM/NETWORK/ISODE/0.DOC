@@ -1,0 +1,75 @@
+Package:        datacomm/network/isode
+
+Description:    isode - ISO Development Environment
+
+Version:        7.0
+
+Notes:
+
+  The ARPA Internet community has a well-developed, mature set of transport
+  and internetwork protocols, which are quite successful in offering network
+  and transport services to end-users.  The protocols provide ``open system
+  interconnection'' (OSI) for users, and a robust competitive market is
+  supplied by a growing number of vendors.  The CCITT and ISO have defined
+  various network, transport, session, presentation, and application
+  recommendations and standards which have been adopted by the international
+  community and numerous vendors.  To the largest extent possible, it is
+  desirable to offer the higher level services (i.e., session and above) in
+  networks based on the ARPA protocols, without disrupting existing
+  facilities.  It is also desirable to develop expertise with ISO and CCITT
+  protocols while utilizing a robust set of transport services.  Finally,
+  given the probable, long-term dominance of the international standards, it
+  is desirable to design a graceful transition strategy from networks based
+  on the ARPA protocols to OSI-based networks.
+
+  In this paper, we suggest an exercise in interoperability which achieves
+  all three of these goals.  Our solution is practical in the sense that it:
+
+    can be easily implemented in a cost-effective manner in the short-term;
+
+    permits application-designers to work with an OSI applications-framework,
+    while utilizing existing robust transport and network protocols;
+
+    and, provides the basis for a far-reaching migration strategy to the OSI
+    protocols.
+
+	i7_doc.atz:/cn-isdn/cn-isdn.tex
+
+
+  ISO-9660 strikes again.  Here is a list of PTF and original archive
+  names:
+
+      _etc_	READ-ME.Z
+ 
+    ISODE 7.0
+
+      i7	isode-7.tar.Z		Source Distribution
+      i7_doc	isode-7-doc.tar.Z	Documentation
+      i7_ps	isode-7-ps.tar.Z	A4 page PostScript Doc.
+      i7_usps	isode-7-US.ps.tar.Z	US letter PostScript Doc.
+
+    Postie Pat
+
+      pp5	pp-5.tar.Z		Source Distribution
+      pp5_usps	pp-5-ps-us.tar.Z	US letter PostScript Doc.
+      pp5_2	pp-5.2.tar.Z		5.2 Source Distribution
+
+    SNMP
+
+      i_snmp	isode-snmp.tar.Z	Source Distribution
+      snmp_ug	snmp-upgrade.tar.Z	SNMP Upgrade
+
+Language(s):    C
+
+Requirements:   ?
+ 
+Origin:         Automation Sciences Laboratory,
+		Northrop Research and Technology Center
+		(see a2z/origins/northrop.doc)
+
+See Also:       ?
+
+Restrictions:   See .../*.c, .../isode-7.0/doc/manual/preface.tex
+
+References:	?
+

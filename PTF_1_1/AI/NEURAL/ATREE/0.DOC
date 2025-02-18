@@ -1,0 +1,40 @@
+Package:	ai/neural/atree
+
+Description:	atree - Adaptive Logic Network (ALN) sim.
+
+Version:	2.0
+
+Notes:
+
+  You will probably have a lot of experience with backpropagation-type
+  networks, so the thrust of the following remarks is to encourage you
+  to see adaptive logic networks (ALNs) as a modification of that
+  approach that could offer improved performance in some of your
+  problems.  Certainly ALNs can help in problems that involve demanding
+  real-time requirements or in situations where the available computing
+  power is not adequate for a backpropagation network.
+
+  First of all, you may not think of an adaptive logic network as a
+  neural network at all, but it is!  In fact, an ALN is a special case
+  of the familiar multilayer perceptron (MLP) feedforward network.
+  There are just a few changes, all of them simplifications.  Briefly,
+  the nodes (or elements) have (during training, at least) two input
+  leads, the input signals x1, x2 are boolean ( 0 or 1), each connection
+  weight is determined by a single bit of information, and the
+  "squashing function" is a threshold.
+
+	.../EXPERT.INF
+
+Language(s):    C
+
+Requirements:   ?
+
+Origin:         University of Alberta
+		(see a2z/origins/alberta.doc)
+
+See Also:       ?
+
+Restrictions:   See .../nowarranty
+
+References:	?
+

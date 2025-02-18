@@ -1,0 +1,28 @@
+Package:	graphics/img_proc/jpeg
+
+Description:	jpeg -  JPEG tools
+
+Version:	1 (7-Oct-91)
+
+Notes:
+
+  This is a collection of tools for working with JPEG (Joint Photographic
+  Experts Group) image compression.
+
+Language(s):    C
+
+Requirements:   ?
+
+Origin:         The Independent JPEG Group
+		(see a2z/origins/jpeg.doc)
+
+See Also:       ?
+
+Restrictions:   See .../README
+
+References:
+
+  "The JPEG Still Picture Compression Standard"
+  Gregory K. Wallace
+  Communications of the ACM, April 1991 (vol. 34 no. 4), pp. 30-44.
+

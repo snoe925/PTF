@@ -1,0 +1,9 @@
+rwxr-xr-x3024/40   1405 Aug 14 08:29 1990 README
+rwxrwsrwx3024/45      0 Aug 14 08:29 1990 sun4/
+rw-r--r--3024/40  22172 Aug 14 08:29 1990 sun4/trap.o
+rw-r--r--3024/40  55048 Aug 14 08:29 1990 sun4/locore.o
+rw-r--r--3024/40   4176 Aug 14 08:29 1990 sun4/swtch.o
+rwxrwsrwx3024/45      0 Aug 14 08:29 1990 sun4c/
+rw-r--r--3024/40  22156 Aug 14 08:29 1990 sun4c/trap.o
+rw-r--r--3024/40  50971 Aug 14 08:29 1990 sun4c/locore.o
+rw-r--r--3024/40   4176 Aug 14 08:29 1990 sun4c/swtch.o

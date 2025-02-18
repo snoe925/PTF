@@ -1,0 +1,25 @@
+Package:	docprep/format/troff/groff
+
+Description:	groff - GNU troff(1)
+
+Version:	1.03
+
+Notes:
+
+  This is already a pretty complete duplication of the troff family.  (It has
+  eqn, pic, refer, soelim, tbl, and troff.)  Stay tuned for more filters, or
+  add them yourself!
+
+Language(s):    C, C++
+
+Requirements:   ?
+
+Origin:         GNU Project, Free Software Foundation
+		(see a2z/origins/fsf.doc)
+
+See Also:       ?
+
+Restrictions:   See a2z/text/gnu_gpl.txt
+
+References:	?
+

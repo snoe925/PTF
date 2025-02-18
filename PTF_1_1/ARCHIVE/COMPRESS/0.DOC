@@ -1,0 +1,39 @@
+Package:	archive/compress
+
+Description:	compress - file compression utilities
+
+Version:	4.0.1
+
+Notes:
+
+  Compress reduces the size of the named files using adaptive Lempel-Ziv
+  coding.  Whenever possible, each file is replaced by one with the
+  extension .Z, while keeping the same  ownership modes, access and
+  modification times.  If no files are specified, the standard input is
+  compressed to the standard output.  Compressed files can be restored
+  to their original form using uncompress or zcat.
+
+  For convenience, the compress source code is delivered in two forms:
+
+    4_0_1.as        shar (shell archive)
+    4_0_1.at	    tar
+
+Language(s):	C
+
+Requirements:	None
+
+Origin:		GNU Project, Free Software Foundation
+		(see a2z/origins/fsf.doc)
+
+See Also:
+
+  archive/tar
+
+Restrictions:	See a2z/doc/gnu_gpl.txt
+
+References:
+
+  A Technique for High Performance Data Compression
+  Terry A. Welch
+  IEEE Computer, vol. 17, no. 6 (June 1984), pp. 8-19
+

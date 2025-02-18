@@ -1,0 +1,30 @@
+Package:        language/lisp/pcl
+
+Description:    PCL - Portable CommonLoops
+
+Version:        ?
+
+Notes:
+ 
+  Portable CommonLoops (PCL) started out as an implementation of CommonLoops
+  written entirely in CommonLisp.  It is in the process of being converted to
+  an implementation of CLOS.  Currently it implements a only a subset of the
+  CLOS specification.  Unfortunately, there is no detailed description of the
+  differences between PCL and the CLOS specification, the source code is
+  often the best documentation.
+
+	.../get-pcl.text
+
+Language(s):    Lisp
+
+Requirements:   ?
+
+Origin:         CommonLoops Coordinator, Xerox PARC
+		(see a2z/origins/xerox.doc)
+
+See Also:       ?
+
+Restrictions:   See .../*.lisp
+
+References:	?
+

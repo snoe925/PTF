@@ -1,0 +1,28 @@
+Package:	language/sed/gnu_sed
+
+Description:	GNU sed
+
+Version:	1.08
+
+Notes:
+
+  This sed may run slower than some UN*X seds.  This is because it uses
+  the regular-expression routines from Emacs, which are rather complete
+  and powerful, but not as fast as they could be.  If you really care
+  about speed, use perl instead.
+
+	.../README
+
+Language(s):    C
+
+Requirements:   ?
+
+Origin:         GNU Project, Free Software Foundation
+		(see a2z/origins/fsf.doc)
+
+See Also:       ?
+
+Restrictions:   See a2z/text/gnu_gpl.txt
+
+References:	?
+

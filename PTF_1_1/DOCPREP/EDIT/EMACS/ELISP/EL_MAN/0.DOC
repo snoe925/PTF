@@ -1,0 +1,25 @@
+Package:        docprep/edit/emacs/elisp/el_man
+
+Description:    GNU Elisp Manual
+
+Version:        1.03
+
+Notes:
+
+  Here it is, the magnum opus.  Print it out, if you wish (but buying
+  copies from FSF really makes more sense), but mainly it's here for
+  online access.
+
+Language(s):    elisp
+
+Requirements:   emacs
+
+Origin:         Ohio State University
+		(see a2z/origins/osu.doc)
+
+See Also:       language/lisp
+
+Restrictions:   See a2z/text/gnu_gpl.txt
+
+References:	?
+

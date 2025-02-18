@@ -1,0 +1,34 @@
+Package:	language/icon/library
+
+Description:	Icon program library, etc.
+
+Version:	8.1
+
+Notes:
+
+  The Icon program library consists of Icon programs [progs.atz] and
+  procedures [procs.atz] as well as data [data.atz].  Version 8 of Icon is
+  required to run most of the library.
+
+  In addition to the Icon program library proper, the library distribution
+  contains Idol [idol.atz], an object-oriented version of Icon written in
+  Icon.
+
+	.../ipd172.doc
+    
+  We have carried this aggregation a bit further, tossing in contributed
+  software [contrib.atz] and Icon newsgroup text [newsgrp.atz].
+
+Language(s):	Icon
+
+Requirements:	?
+
+Origin:		Icon Project, University of Arizona
+		(see a2z/origins/uaz.doc)
+
+See Also:	language/icon/icon
+
+Restrictions:	See .../ipd172.doc
+
+References:	?
+

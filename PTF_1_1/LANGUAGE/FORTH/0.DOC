@@ -1,0 +1,174 @@
+Topic:		language/forth
+
+Description:	Forth Language Tools
+
+Notes:
+
+  FORTH is a very portable language, based on Reverse Polish Notation (RPN).
+  It is commonly implemented by means of an "incremental compiler", which
+  interactively accepts code, processes it into internal form, and stores it.
+
+  FORTH code tends to be very compact, and it commonly has very tight access
+  to the hardware of the computer.  (On UNIX systems, the kernel disallows
+  this, but code ported to microprocessors will regain this access.)
+
+  There is an active FORTH user community, quite disjunct from the usual
+  UNIX and AI crowd.  For information, contact:
+
+	Forth Interest Group (FIG)
+	P.O. Box 8231
+	San Jose, CA  95155
+	408-277-0668
+	408-286-8988 (fax)
+
+Contains:
+
+  t_forth   P    TILE Forth
+
+See Also:
+
+  language/p_script
+
+References:
+
+ Periodicals
+
+  Annual Forth Issue
+  Dr. Dobb's Journal
+  (Sept. 1982, 1983, 1984)
+
+  Forth Dimensions
+  (see FIG, above)
+
+  JFAR (Journal of ???)
+  (see FIG, above)
+
+  SIGForth Newsletter
+  ACM (Association for Computing Machinery)
+
+ Proceedings
+
+  Australian Forth Symposium
+  (see FIG, above)
+
+  FORML (Forth Modification Laboratory)
+  (see FIG, above)
+
+ Books
+
+  All About Forth, 3rd. Ed.
+  Glen B. Haydon
+  ?, 1990, ISBN ?
+  (see FIG, above)
+
+  Bibliography of Forth References, 3rd Ed.
+  ?
+  ?, 1987, ISBN ?
+  (see FIG, above)
+
+  eFORTH Implementation Guide
+  C.H. Ting
+  ?, 19??, ISBN ?
+  (see FIG, above)
+
+  F83 Source
+  Henry Laxen, Michael Perry
+  ?, 19??, ISBN ?
+  (see FIG, above)
+
+  FORTH
+  W.P. Salman, O. Tisserand, B. Toulout
+  Springer-Verlag, 1984, ISBN 0-387-91256-8
+
+  FORTH
+    Applications in Engineering and Industry
+  John Matthews
+  ?, 19??, ISBN ?
+  (see FIG, above)
+
+  FORTH
+    A Text and Reference
+  Mahlon G. Kelly, Nicholas Spies
+  ?, 19??, ISBN ?
+  (see FIG, above)
+
+  FORTH-83 Standard
+  ?, 19??, ISBN ?
+  (see FIG, above)
+
+  The FORTH Course
+  Richard E. Haskell
+  ?, 19??, ISBN ?
+  (see FIG, above)
+
+  FORTH Encyclopedia
+  Mitch Derick, Linda Baker
+  ?, 19??, ISBN ?
+  (see FIG, above)
+
+  Forth for Professionals
+    a practical programming language for research and development
+  Ronald Zech
+  Ellis Horwood (Prentice Hall), 1990, ISBN 0-13-327040-8
+
+  FORTH Notebook
+  Dr. C.H. Ting
+  ?, 19??, ISBN ?
+  (see FIG, above)
+
+  FORTH Notebook II
+  Dr. C.H. Ting
+  ?, 19??, ISBN ?
+  (see FIG, above)
+
+  F-PC User's Manual, 2nd. Ed.
+  ?
+  ?, 19??, ISBN ?
+  (see FIG, above)
+
+  Inside F-83
+  Dr. C.H. Ting
+  ?, 19??, ISBN ?
+  (see FIG, above)
+
+  Library of Forth Routines and Utilities
+  James D. Terry
+  ?, 19??, ISBN ?
+  (see FIG, above)
+
+  Mastering FORTH
+  Anita Anderson, Martin Tracy, MicroMotion
+  Brady (Prentice Hall), 1984, ISBN 0-89303-660-9
+
+  Object-Oriented Forth
+    Implementation of Data Structures
+  Dick Pountain
+  Academic Press, 1987, ISBN 0-12-563570-2
+
+  Stack Computers
+    The New Wave
+  Philip J. Koopman, Jr.
+  ?, 19??, ISBN ?
+  (see FIG, above)
+
+  Starting FORTH, 2nd. Ed.
+  Leo Brodie
+  Prentice Hall, 1987, ISBN 0-13-843079-9
+
+  Systems Guide to fig-FORTH, 2nd. Ed.
+  Dr. C.H. Ting
+  ?, 1989, ISBN ?
+  (see FIG, above)
+
+  Thinking FORTH
+  Leo Brodie
+  Prentice Hall, 1987, ISBN 0-13-843079-9
+
+  Toolbook of FORTH, V1
+  Dr. Dobb's Journal
+  ?, 19??, ISBN ?
+
+  Toolbook of FORTH, V2
+  Dr. Dobb's Journal
+  ?, 19??, ISBN ?
+

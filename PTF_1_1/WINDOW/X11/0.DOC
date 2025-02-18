@@ -1,0 +1,197 @@
+Topic:		window/x11
+
+Description:	The X Window System, Version 11
+
+Notes:
+
+  The X Window System is a powerful portable window system for bitmapped
+  displays, developed at the Massachusetts Institute of Technology (MIT).  The
+  X Window System (Often just called X) runs on a wide range of systems.  It
+  has become a de-facto standard because of its manufacturer independence, its
+  portability, its versatility in handling colour, and its ability to operate
+  transparently across a network.  It is an excellent vehicle for research,
+  because the source code is freely available.
+
+	Preface, The X Window System: A User's Guide
+
+  The look and feel of the X system are controlled by a "Window Manager" and
+  associated library routines.  Hence, one must learn not only about X, but
+  also about one or more "Look and Feel" collections. The major ones are:
+
+	Andrew
+	Athena
+	Motif
+	Open Look
+
+Contains:
+
+  r5        T    X Window System, Vers. 11, Rel. 5
+
+See Also:
+
+  window/NeWS
+
+References:
+
+  ------     Andrew	------
+
+  Multimedia Applications Development with the Andrew Toolkit
+  Nathaniel S. Borenstein
+  Prentice Hall, 1990, ISBN 0-13-036633-1
+
+  ------     Motif	------
+
+  MOTIF Programming
+  Eric F. Johnson, Kevin Reichard
+  MIS:PRESS, 1990, ISBN 1-55828-059-6
+
+  Motif Programming Manual
+    For OSF/Motif Version 1.1
+  Dan Heller
+  O'Reilly, 1991, ISBN 0-937175-70-6
+
+  OSF/Motif Programmer's Guide
+  OSF
+  Prentice Hall, 1990, ISBN 0-13-640525-8
+
+  OSF/Motif Programmer's Reference
+  OSF
+  Prentice Hall, 1990, ISBN 0-13-640517-7
+
+  OSF/Motif Reference Guide
+  Douglas Young
+  Prentice Hall, 1990, ISBN 0-13-642786-3
+
+  OSF/Motif Style Guide
+  OSF
+  Prentice Hall, 1990, ISBN ???
+
+  OSF/Motif User's Guide
+  OSF
+  Prentice Hall, 1990, ISBN 0-13-640509-6
+
+  Visual Design with OSF/Motif
+    Shiz Kobara
+  Addison-Wesley, 1991, ISBN 0-201-56320-7
+
+  X Window System User's Guide, OSF/Motif Edition
+  Valerie Quercia, Tim O'Reilly
+  O'Reilly, 1991, ISBN 0-937175-61-7
+
+  ------    Open Look	------
+
+  An OPEN LOOK at UNIX: A Developer's Guide to X
+  John David Miller
+  M&T Books, 1990, ISBN 1-55851-057-5
+
+  OPEN LOOK GUI Application Style Guidelines
+  Sun Microsystems, Inc.
+  Addison-Wesley, 1990, ISBN 0-201-52364-7
+
+  OPEN LOOK GUI Functional Specification
+  Sun Microsystems, Inc.
+  Addison-Wesley, 1989, ISBN 0-201-52365-5
+
+  OPEN LOOK GUI Programmer's Guide
+  UNIX System Laboratories, Inc.
+  Prentice Hall, 1992, ISBN 0-13-726605-7
+
+  OPEN LOOK GUI Programmer's Reference Manual
+  UNIX System Laboratories, Inc.
+  Prentice Hall, 1990, ISBN ???
+
+  OPEN LOOK GUI User's Guide
+  UNIX System Laboratories, Inc.
+  Prentice Hall, 1992, ISBN 0-13-636267-2
+
+  Programmer's Guide: OPEN LOOK Graphical User Interface
+  USO
+  Prentice Hall, 1990, ISBN ???
+
+  XView Programming Manual, 3rd. Ed.
+  Dan Heller
+  O'Reilly, 1991, ISBN 0-937175-87-0
+
+  XView Reference Manual for XView Version 3
+  Thomas van Raalte, ed.
+  O'Reilly, 1991, ISBN 0-937175-88-9
+
+  ------       X11	------
+
+  Introduction to the X Window System
+  Oliver Jones
+  Prentice Hall, 1989, ISBN 0-13-499997-5
+
+  Advanced X Window Applications Programming
+  Eric F. Johnson, Kevin Reichard
+  MIS:PRESS, 1990, ISBN 1-55828-029-4
+
+  Object-Oriented Programming with the X Window System Toolkits
+  Jerry D. Smith
+  John Wiley, 1991, ISBN 0-471-53259-2
+
+  Programmer's Guide: XWIN Graphical Windowing System
+    Addenda: Technical Papers
+  USO
+  Prentice Hall, 1990, ISBN ???
+
+  Programmer's Guide: XWIN Graphical Windowing System
+    The X Toolkit
+  USO
+  Prentice Hall, 1990, ISBN ???
+
+  Programmer's Guide: XWIN Graphical Windowing System
+    Xlib-C Language Interface
+  USO
+  Prentice Hall, 1990, ISBN ???
+
+  Software Practice & Experience
+    Special Issue on the X Window System
+  Volume 20, No. S2
+  ISBN 0471 930067
+
+  X Toolkit Intrinsics Programming Manual
+    OSF/Motif 1.1 Edition for X11, Version 4
+  Adrian Nye, Tim O'Reilly
+  O'Reilly, 1990, ISBN 0-937175-62-5
+
+  The X Window System: A User's Guide
+  Niall Mansfield
+  Addison-Wesley, 1991, ISBN 0-201-56344-4
+  
+  X Window System User's Guide for Version 11
+  Tim O'Reilly, Valerie Quercia, Linda Lamb
+  O'Reilly, 1988, ISBN 0-937175-29-3
+
+  Xlib Programming Manual
+    for Version 11 of the X Window System
+  Adrian Nye
+  O'Reilly, 1988, ISBN 0-937175-26-9
+
+  Xlib Reference Manual
+    for Version 11 of the X Window System
+  Adrian Nye, ed.
+  O'Reilly, 1988, ISBN 0-937175-27-7
+
+  ------    X11/NeWS	------
+
+  Programmer's Guide: X11/NeWS Graphical Windowing System
+    NeWS
+  USO
+  Prentice Hall, 1990, ISBN ???
+
+  Programmer's Guide: X11/NeWS Graphical Windowing System
+    Server Guide
+  USO
+  Prentice Hall, 1990, ISBN ???
+
+  Programmer's Guide: X11/NeWS Graphical Windowing System
+    tNt Technical Reference Manual
+  USO
+  Prentice Hall, 1990, ISBN ???
+
+  Programmer's Guide: X11/NeWS Graphical Windowing System
+    XVIEW
+  USO
+  Prentice Hall, 1990, ISBN ???
+

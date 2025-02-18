@@ -1,0 +1,38 @@
+Package:	language/c/library/gmp
+
+Description:	gmp - GNU multiple precision (MP) library
+
+Version:	1.1
+
+Notes:
+
+  GNU MP is a library for arbitrary precision arithmetic, operating on
+  signed integers and rational numbers.  It has a rich set of functions,
+  and the functions have a regular interface.
+
+  I have tried to make these functions as fast as possible, both for small
+  operands and for huge operands.  The speed is achieved by using fullwords
+  as the basic arithmetic type, by using fast algorithms, by defining inline
+  assembler for mixed sized multiplication and division (i.e 32*32->64 bit
+  multiplication and 64/32->32,32 bit division), and by hacking the code
+  with emphasis on speed (and not simplicity and elegance).
+
+  The speed of GNU MP is about 5 to 100 times that of Berkeley MP for
+  small operands.  The speed-up increases with the operand sizes for
+  certain operations, where GNU MP has asymptotically faster algorithms
+
+	.../gmp.texi
+
+Language(s):    C
+
+Requirements:   ?
+
+Origin:         GNU Project, Free Software Foundation
+		(see a2z/origins/fsf.doc)
+
+See Also:       ?
+
+Restrictions:   See a2z/text/gnu_gpl.txt
+
+References:	?
+

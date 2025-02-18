@@ -1,0 +1,24 @@
+Package:	datacomm/network/athena/tools
+
+Description:	Assorted Athena Tools
+
+Version:	NA
+
+Notes:
+
+  This is a grab bag of tools for use with the major Athena packages.
+
+Language(s):    C
+
+Requirements: 	?
+
+
+Origin:         Project Athena, Massachusetts Institute of Technology
+		(see a2z/origins/mit.doc)
+
+See Also:       ?
+
+Restrictions:   See .../{com_err,ss}/mit-sipb-copyright.h
+
+References:	?
+

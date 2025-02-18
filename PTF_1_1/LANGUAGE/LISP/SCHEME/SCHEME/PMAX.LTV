@@ -1,0 +1,27 @@
+rwxrwxrwx  2/2      0 Oct 15 20:50 1991 dist-7.1.3/
+rwxrwxrwx  2/2      0 Oct 15 16:17 1991 dist-7.1.3/bin/
+r-xr-xr-x  2/21112020 Oct  8 17:49 1991 dist-7.1.3/bin/scheme
+r-xr-xr-x  2/21128400 Oct  8 17:54 1991 dist-7.1.3/bin/bchscheme
+rwxrwxrwx  2/2      0 Oct 15 20:51 1991 dist-7.1.3/lib/
+rwxrwxrwx  2/2      0 Oct 15 20:49 1991 dist-7.1.3/lib/options/
+r--r--r--  2/2  35756 Oct 11 01:59 1991 dist-7.1.3/lib/options/numint.com
+r--r--r--  2/2  32320 Oct 11 01:23 1991 dist-7.1.3/lib/options/hashtb.com
+r--r--r--  2/2  19784 Oct 11 01:16 1991 dist-7.1.3/lib/options/format.com
+rwxrwxrwx  2/2      0 Oct 15 20:50 1991 dist-7.1.3/lib/edwin/
+rwxrwxrwx  2/2      0 Oct 15 20:50 1991 dist-7.1.3/lib/edwin/autoload/
+r--r--r--  2/2  22520 Oct 15 16:39 1991 dist-7.1.3/lib/edwin/autoload/c-mode.com
+r--r--r--  2/2  26000 Oct 15 16:40 1991 dist-7.1.3/lib/edwin/autoload/cinden.com
+r--r--r--  2/2  32688 Oct 15 16:50 1991 dist-7.1.3/lib/edwin/autoload/dired.com
+r--r--r--  2/2  85076 Oct 15 16:59 1991 dist-7.1.3/lib/edwin/autoload/info.com
+r--r--r--  2/2  15092 Oct 15 17:01 1991 dist-7.1.3/lib/edwin/autoload/keymap.com
+r--r--r--  2/2   7804 Oct 15 17:07 1991 dist-7.1.3/lib/edwin/autoload/midas.com
+r--r--r--  2/2  19240 Oct 15 17:12 1991 dist-7.1.3/lib/edwin/autoload/pasmod.com
+r--r--r--  2/2  11104 Oct 15 17:16 1991 dist-7.1.3/lib/edwin/autoload/reccom.com
+r--r--r--  2/2  25868 Oct 15 17:30 1991 dist-7.1.3/lib/edwin/autoload/tags.com
+r--r--r--  2/2   6204 Oct 15 19:19 1991 dist-7.1.3/lib/edwin/autoload/tximod.com
+r--r--r--  2/2  33852 May 19 10:16 1988 dist-7.1.3/lib/edwin/TUTORIAL
+r--r--r--  2/25791568 Oct 15 16:12 1991 dist-7.1.3/lib/compiler.com
+r--r--r--  2/24637168 Oct 15 20:39 1991 dist-7.1.3/lib/edwin.com
+r--r--r--  2/22312260 Oct 15 16:05 1991 dist-7.1.3/lib/runtime.com
+r--r--r--  2/2  13292 Oct 10 18:40 1991 dist-7.1.3/lib/utabmd.bin
+r--r--r--  2/2  10612 Jan  8 16:05 1991 dist-7.1.3/INSTALL

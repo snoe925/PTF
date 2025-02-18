@@ -1,0 +1,42 @@
+Package:	docprep/misc/t_utils
+
+Description:	t_utils - GNU text utilities
+
+Version:	1.1
+
+Notes:
+
+  These are the GNU text file processing utilities.  Most of these programs
+  have significant advantages over their Unix counterparts, such as greater
+  speed, additional options, and fewer arbitrary limits.  Some of these
+  programs used to be in the GNU file utilities.
+
+  ...
+
+  The textutils are intended to be POSIX compliant (with BSD and other
+  extensions), like the rest of the GNU system.  They are not all quite
+  there yet; however, the POSIX shell and utilities standard (1003.2)
+  has not been finalized, either.  They presently don't support
+  internationalization features.
+
+	.../README
+
+  The current set includes cat, cmp, comm, csplit, cut, expand, fold,
+  head, join, paste, pr, sort, split, tac, tail, unexpand, uniq, and wc.
+
+Language(s):    C
+
+Requirements:   ?
+
+Origin:         GNU Project, Free Software Foundation
+		(see a2z/origins/fsf.doc)
+
+See Also:
+
+  misc/f_utils
+  pgm_tools
+
+Restrictions:   See a2z/text/gnu_gpl.txt
+
+References:	?
+

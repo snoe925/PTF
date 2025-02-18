@@ -1,0 +1,20 @@
+Topic:		language/tcl
+
+Description:	Tcl - an embeddable command language
+
+Notes:
+
+  John Ouster wrote Tcl, and more recently Tk.  Don Libes came along with
+  expect, and we fully "expect" to see more good code coming out of this
+  area of inquiry.
+
+Contains:
+
+  expect    P    expect - Interactive Program Harness
+  tcl       P    Tcl - Tool Command Language
+  tk        P    The Tk Toolkit for X11
+
+See Also:	?
+
+References:
+

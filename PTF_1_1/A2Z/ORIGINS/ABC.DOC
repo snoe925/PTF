@@ -1,0 +1,34 @@
+abc.doc
+=======
+
+ABC Implementations
+
+
+ABC
+---
+
+  The sources for the Unix version have been posted to the
+  comp.sources.unix group on Usenet; the binaries to comp.binaries.{mac,
+  ibm.pc, atari.st}. They are also available from some servers, for
+  instance by anonymous ftp from hp4nl.nluug.nl [192.16.202.2],
+  mcsun.eu.net [192.16.202.1], and uunet.uu.net [192.48.96.2], in the
+  directory {pub}/{programming}/languages/abc, or send the mail message
+
+        request: programming/languages/abc
+        topic: index
+
+  to info-server@hp4nl.nluug.nl, for a list of the available files, or use
+
+        topic: <filename>
+
+  to get one of the files.
+
+
+  ABC Implementations
+  CWI/AA
+  Kruislaan 413
+  1098 SJ AMSTERDAM
+  The Netherlands
+
+  Email: abc@cwi.nl
+

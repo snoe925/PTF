@@ -1,0 +1,22 @@
+Topic:		ai/connect
+
+Description:	Connectionist Tools
+
+Notes:
+
+  Connectionist, or parallel distributed processing systems create large
+  numbers of "units" and "connections", then set them to solving tasks in
+  a cooperative manner.
+
+Contains:
+
+  gradsim   P    GRADSIM Connectionist Network Simulator
+  planet    P    PlaNet - PDP Network Tool
+
+See Also:
+
+  ai/cellular
+  ai/neural
+
+References:	?
+

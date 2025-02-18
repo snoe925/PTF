@@ -1,0 +1,15 @@
+rwxrwxrwx5760/0      0 Sep 11 21:13 1989 dist-indent/
+rw-rw-rw-5760/0  46737 Sep  5 18:10 1989 dist-indent/indent.c
+rw-rw-rw-5760/0  19073 Sep 11 17:23 1989 dist-indent/io.c
+rw-rw-rw-5760/0  16488 Sep  2 19:50 1989 dist-indent/lexi.c
+rw-rw-rw-5760/0  11618 Sep  2 19:53 1989 dist-indent/parse.c
+rw-rw-rw-5760/0  12826 Aug 31 20:30 1989 dist-indent/pr_comment.c
+rw-rw-rw-5760/0  13387 Sep  3 10:52 1989 dist-indent/args.c
+rw-rw-rw-5760/0   1962 Aug 31 17:40 1989 dist-indent/globs.c
+rw-rw-rw-5760/0   1736 Sep 11 17:07 1989 dist-indent/Makefile
+rw-rw-rw-5760/0  23435 Aug 12 02:24 1989 dist-indent/indent.texinfo
+rw-rw-rw-5760/0  10119 Sep 11 17:23 1989 dist-indent/ChangeLog
+rw-rw-rw-5760/0    624 Sep  3 10:44 1989 dist-indent/Projects
+rw-rw-rw-5760/0  16389 Sep  3 10:56 1989 dist-indent/indent_globs.h
+rw-rw-rw-5760/0    287 Sep 11 21:13 1989 dist-indent/version.h
+rw-rw-rw-5760/0    623 Aug 21 23:06 1989 dist-indent/indent.gperf

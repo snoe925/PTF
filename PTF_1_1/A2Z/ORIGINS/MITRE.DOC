@@ -1,0 +1,27 @@
+mitre.doc
+=========
+
+The Mitre Corporation
+
+
+AM
+--
+
+  The software is available from two FTP sites, CMU's simulator collection
+  and UCLA's cognitive science machines.  The compressed tar file is a little
+  more than 2 megabytes.  The software is currently only available via
+  anonymous FTP.
+
+  ftp: pt.cs.cmu.edu (128.2.254.155)
+		/afs/cs/project/connect/code/am4.tar.Z
+ 
+  polaris.cognet.ucla.edu (128.97.50.3)
+		alexis/am4.tar.Z
+ 
+  Problems? - contact us at "connectionists-request@cs.cmu.edu".
+
+  Russell Leighton
+  Alexis Weiland
+  The MITRE Corporation
+  7525 Colshire Dr.
+  McLean, Va. 22102-3481

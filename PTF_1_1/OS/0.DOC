@@ -1,0 +1,24 @@
+Topic:		os
+
+Description:	Operating Systems
+
+Notes:
+
+  Whole operating systems are beginning to emerge as freeware.  Some are
+  pretty spartan, and must be augmented by user applications before they
+  can do much.  Others are quite complete, even baroque.
+
+Contains:
+
+  mach      P    The Mach operating system
+  mdqs      P    MDQS - Multi-Device Queueing System
+
+See Also:	?
+
+References:
+
+  Distributed Operating Systems
+    The Logical Design
+  A. Goscinski
+  Addison-Wesley, 1991, ISBN 0-201-41704-9
+

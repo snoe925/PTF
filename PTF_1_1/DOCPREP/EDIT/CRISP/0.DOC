@@ -1,0 +1,53 @@
+Package:	docprep/edit/crisp
+
+Description:	CRISP - Programmers Editor
+
+Version:	v2.2e
+
+Notes:
+
+  CRISP (Custom Reduced Instruction Set Programmers Editor) is a programmers
+  editor containing many advanced features.  The following is just a small
+  list of features available:
+
+    Full color support and highlighting of blocks for copying and deleting.
+
+    Full infinite levels of undo and redo.
+
+    Multiple buffers and windows on screen.
+
+    Multiple backups of files.
+
+    Multiple named scrap buffers for cutting and pasting between buffers.
+
+    C-like programming language allowing users to enhance and customise
+    the functionality of the editor.
+
+    Integrated access to external system programs, e.g.  C compiler,
+    shells, etc.
+
+    Scroll-locking two windows together to allow side by side file comparisons.
+
+  Where ever possible, CRISP has no internal limitation on the number of
+  files being edited, maximum line length, etc. CRISP is only limited by
+  your machines memory and disk space limitations.
+
+  In essence, CRISP combines some of the best features of other
+  editors available, e.g. vi, emacs, BRIEF.
+
+	.../help/user.mm
+
+Language(s):    C
+
+Requirements:   ?
+
+Origin:         Foxtrot Systems Ltd.
+		(see a2z/origins/foxtrot.doc)
+
+See Also:       ?
+
+Restrictions:   See .../copyleft
+		N.B. this is *shareware*
+
+References:
+

@@ -1,0 +1,23 @@
+Topic:		desktop
+
+Description:	Desktop Productivity Tools
+
+Notes:
+
+  Desktop productivity tools tend to be pretty mundane:  spreadsheets, desk
+  calculators, etc.  They are nonetheless quite handy.  Many of the programs
+  found in window systems fall into this category, and will be found in the
+  window systems' sub-trees.
+
+Contains:
+
+  calc      T    Desk Calculator
+  s_sheet   T    Spreadsheets
+
+See Also:
+
+  misc
+  window
+
+References:	?
+

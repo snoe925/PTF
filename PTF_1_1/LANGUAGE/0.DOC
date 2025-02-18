@@ -1,0 +1,59 @@
+Topic:		language
+
+Description:	Computer Languages
+
+Notes:
+
+  Computer language processing tools come in a variety of flavors: compilers,
+  interpreters, debuggers, linkers, etc.  Most of these tools are specific to
+  a particular language (e.g., C).  For portability, an increasing number of
+  languages are being translated to, or implemented in, the C language.  This
+  allows them to run, at some cost in execution speed, on almost any current
+  machine.
+
+Contains:
+
+  abc       P    The ABC Programming Language
+  assembly  T    Assembly Language Tools
+  awk       T    The AWK Programming Language
+  bc        T    bc - arbitrary precision desk calculator
+  c         T    C Language Tools
+  c_p_p     T    The C++ Programming Language
+  clu       P    CLU
+  forth     T    Forth Language Tools
+  icon      T    The Icon Programming Language
+  lex       T    The Lex Programming Language
+  lisp      T    Lisp Language Tools
+  m4        T    m4 Language Tools
+  p_script  T    PostScript Language Tools
+  perl      T    Practical Extraction and Report Language
+  prolog    T    The Prolog Programming Language
+  s_talk    T    Smalltalk Language Tools
+  sed       T    The Sed Programming Language
+  shell     T    The Shell Programming Language
+  sr        T    The SR Programming Language
+  tcl       T    Tcl - an embeddable command language
+  txl       T    TXL - Tree Transformation Language
+  yacc      T    The Yacc Programming Language
+
+See Also:	?
+
+References:
+
+  Concurrent Programming
+    Principles and Practice
+  Gregory R. Andrews
+  Benjamin/Cummings, 1991, ISBN 0-8053-0086-4
+
+  Fundamentals of Programming Languages, 2nd. Ed.
+  Ellis Horowitz
+  Computer Science Press, 1984, ISBN 0088175-004-2
+
+  High-Level Languages and Their Compilers
+  Des Watson
+  Addison-Wesley, 1989, ISBN 0-201-18489-4
+
+  Parallel Logic Programming
+  Evan Tick
+  MIT Press, 1991, ISBN 0-262-20087-2
+

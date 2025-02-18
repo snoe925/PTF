@@ -1,0 +1,17 @@
+rwxrwxr-x17822/0      0 May 22 11:35 1990 ./
+rw-r--r--17822/0   1117 May 22 11:25 1990 ./athena.db
+rw-r--r--17822/0    135 May 22 11:29 1990 ./gdb.db
+rw-r--r--17822/0    739 May 22 10:07 1990 ./hesiod.db
+rw-r--r--17822/0    169 May 22 11:30 1990 ./printcap.db
+rw-r--r--17822/0   8208 May 22 11:30 1990 ./service.db
+rw-r--r--17822/0    971 May 22 11:29 1990 ./cluster.db
+rw-r--r--17822/0   1117 May 22 11:29 1990 ./filsys.db
+rw-r--r--17822/0    215 May 22 10:09 1990 ./gid.db
+rw-r--r--17822/0    255 May 22 11:29 1990 ./group.db
+rw-r--r--17822/0    215 May 22 11:29 1990 ./grplist.db
+rw-r--r--17822/0    433 May 22 11:30 1990 ./passwd.db
+rw-r--r--17822/0    261 May 22 11:30 1990 ./pobox.db
+rw-r--r--17822/0    203 May 22 11:30 1990 ./sloc.db
+rw-r--r--17822/0    186 May 22 10:09 1990 ./uid.db
+rw-rw-r--17822/0    413 May 22 11:34 1990 ./README
+rw-r--r--17822/0    303 May 22 11:35 1990 ./named.boot

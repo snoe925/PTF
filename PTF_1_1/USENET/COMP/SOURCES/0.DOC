@@ -1,0 +1,28 @@
+Topic:		usenet/comp/sources
+
+Description:	"comp.sources" Usenet Archives
+
+Notes:
+
+  The "comp.sources" archives contain computer source code.  Let's say Joe
+  Programmer has a nifty hack that he wants folks to use.  He mails it to
+  the moderator of "comp.sources.xxx".  The moderator logs it in, evaluates
+  it, and (perhaps) posts it to the group.  At that point, the code is one
+  with the ages.  A zillion archive sites stash it away; miscellaneous
+  hackers try it out, etc.  Anyway, here are some of those archived groups.
+
+Contains:
+
+  3b1       P    "comp.sources.3b1" Usenet Archives
+  amiga     P    "comp.sources.amiga" Usenet Archives
+  games     P    "comp.sources.games" Usenet Archives
+  misc      P    "comp.sources.misc" Usenet Archives
+  reviewed  P    "comp.sources.reviewed" Usenet Archives
+  sun       P    "comp.sources.sun" Usenet Archives
+  unix      P    "comp.sources.unix" Usenet Archives
+  x         P    "comp.sources.x" Usenet Archives
+
+See Also:	?
+
+References:	?
+

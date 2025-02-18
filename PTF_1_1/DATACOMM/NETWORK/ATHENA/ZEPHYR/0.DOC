@@ -1,0 +1,36 @@
+Package:	datacomm/network/athena/zephyr
+
+Description:	zephyr - Project Athena Service Mgt. System
+
+Version:	3.19 (patchlevel 3)
+
+Notes:
+
+  Zephyr is a notice transport and delivery system under development at
+  Project Athena.  Zephyr is for use by network-based services and
+  applications with a need for immediate, reliable, and rapid
+  communication with their clients.  Zephyr meets the high-throughput,
+  high fan-out communications requirements of large-scale workstation
+  environments.  It is designed as a suite of "layered services" based
+  on a reliable, authenticated notice protocol.  Multiple, redundant
+  Zephyr servers provide basic routing, queueing, and dispatching
+  services to clients that communicate via the Zephyr Client Library.
+  More advanced communication services are bnuilt upon this base.
+
+	.../doc/usenix.ps
+
+Language(s):    C
+
+Requirements: 	?
+
+
+Origin:         Project Athena, Massachusetts Institute of Technology
+		(see a2z/origins/mit.doc)
+
+See Also:       ?
+
+Restrictions:   See .../{et,ss}/lib/mit-sipb-copyright.h,
+		.../include/zephyr/mit-copyright.h
+
+References:	?
+

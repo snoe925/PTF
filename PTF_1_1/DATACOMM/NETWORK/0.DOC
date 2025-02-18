@@ -1,0 +1,29 @@
+Topic:		datacomm/network
+
+Description:	Network Administration Tools
+
+Notes:		?
+
+Contains:
+
+  athena    T    Project Athena
+  finger    P    finger - GNU finger
+  isode     P    isode - ISO Development Environment
+  sos       P    SOS - Stan's Own (NFS) Server
+
+See Also:	?
+
+References:
+
+  UNIX Communications
+  Bart Anderson, Bryan Costales, Harry Henderson
+  Sams (Macmillan), 1987, ISBN 0-672-22511-5
+
+  UNIX Networking
+  Stephen G. Kochan, Patrick H. Wood, eds.
+  Hayden (Macmillan), 1989, ISBN 0-672-48440-4
+
+  UNIX Networking
+  Bill Rieken, Lyle Weiman
+  .sh consulting, 1989, ISBN (none)
+

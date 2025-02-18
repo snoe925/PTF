@@ -1,0 +1,77 @@
+Topic:		language/lisp/scheme
+
+Description:	The SCHEME Programming Language
+
+Notes:
+
+  For reasons that we don't fully understand, Lisp and its recent offspring,
+  Scheme, seem to delight the senses.  Scheme programmers are not just
+  interested in the solution to a problem but pride themselves on looking
+  for the most elegant solution, the one whose beauty is self-evident.
+
+  A computer language should provide an environment in which the programmer
+  can creatively produce good computational models or paradigms for the
+  problem at hand.  The programmer's ability to construct paradigms should
+  not be restricted.  I call the ease of constructing paradigms the language's
+  "paradigmicity."  Languages with low paradigmicity are boring.  Programmers
+  should not be straightjacketed.  The creativity of humans is too diverse,
+  our computing needs too varied, and our love of aesthetics too great to be
+  hobbled by languages with low paradigmicity.
+
+  Does high paradigmicity imply complexity?  Hardly.  Arithmetic has high
+  paradigmicity.  With it we've traveled to the moon and managed to do the
+  accounting necessary to run the world's businesses.  Was the discovery of
+  calculus impeded by arithmetic's simplicity?  Or is it perhaps the other way
+  around -- that high paradigmicity must coexist with simplicity?  I believe
+  the latter to be the case.
+
+  How do we create languages with high paradigmicity?  We introduce a few
+  fundamental concepts, a few ways of combining these concepts, and in doing
+  so we take advantage of years of experience in solving problems.
+
+  No popular programming language in existence today has more paradigmicity
+  than Scheme.  Its fundamental concepts are procedures, continuations,
+  engines, conditionals, and assignment-statements.  Everything is closed
+  under composition and recursion, and there is provision for both syntactic
+  and semantic extension.
+
+  	Foreword, The SCHEME Programming Language
+
+
+Contains:
+
+  bench     P    Assorted Scheme Benchmarks
+  oaklisp   P    The CMU implementation of Oaklisp
+  scheme    P    Scheme for assorted machines
+
+See Also:
+
+  ai
+  language/lisp
+
+References:
+
+  An Introduction to Scheme
+  Jerry D. Smith
+  Prentice Hall, 1988, ISBN 0-13-496712-7
+
+  Programming in SCHEME
+  Michael Eisenberg, Harold Abelson (ed.)
+  MIT Press, 1990, ISBN 0-262-55017-2
+
+  Scheme and the Art of Programming
+  George Springer, Daniel P. Friedman
+  MIT Press, 19??, ISBN 0-262-19288-8
+
+  The SCHEME Programming Language
+  R. Kent Dybvig
+  Prentice Hall, 1987, ISBN 0-13-791864-X
+
+  The SCHEMER's Guide
+  Iain Ferguson, Edward Martin, Burt Kaufman
+  Schemers, 19??, ISBN 0-9628745-7-4
+
+  Structure and Interpretation of Computer Programs
+  Harold Abelson, Gerald Jay Sussman, Julie Sussman
+  MIT Press, 1985, ISBN 0-262-01077-1
+

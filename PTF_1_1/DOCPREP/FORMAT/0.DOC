@@ -1,0 +1,20 @@
+Topic:		docprep/format
+
+Description:	Text Formatters
+
+Notes:
+
+  Text formatters are programs that convert mixtures of text and formatting
+  commands into properly formatted (e.g., typeset) documents.  Formatters may
+  rely on local software or hardware to render characters, or they may use
+  their own font software.
+
+Contains:
+
+  tex       T    TeX and related packages
+  troff     T    The Troff System
+
+See Also:	?
+
+References:	?
+

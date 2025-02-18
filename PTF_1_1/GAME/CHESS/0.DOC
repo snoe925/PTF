@@ -1,0 +1,28 @@
+Topic:		game/chess
+
+Description:	The Game of Chess
+
+Notes:
+
+  If you get tired of the feudal skirmishes of academic and corporate life,
+  try an abstract feudal war game.
+
+Contains:
+
+  gnuchess  P    gnuchess - GNU Chess game
+
+See Also:
+
+  window
+
+References:
+
+  Computer Chess (2nd edition)
+  David Welsh, Boris Bazcynski
+
+  Chess Skill in Man and Machine (2nd edition)
+  Peter Frey
+
+  The Joy of Computer Chess
+  David Levy
+

@@ -1,0 +1,31 @@
+Package:	graphics/render/vort
+
+Description:	VORT - Very Ordinary Rendering Tool-kit
+
+Version:	2.0
+
+Notes:
+
+  VORT is a collection of tools and a library for the generation and
+  manipulation of images. It includes a ray tracer, pixel library, and
+  utilities for doing gamma correction, median cuts, etc...
+
+	.../README
+
+Language(s):    C
+
+Requirements:   ?
+
+Origin:         University Of Melbourne
+		(see a2z/origins/melbourn.doc)
+
+See Also:
+
+  graphics/library/vogl
+  graphics/library/vogle
+  graphics/library/vopl
+
+Restrictions:   See .../README
+
+References:	?
+

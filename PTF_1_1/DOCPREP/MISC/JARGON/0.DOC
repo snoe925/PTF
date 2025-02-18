@@ -1,0 +1,52 @@
+Package:	docprep/misc/jargon
+
+Description:	jargon - GNU/MIT Jargon file, etc.
+
+Version:	original, 296
+
+Notes:
+
+  We make several versions of the Jargon File available here.
+
+  jargon.text.Z is the original MIT/Stanford AI jargon file.
+
+  jargon296.ascii.Z is the sixfold-expanded version published in 1991 as
+        "The New Hacker's Dictionary" by MIT Press.  This is the entire
+        text, except for Guy Steele's and Eric Raymond's introductions
+        and the "vietnam wall" credits list at the end (and of course
+        no fancy fonts and cartoons).
+
+  Comming soon (January 1992):
+
+  jargon298.ascii: 1992 update, with corrections and new entries.
+
+  jargon298.info: the File as a browseable Info document.
+
+  vh.tar.Z: the volks-hypertext browser for the Jargon File.
+
+  Watch this space...
+
+	.../README
+
+
+Language(s):    NA
+
+Requirements:   ?
+
+Origin:         GNU Project, Free Software Foundation
+		(see a2z/origins/fsf.doc)
+
+See Also:	?
+
+Restrictions:   See a2z/text/gnu_gpl.txt
+
+References:
+
+  The Hacker's Dictionary
+  Guy Steele, ed.
+  Harper & Row, 1983, ISBN 0-06-091082-8
+
+  The New Hacker's Dictionary
+  Eric Raymond, ed.
+  MIT Press, 1991, ISBN 0-262-68069-6
+

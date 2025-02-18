@@ -1,0 +1,29 @@
+Package:	pgm_tool/patch
+
+Description:	patch - update files per a diff file
+
+Version:	2.0.12u5
+
+Notes:
+
+  Patch will take a patch file containing any of the four forms of difference
+  listing produced by the diff program and apply those differences to an
+  original file, producing a patched version.
+  
+	.../patch.man
+
+Language(s):    C
+
+Requirements:   ?
+
+Origin:         GNU Project, Free Software Foundation
+		(see a2z/origins/fsf.doc)
+
+See Also:      
+
+  pgm_tools/diff
+
+Restrictions:   See a2z/text/gnu_gpl.txt
+
+References:	?
+

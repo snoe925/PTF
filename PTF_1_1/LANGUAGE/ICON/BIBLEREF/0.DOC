@@ -1,0 +1,56 @@
+Package:	language/icon/bibleref
+
+Description:	Bibleref - Icon-based Bible browser
+
+Version:	2.1
+
+Notes:
+
+  This package, Bibleref, offers simple tools for word and passage-based
+  access to the King James or Revised Standard Version of the Bible on UNIX
+  platforms.  Bibleref is quick, and fairly easy to install (assuming you
+  possess a suitable King James Bible text, a sufficiently powerful machine,
+  and know a little about Icon).  It will also run with stock terminals -
+  even nasty old ones that leave magic cookies on your screen.  Bibleref
+  will, however, put a significant dent in your mass storage resources.
+  Your 4-5 megabyte King James or RSV text will get block Huffman encoded,
+  which will bring it down to about three.  The freed space, however, will
+  be gobbled up immediately by some 2 megabytes of auxiliary files, and by
+  the 150k executable (more if you compile, rather than interpret).  In-core
+  requirements for the executable start at about 300k, and go up from there
+  (if your searches are complex enough, you could easily eat up two or three
+  megabytes).  In brief: Bibleref has a large appetite for memory.  Once set
+  up, though, it can operate with fairly minimal impact on the CPU.
+
+  With Bibleref, you can perform most of the more basic, low-level functions
+  commercial Bible browsing packages offer (and perhaps a few not found in
+  some of the commercial packages).  You can, for example,
+
+    -  retrieve any passage in the Bible instantaneously
+    -  move forward or backward relative to the retrieved passage
+    -  search the entire Bible for words and/or word-patterns
+    -  search for word co-occurrences (or the absence thereof)
+    -  save passages and/or passage-lists for use with an editor
+
+  Although this program is hardly the product of any major research effort
+  :-), it should prove sophisticated enough for quick lookup of passages
+  whose precise location you have forgotten, for research on sermons and
+  Bible study classes, and for general topical perusal of the biblical text.
+
+	.../README
+
+Language(s):	C, Icon
+
+Requirements:	Digitized Bible (See .../README)
+
+Origin:		Icon Project, University of Arizona
+		(see a2z/origins/uaz.doc)
+
+See Also:
+
+  language/icon
+
+Restrictions:	?
+
+References:	?
+

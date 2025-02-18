@@ -1,0 +1,35 @@
+Package:	graphics/img_proc/urt
+
+Description:	urt - Utah Raster Toolkit
+
+Version:	3.0
+
+Notes:
+
+  The Utah Raster Toolkit is a set of programs for manipulating and composing
+  raster images.  These tools are based on the Unix concepts of pipes and
+  filters, and operate on images in much the same way as the standard Unix
+  tools operate on  textual  data.  The Toolkit uses a special run length
+  encoding (RLE) format for storing images and interfacing between the
+  various programs.  This reduces the disk space requirements for picture
+  storage and provides a standard header containing descriptive information
+  about an image.  Some of the tools are able to work directly with the
+  compressed picture data, increasing their efficiency.  A library of C
+  routines is provided for reading and writing the RLE image format, making
+  the toolkit easy to extend.
+
+	.../doc/toolkit.doc
+
+Language(s):    C
+
+Requirements:   ?
+
+Origin:         University of Utah
+		(see a2z/origins/utah.doc)
+
+See Also:       ?
+
+Restrictions:   See .../copyright
+
+References:	?
+

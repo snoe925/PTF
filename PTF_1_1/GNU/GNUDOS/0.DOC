@@ -1,0 +1,28 @@
+Package:	gnu/gnudos
+
+Description:	GCC for DOS
+
+Version:	1.37.1X286dos
+
+Notes:
+
+  This is a cross-compiler.  It runs on a PC under DOS, but produces assembly
+  code for an R3000 in IDT's XDS assembler syntax.  It is *not* a complete
+  gcc distribution.  Supplement it from standard gcc.37...
+
+Language(s):    C
+
+Requirements:   ?
+
+Origin:         GNU Project, Free Software Foundation
+		(see a2z/origins/fsf.doc)
+
+See Also:
+
+  language/c
+  pgm_tools
+
+Restrictions:   See a2z/text/gnu_gpl.txt
+
+References:	?
+

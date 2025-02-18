@@ -1,0 +1,18 @@
+Topic:		graphics/library
+
+Description:	Graphics Libraries
+
+Notes:
+
+  Here are some assorted computer graphics libraries.
+
+Contains:
+
+  vogl      P    VOGL - Very Ordinary Graphics Library
+  vogle     P    VOGLE - Graphics Learning Environment
+  vopl      P    VOPL - Very Ordinary Plotting Library
+
+See Also:	?
+
+References:	?
+

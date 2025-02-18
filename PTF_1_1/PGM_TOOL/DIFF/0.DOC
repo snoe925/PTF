@@ -1,0 +1,39 @@
+Package:	pgm_tool/diff
+
+Description:	diff - GNU file difference analyzer
+
+Version:	1.15
+
+Notes:
+
+  This version of diff provides all the features of BSD's diff.  It has these
+  additional features:
+
+    An input file may end in a non-newline character.  If so, its last
+    line is called an incomplete line and is distinguished on output
+    from a full line. ...
+
+    A file is considered to be text if its first characters are all in the
+    ISO 8859 character set; BSD's diff uses Ascii. ...
+    
+	.../README
+
+    (and a zillion added options...)
+
+Language(s):    C
+
+Requirements:   ?
+
+Origin:         GNU Project, Free Software Foundation
+		(see a2z/origins/fsf.doc)
+
+See Also:
+
+  language
+  misc/f_utils
+  pgm_tools/patch
+
+Restrictions:   See a2z/text/gnu_gpl.txt
+
+References:	?
+

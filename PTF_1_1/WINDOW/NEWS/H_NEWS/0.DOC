@@ -1,0 +1,36 @@
+Package:	window/news/h_news
+
+Description:	HyperNeWS - window-based appl. env.
+
+Version:	1.4
+
+Notes:
+
+  HyperNeWS provides a number of object types, such as buttons, sliders,
+  menus, etc. These can be used to design an interface to a program
+  written in C, Prolog or Common Lisp.  The program is referred to as a
+  ``client'' of the HyperNeWS server.  All interface objects used by a
+  client exist on a ``stack'' to which the client must ``connect'' before
+  it can access the objects.
+ 
+  All objects communicate with each other and the client using messages.
+  The client can read or set the value associated with a particular object
+  at any time by sending an appropriate message to the object. The client
+  can also be put into ``listen'' mode where it waits until a message
+  arrives from one of the interface objects.
+
+        .../share/hnman/src/refman.hn 
+
+Language(s):	PostScript
+
+Requirements:	OpenWindows 2.0
+
+Origin:		Turing Institute
+		(see a2z/origins/turing.doc)
+
+See Also:	window/news
+
+Restrictions:	.../share/hnman/src/refman.hn
+
+References:	?
+

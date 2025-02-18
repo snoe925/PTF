@@ -1,0 +1,21 @@
+Topic:		graphics/dataplot/ncsa
+
+Description:	NCSA Data Analysis and Display Tools
+
+Notes:
+
+  The National Center for Supercomputer Applications is developing a
+  substantial system of tools for data analysis and display.  It includes
+  programs for both workstations and supercomputers, a data representation
+  system, and more.
+
+Contains:
+
+  hdf       P    NCSA Hierarchical Data Format Tools
+  samples   P    NCSA Sample Data
+  unix      P    NCSA UNIX-based tools
+
+See Also:       ?
+
+References:	?
+

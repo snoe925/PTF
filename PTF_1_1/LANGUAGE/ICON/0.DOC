@@ -1,0 +1,53 @@
+Topic:		language/icon
+
+Description:	The Icon Programming Language
+
+Notes:
+
+  Icon is a high-level, general-purpose programming language that offers a
+  broad range of string- and list-processing facilities.  It also has a
+  novel expression evaluation mechanism and allows an unusual degree of
+  run-time flexibility.
+
+	- Preface, The Implementation of the Icon Programming Language
+
+  Icon also excels at data structures.  It has lists (subscript or push/pop
+  at either end), sets, and tables (associative arrays).  Any of these can
+  have any of the others as members, allowing quite nifty combinations.
+
+Contains:
+
+  bibleref  P    Bibleref - Icon-based Bible browser
+  icon      P    icon - Icon interpreter
+  iconc     P    iconc - Icon compiler
+  library   P    Icon program library, etc.
+
+See Also:	?
+
+References:
+
+  The Icon Analyst
+    In-Depth Coverage of the Icon Programming Language
+  Icon Project
+  Department of Computer Science,
+  The University of Arizona
+  (see a2z/origins/uaz.doc)
+
+  The Icon Newsletter
+  Icon Project
+  Department of Computer Science,
+  The University of Arizona
+  (see a2z/origins/uaz.doc)
+
+  Icon Programming for Humanists
+  Alan D. Corre'
+  Prentice Hall, 1990, ISBN ?
+
+  The Icon Programming Language, 2nd. Ed.
+  Ralph E. Griswold, Madge T. Griswold
+  Prentice Hall, 1990, ISBN 0-13-447889-4
+ 
+  The Implementation of the Icon Programming Language
+  Ralph E. Griswold, Madge T. Griswold
+  Princeton Univ. Press, 1986, ISBN 0-691-08431-9
+

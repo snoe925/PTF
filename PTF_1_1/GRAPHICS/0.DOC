@@ -1,0 +1,38 @@
+Topic:		graphics
+
+Description:	Graphics Programs
+
+Notes:
+
+  Computer graphics involves the creation of an artificial image by some
+  algorithmic means.  Image processing, a related discipline, deals with the
+  analysis and modification of existing images, generally from the "real
+  world".
+
+  The main areas in representational computer graphics are modeling and
+  rendering.  Modeling has to do with developing equations that describe the
+  geometry and physics of a set of objects.  Rendering translates the scene
+  description into an image, adding shading, texturing, light sources, etc.
+
+  On a more mundane level, there are a variety of computer graphics programs
+  for plotting data.  These typically produce line charts, pie charts, surface
+  grids, etc.
+
+Contains:
+
+  dataplot  T    Data Plotting Programs
+  drawing   T    Drawing Programs
+  img_proc  T    Image Processing Tools
+  library   T    Graphics Libraries
+  render    T    Rendering Programs
+
+See Also:
+
+  window
+
+References:
+
+  Computer Graphics, Principles and Practice, 2nd. Ed.
+  James D. Foley, Andries van Dam, Steven K. Feiner, John F. Hughes
+  Addison-Wesley, 1990, ISBN 0-201-12110-7
+

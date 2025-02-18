@@ -1,0 +1,54 @@
+Topic:		language/sr
+
+Description:	The SR Programming Language
+
+Notes:
+
+  During the past two years we have redesigned and reimplemented the SR
+  (Synchronizing Resources) programming language.  Like its predecessor,
+  SR[[0]] [Andr81, Andr82], SR remains a language for writing distributed
+  programs.  Also, the main language constructs -- resources and operations
+  -- are conceptually the same.  ...
+
+  The redesign of SR has been guided by three major concerns: expressiveness,
+  ease of use, and efficiency.  By expressiveness we mean that it should be
+  possible to solve distributed programming problems in the most
+  straightforward possible way.  This argues for having a flexible set of
+  language mechanisms, both for writing individual modules and for combining
+  modules to form a program.  Distributed programs are generally much more
+  complex than sequential programs.  ...
+
+  One way to make a language expressive is to provide a plethora of distinct
+  mechanisms.  However, this conflicts with our second concern, ease of use.
+  As Hoare has so aptly observed, if programs are to be reliable, the
+  language they are written in must be simple to understand and use [Hoar81].
+  The way we have resolved this tension between expressiveness and simplicity
+  is that SR provides a variety of mechanisms, but they are based on only a
+  few underlying concepts.  Moreover, these concepts are generalizations of
+  those that have been found useful in sequential programming, and they are
+  integrated with the sequential components of SR so that similar things are
+  expressed in similar ways.  ...
+
+  A further consequence of basing SR on a small number of underlying concepts
+  is good performance.  SR provides a greater variety of communication and
+  synchronization mechanisms than any other language, yet each is as efficient
+  as its counterpart in other languages.  We have also designed the language
+  and implemented the compiler and run-time support in concert, revising the
+  language when a construct was found to have an implementation cost that
+  outweighed its utility.  In addition, some of the expressiveness within the
+  language has been realized by ``opening up'' the implementation.  For
+  example, the various mechanisms for invoking and servicing operations are
+  all variations on ways to enqueue and dequeue messages.
+
+	.../doc/overview/sec1
+
+Contains:
+
+  sr        P    SR Programming Language
+
+See Also:
+
+  os
+
+References:	?
+

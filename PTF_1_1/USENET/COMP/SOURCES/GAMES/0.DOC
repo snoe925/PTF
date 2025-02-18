@@ -1,0 +1,24 @@
+Package:	usenet/comp/sources/games
+
+Description:	"comp.sources.games" Usenet Archives
+
+Version:	volumes 4-12
+
+Notes:
+
+  This is a collection of game programs.
+
+Language(s):    C
+
+Requirements:   varies by program
+
+Origin:		See a2z/origins/usenet.doc
+
+See Also:
+
+  window/x11
+
+Restrictions:	?
+
+References:	?
+

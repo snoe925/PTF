@@ -1,0 +1,15 @@
+rwxr-xr-x5083/0      0 Sep  6 13:04 1988 tsystem/
+rw-rw-rw-5083/0   3108 Mar  8 11:04 1988 tsystem/hpassist.c
+rw-rw-rw-5083/0    473 Mar  8 11:04 1988 tsystem/float.c
+rwxrwxr-x5083/02167829 May  2 07:22 1988 tsystem/xt
+rw-r--r--5083/0    733 Mar  9 08:28 1988 tsystem/max_start_t.o
+rwxrwxrwx5083/0     95 Mar  8 11:13 1988 tsystem/linkt
+rw-rw-rw-5083/0   3096 Mar  8 11:05 1988 tsystem/expand.c
+rw-rw-rw-5083/0    323 Mar  9 14:52 1988 tsystem/envset
+rw-rw-rw-5083/0   1187 Mar  9 08:27 1988 tsystem/max_start_t.s
+rw-r--r--5083/0   1413 Mar  8 11:08 1988 tsystem/expand.o
+rw-r--r--5083/0    805 Mar  8 11:08 1988 tsystem/float.o
+rw-r--r--5083/0   2255 Mar  8 11:08 1988 tsystem/hpassist.o
+rw-rw-r--5083/0  10837 Jun 10 09:05 1988 tsystem/dynload.c
+rw-r--r--5083/0      0 Jun 11 11:08 1988 tsystem/max.map
+rw-rw-rw-5083/0   5243 Mar 11 14:58 1988 tsystem/maxbuild.t

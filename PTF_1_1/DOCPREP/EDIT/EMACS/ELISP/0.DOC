@@ -1,0 +1,23 @@
+Topic:		docprep/edit/emacs/elisp
+
+Description:	elisp - Emacs Lisp
+
+Notes:
+
+  Emacs Lisp is the extension language for GNU Emacs.  It has been used to
+  write a wide variety of tools, some only loosely related to text editing.
+
+Contains:
+
+  el_man    P    GNU Elisp Manual
+
+See Also:
+
+  language/lisp
+
+References:
+
+  GNU Emacs Lisp Reference Manual
+  Bil Lewis, Dan LaLiberte, The GNU Manual Group 
+  Free Software Foundation, June, 1991
+

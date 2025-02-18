@@ -1,0 +1,21 @@
+Topic:		misc
+
+Description:	Miscellaneous Packages
+
+Notes:
+
+  If we had anything to say about these, we would have put them somewhere
+  else, no?
+
+Contains:
+
+  f_utils   P    fileutils - GNU file utilities
+  find      P    find - GNU find, etc.
+  grep      T    grep, fgrep, etc.
+  less      P    less - GNU more (more or less)
+  ms        P    MandelSpawn - network Mandelbrot
+
+See Also:	?
+
+References:	?
+

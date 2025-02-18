@@ -1,0 +1,40 @@
+Topic:		database/ingres
+
+Description:	INGRES Data Base Management System
+
+Notes:
+
+  INGRES, developed at UC Berkeley, is a research Relational DBMS.  Ingres
+  Corporation supports a commercial version, with assorted front ends,
+  performance and reliability improvements, etc.  Nonetheless, "University
+  INGRES" has a wide following at research and educational institutions.
+
+  The QUEL language is a predecessor to IBM's SQL and POSTGRES's POSTQUEL.
+  Many Data Base experts consider QUEL to be superior to SQL, in spite of
+  the latter's wide market acceptance.
+  
+
+Contains:
+
+  ingres    P    University INGRES RDBMS
+
+See Also:
+
+  database/postgres
+
+References:
+
+  A Guide to INGRES
+  C.J. Date
+  Addison-Wesley, 1987, ISBN 0-201-06006-X
+
+  INGRES
+    Tools for Building an Information Architecture
+  Carl Malamud
+  Van Nostrand Reinhold, 1989, ISBN 0-442-31800-6
+
+  The INGRES Papers
+    Anatomy of a Relational Database System
+  Michael Stonebraker, ed.
+  Addison-Wesley, 1986, ISBN 0-210-07185-1
+

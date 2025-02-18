@@ -1,0 +1,33 @@
+Package:        language/lisp/kcl/kcl
+
+Description:    KCL - Kyoto Common Lisp
+
+Version:        June 1987
+
+Notes:
+ 
+  The original kcl distribution of June 1987 is referred to as kcl.tar.Z
+  and is available on cli.com and rascal.ics.utexas.edu.
+                                   
+  If you cannot obtain these files via internet, a cartridge tape (sun
+  compatible) or diskettes containing akcl, and kcl sources may be
+  obtained for $250 US plus shipping, from J. Schelter, 1715
+  Barnswallow, Autin TX 78746.  This would be in standard tar format.
+  Some machines on which akcl compiles are 386 under System V (eg
+  Microport), Sun's (sparc,sun3's), HP under hpux and 4.3.  An older
+  version of sources is also available from Austin Code Works, 11100
+  Leafwood Ln., Austin TX 78750.  Tel:(512) 258-0785.
+
+Language(s):    Lisp
+
+Requirements:   ?
+
+Origin:         Kyoto University
+		(see a2z/origins/utx.doc)
+
+See Also:       ?
+
+Restrictions:   ?
+
+References:	?
+

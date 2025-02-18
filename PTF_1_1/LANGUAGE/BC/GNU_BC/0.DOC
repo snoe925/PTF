@@ -1,0 +1,63 @@
+Package:	language/bc/gnu_bc
+
+Description:	gnu_bc - GNU bc
+
+Version:	1.01
+
+Notes:
+
+  bc is an arbitrary precision numeric processing language.  Syntax is
+  similar to C, but differs in many substantial areas.  It supports
+  interactive execution of statements.  bc is a utility included in the
+  POSIX P1003.2/D11 draft standard.  
+
+  This version was written to be a POSIX compliant bc processor with
+  several extensions to the draft standard.  Option flags are available
+  to cause warning or rejection of the extensions to the POSIX standard.
+  For those who want only POSIX bc with no extensions, a grammar is
+  provided for exactly the language described in the POSIX document.
+  The grammar (sbc.y) comes from the POSIX document.  The Makefile
+  contains rules to make sbc.  (for Standard BC)
+ 
+  Since the POSIX document does not specify how bc must be implemented,
+  this version does not use the historical method of having bc be a
+  compiler for the dc calculator.  This version has a single executable
+  that both compiles the language and runs the a resulting "byte code".
+  The "byte code" is NOT the dc language.
+  
+  Also, included in the initial distribution is the library file
+  vfprintf.c for MINIX systems.  My minix 1.5 did not have this file.
+  Also, you should verify that vsprintf.c works correctly on your
+  system.
+
+  The extensions add some features I think are missing.  The major
+  changes and additions for bc are
+
+    (a) names are allowed to be full identifiers ([a-z][a-z0-9_]*),
+    (b) addition of the &&, ||, and ! operators,
+    (c) allowing comparison and boolean operations in any expression,
+    (d) addition of an else clause to the if statement,
+    (e) addition of a new standard function "read()" that reads a
+        number from the standard input under program control,
+    (f) passing of arrays as parameters by variable,
+    (g) addition of the "halt" statement that is an executable
+        statement unlike the quit (i.e.  "if (1 == 0) quit" will
+        halt bc but "if (1 == 0) halt" will not halt bc.), and
+    (h) the addition of the special variable "last" that is assigned
+        the value of each print as the number is printed.
+
+	.../README
+
+Language(s):    C
+
+Requirements:   ?
+
+Origin:         GNU Project, Free Software Foundation
+		(see a2z/origins/fsf.doc)
+
+See Also:       ?
+
+Restrictions:   See a2z/text/gnu_gpl.txt
+
+References:	?
+

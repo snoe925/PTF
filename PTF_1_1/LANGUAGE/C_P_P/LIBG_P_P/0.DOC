@@ -1,0 +1,43 @@
+Package:	language/c_p_p/libg_p_p
+
+Description:	libg++ - GNU C++ library
+
+Version:	1.39.0
+
+Notes:
+
+  The GNU C++ library, libg++ is an attempt to provide a variety of C++
+  programming tools and other support to GNU C++ programmers.
+
+  Differences in distribution policy are only part of the difference
+  between libg++.a and AT&T libC.a.  libg++ is not intended to be an
+  exact clone of libC. For one, libg++ contains bits of code that depend
+  on special features of GNU g++ that are either different or lacking in
+  the AT&T version, including slightly different inlining and overloading
+  strategies, dynamic local arrays, wrappers, etc.  All of these
+  differences are minor. For example, while the AT&T and GNU stream
+  classes are implemented in very different ways, the vast majority of
+  C++ programs compile and run under either version with no visible
+  difference. Additionally, all g++-specific constructs are conditionally
+  compiled; The library is designed to be compatible with any 2.0 C++
+  compiler.
+
+  libg++ has also contained workarounds for some limitations in g++:
+  both g++ and libg++ are still undergoing rapid development and testing
+  -- a task that is helped tremendously by the feedback of active users.
+
+	.../libg++.texinfo
+
+Language(s):    C
+
+Requirements:   g++, gas (preferably), gcc
+
+Origin:         GNU Project, Free Software Foundation
+		(see a2z/origins/fsf.doc)
+
+See Also:       i_views, nihcl
+
+Restrictions:   See a2z/text/gnu_gpl.txt
+
+References:	?
+

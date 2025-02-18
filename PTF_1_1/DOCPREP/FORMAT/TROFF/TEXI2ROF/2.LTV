@@ -1,0 +1,14 @@
+rwxrwx--- 20/10      0 Dec 28 23:19 1991 texi2roff/
+rw-rw---- 20/10   3001 Dec 28 23:12 1991 texi2roff/texi2roff.1
+rw-rw---- 20/10   4866 Dec 28 23:12 1991 texi2roff/Readme
+rw-rw---- 20/10   1509 Dec 28 23:12 1991 texi2roff/copyright
+rw-rw---- 20/10    809 Dec 28 23:12 1991 texi2roff/Makefile
+rwxrwx--- 20/10   1390 Dec 28 23:12 1991 texi2roff/texi2index
+rw-rw---- 20/10   2561 Dec 28 23:12 1991 texi2roff/items.c
+rw-rw---- 20/10   2575 Dec 28 23:12 1991 texi2roff/table.c
+rw-rw---- 20/10  10564 Dec 28 23:12 1991 texi2roff/tableme.h
+rw-rw---- 20/10  10199 Dec 28 23:12 1991 texi2roff/tablemm.h
+rw-rw---- 20/10  10538 Dec 28 23:12 1991 texi2roff/tablems.h
+rw-rw---- 20/10   3050 Dec 28 23:12 1991 texi2roff/texi2roff.c
+rw-rw---- 20/10   2462 Dec 28 23:12 1991 texi2roff/texi2roff.h
+rw-rw---- 20/10  11130 Dec 28 23:12 1991 texi2roff/translate.c

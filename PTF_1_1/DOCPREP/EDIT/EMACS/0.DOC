@@ -1,0 +1,36 @@
+Topic:		docprep/edit/emacs
+
+Description:	The Emacs Text Editor
+
+Notes:
+
+  Emacs started out as a set of "editor macros" for the teco editor.  It has
+  now developed into a substantial software development environment, complete
+  with internal windows, a programming language (elisp), etc.
+
+Contains:
+
+  elisp     T    elisp - Emacs Lisp
+  emacs     P    emacs - GNU Emacs
+  epoch     P    emacs - GNU Emacs for X
+
+See Also:
+
+  language/lisp
+
+References:
+
+  The Craft of Text Editing
+    Emacs for the Modern World
+  Craig A. Finseth
+  Springer-Verlag, 1991, ISBN 0-387-97616-7
+
+  GNU Emacs Manual
+    Sixth Edition, Emacs Version 18 for UNIX Users, March 1981
+  Richard Stallman
+  Free Software Foundation, 1986, ISBN 0-18-137815-9
+
+  UNIX Desktop Guide to Emacs
+  Ralph Roberts
+  Hayden (Macmillan), 1992, ISBN 0-672-30171-7
+

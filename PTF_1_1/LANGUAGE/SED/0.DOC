@@ -1,0 +1,33 @@
+Topic:		language/sed
+
+Description:	The Sed Programming Language
+
+Notes:
+
+  Sed is a "stream editor", capable of doing many of the kinds of editing
+  tasks normally done by ex/vi or emacs, but on a stream of data.  This is
+  very useful when the file to be edited is very large, or if it never really
+  exists (as in a pipeline).  Unfortunately, sed has the syntax and structure
+  of a simplistic assembly language, making sed programs an exercise in
+  inscrutability.
+
+Contains:
+
+  gnu_sed   P    GNU sed
+
+See Also:
+
+  language/awk
+  language/perl
+  language/shell
+
+References:
+
+  sed & awk
+  Dale Dougherty
+  O'Reilly, 1990, ISBN 0-937175-59-5
+
+  The UNIX Programming Environment
+  Brian W. Kernighan, Rob Pike
+  Prentice-Hall, 1984, ISBN 0-13-937681-X
+

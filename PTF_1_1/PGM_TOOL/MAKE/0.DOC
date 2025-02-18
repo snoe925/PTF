@@ -1,0 +1,34 @@
+Package:	pgm_tool/make
+
+Description:	make - dependency driven programming language
+
+Version:	3.60, 3.62
+
+Notes:
+
+  The GNU make utility determines automatically which pieces of a large
+  program need to be recompiled, and issues the commands to recompile them.
+  
+	.../make.texinfo
+
+  Make can also be used to automate a large range od batch data processing
+  tasks.  All that is required is that there be files which are produced in
+  known ways from other files.
+
+Language(s):    C
+
+Requirements:   ?
+
+Origin:         GNU Project, Free Software Foundation
+		(see a2z/origins/fsf.doc)
+
+See Also:       ?
+
+Restrictions:   See a2z/text/gnu_gpl.txt
+
+References:
+
+  GNU Make Manual
+  Richard M. Stallman, Roland McGrath
+  Free Software Foundation, October, 1989
+

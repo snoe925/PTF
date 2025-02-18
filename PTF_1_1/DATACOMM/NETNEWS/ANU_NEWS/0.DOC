@@ -1,0 +1,24 @@
+Package:	datacomm/netnews/anu_news
+
+Description:	ANU NEWS
+
+Version:	V6.0-1
+
+Notes:
+
+  News for VMS (Without a VMS machine, we can't even unpack this, but
+  Geoff sez we can redistribute it, and it should be useful to more
+  than a few sites out there...)
+
+Language(s):    C
+
+Requirements:   ?
+
+Origin:         Geoff Huston (gih900@sao.aarnet.edu.au)
+
+See Also:       ?
+
+Restrictions:   ?
+
+References:
+

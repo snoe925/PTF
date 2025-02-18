@@ -1,0 +1,13 @@
+rwxrwxrwx9080/1      0 Aug 12 18:40 1991 time-1.2/
+rw-rw-rw-5200/1  17982 Jul  6 18:37 1991 time-1.2/COPYING
+rw-rw-rw-9080/1   3276 Aug 12 18:40 1991 time-1.2/ChangeLog
+rw-rw-rw-9080/1   2347 Aug 12 18:38 1991 time-1.2/Makefile.in
+rw-rw-rw-9080/1   2305 Aug 12 18:35 1991 time-1.2/README
+rwxrwxrwx9080/11   5012 Aug  2 13:32 1991 time-1.2/configure
+rw-rw-rw-9080/1  12048 Aug 12 17:24 1991 time-1.2/time.texinfo
+rw-rw-rw-9080/11  10181 Aug 12 17:24 1991 time-1.2/time.info
+rw-rw-rw-5200/1  96685 Aug  1 22:46 1991 time-1.2/texinfo.tex
+rw-rw-rw-9080/11   3560 Jun  3 16:36 1991 time-1.2/getopt.h
+rw-rw-rw-9080/1  19697 Aug 12 18:30 1991 time-1.2/time.c
+rw-rw-rw-5200/1  17051 Aug 12 13:43 1991 time-1.2/getopt.c
+rw-rw-rw-5200/1   3482 Aug 12 13:38 1991 time-1.2/getopt1.c

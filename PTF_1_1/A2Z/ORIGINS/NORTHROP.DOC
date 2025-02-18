@@ -1,0 +1,36 @@
+northrop.doc
+============
+
+Northrop
+
+
+ISODE
+
+  The ISODE distribution is available in two forms:
+
+    Anonymous FTP	If you can FTP to the ARPA Internet, use anonymous
+			FTP to the ARPAnet host louie.udel.edu (10.0.0.96)
+			and retrieve the file portal/isode-1.tar.  This is
+			a 2.0MB tar(1) image.
+
+			Alternately, the file "portal/isode-1.tar.Z" can be
+			retrieved which contains a compressed version of the
+			tar file, and is about 0.8MB in size.
+
+    Magnetic tape	Otherwise, send a magnetic tape with a self-addressed
+			mailing label to:
+
+      Postal address:	Northrop Research and Technology Center
+			Attn: Automation Sciences Laboratory (0330/T30)
+			One Research Park
+			Palos Verdes Peninsula, CA  90274
+			USA
+      Telephone:	+1-213/544-5393
+      Internet Mailbox: Bug-ISODE@NRTC.NORTHROP.COM
+
+			The lab will send back the tape in tar(1) format at
+			1600bpi, along with a copy of the User's Manual.
+
+  email:	Bug-ISODE@NRTC.NORTHROP.COM
+  ftp:		louie.udel.edu (10.0.0.96)
+			portal/isode-1.tar

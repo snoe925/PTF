@@ -1,0 +1,36 @@
+Package:	window/x11/r5/xview
+
+Description:	XView - SunView-like API
+
+Version:	?
+
+Notes:
+
+  XView provides a SunView-like programming interface for producing Open
+  Look applications.  Although it is very useful for converting programs
+  from SunView to Open Look, it is also a convenient way of producing new
+  Open Look programs.  (Typical XView code is less than half the size of
+  equivalent OLIT code.)  XView has some restrictions, to be sure, but
+  they won't be hit by the usual run of relatively simple applications.
+
+  The XView code is stored in a few major directories:
+
+    .../r5/mit/con_2	contrib/extensions/xv/		???
+
+    .../r5/mit/con_3	contrib/lib/xview3/
+    .../r5/mit/con_3	contrib/lib/i18nXView2/
+
+Language(s):    C
+
+Requirements:   bit-mapped printing or display device
+
+Origin:		See window/x11/r5
+
+See Also:
+
+  graphics
+
+Restrictions:   See window/x11/r5
+
+References:	?
+

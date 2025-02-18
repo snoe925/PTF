@@ -1,0 +1,20 @@
+Topic:		language/assembly/as
+
+Description:	Assemblers
+
+Notes:
+
+  Assemblers translate assembly language into binary machine codes.  Each
+  computer architecture uses different codes, so the assembly language for
+  each machine is unique.  Nonetheless, the translation process is very
+  similar for all such languages, and a single assembler can thus be made
+  to serve a variety of machines.
+
+Contains:
+
+  gas       P    gas - GNU as
+
+See Also:	?
+
+References:	?
+

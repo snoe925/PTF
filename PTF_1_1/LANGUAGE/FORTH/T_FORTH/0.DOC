@@ -1,0 +1,41 @@
+Package:	language/forth/t_forth
+
+Description:	TILE Forth
+
+Version:	2.1
+
+Notes:
+
+  TILE Forth is a 32-bit implementation of the Forth-83 Standard 
+  written in C. Thus allowing it to be easily moved between different 
+  computers compared to traditional Forth implementations in assembly.
+
+  Most Forth implementations are done in assembly to be able to
+  utilize the underlying architecture as optimal as possible. TILE 
+  Forth goes another direction. The main idea behind TILE Forth is to 
+  achieve a portable forth implementation for workstations and medium 
+  size computer systems so that new groups of programmers may be exposed 
+  to the flavor of an extensible language such as Forth. 
+
+  The implementation of TILE Forth is selected so that, in principle, 
+  any C-level procedure may become available on the interactive and
+  incremental forth level. Other models of implementation of a threaded
+  interpreter in C are possible but these are not as flexible.
+
+	.../README
+
+Language(s):    C
+
+Requirements:   ?
+
+Origin:         GNU Project, Free Software Foundation
+		(see a2z/origins/fsf.doc)
+
+See Also:       ?
+
+Restrictions:   See a2z/text/gnu_gpl.txt *and* .../README
+
+  (This is a Copyleft source code *shareware* package!)
+
+References:	?
+

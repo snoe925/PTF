@@ -1,0 +1,29 @@
+Package:	datacomm/netnews/cnews
+
+Description:	c-news
+
+Version:	27-Aug-1991
+
+Notes:
+ 
+  C news is a re-write, from scratch, of the `transport layer' of the Usenet
+  software.  C rnews runs at over 19 times the speed of B rnews;  C expire
+  runs in minutes rather than the hours taken by B expire.  These performance
+  improvements were (mostly) quite simple and straightforward, and they
+  exemplify general principles of performance tuning.
+
+	.../c-news-doc
+
+Language(s):    C
+
+Requirements:   ?
+
+Origin:         University of Toronto
+		(See a2z/origins/toronto.doc)
+
+See Also:       ?
+
+Restrictions:   See .../COPYRIGHT
+
+References:
+

@@ -1,0 +1,39 @@
+Package:	datacomm/network/athena/hesiod
+
+Description:	hesiod - the Project Athena nameserver
+
+Version:	1.2
+
+Notes:
+
+  Hesiod, the Athena name server, provides naming for services and data
+  objects in a distributed network environment.  More specifically, it
+  replaces databases that heretofore have had to be duplicated on each
+  workstation and timesharing machine (e.g., remote file system information,
+  /etc/printcap, /etc/services, /etc/passwd, /etc/group) and provides a
+  flexible mechanism to supply new information as the need arises.
+
+	.../doc/hesiod.nr
+
+Language(s):    C
+
+Requirements: 
+
+  This version of Hesiod is based on BIND 4.8, the version currently
+  available from Berkeley.  If you do not have BIND 4.8 already, you
+  should install it first.  It is available via anonymous FTP from
+  ucbarpa.berkeley.edu in the directory pub/4.3.
+
+	.../README
+
+  [or in os/bsd on this disc]
+
+Origin:         Project Athena, Massachusetts Institute of Technology
+		(see a2z/origins/mit.doc)
+
+See Also:       ?
+
+Restrictions:   See .../hesiod/mit-copyright.h
+
+References:	?
+

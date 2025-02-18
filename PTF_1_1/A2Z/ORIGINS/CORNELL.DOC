@@ -1,0 +1,75 @@
+cornell.doc
+===========
+
+Cornell University
+
+
+FIG
+---
+
+  Micah Beck
+  beck@cs.cornell.edu
+
+
+FIG-FS
+------
+
+  This version of fig incorporates has a number of new features,
+  improvements, and bug fixes of fig 1.4.
+
+  It does not include translators from Fig code to printable forms.
+  These translators are in the TransFig package, available by
+  anonymous FTP from svax.cs.cornell.edu.
+
+  modified by                         Frank Schmuck
+  further modified and supported by   Micah Beck
+                                      beck@cs.cornell.edu
+
+  Dept of Computer Science
+  Cornell University
+  10 August 1988
+
+
+ISIS
+----
+
+  ISIS bugs should be reported to isis-bugs@cs.cornell.edu.  We respond
+  promptly to any and all reports, however minor.  If you have problems
+  installing ISIS on your system, we will be happy to help.
+
+  The ISIS Project
+  Cornell University
+
+
+PIC2FIG
+-------
+
+  Converts PIC graphics langauge to Fig code.
+  Not available via FTP.
+  Contact beck@cs.cornell.edu for information.
+
+
+TCSH
+----
+
+  PLEASE send any bug reports (and fixes), code for new features,
+  comments, questions, etc. (even flames) to:
+
+         -- Christos Zoulas
+            christos@ee.cornell.edu
+
+    SNail:  389 Engineering/Theory Center
+            Cornell University,
+            Ithaca, NY 14853.
+    Phone:  (607) 255-0302
+    Fax:    (607) 255-9072
+
+
+TRANSFIG
+--------
+
+  Micah Beck                              beck@svax.cs.cornell.edu
+  Dept of Computer Science
+  Cornell University
+  
+  21 February 1989

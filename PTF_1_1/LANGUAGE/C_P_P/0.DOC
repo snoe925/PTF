@@ -1,0 +1,101 @@
+Topic:		language/c_p_p
+
+Description:	The C++ Programming Language
+
+Notes:
+
+  C++ is a general purpose programming language designed to make programming
+  more enjoyable for the serious programmer.  Except for minor details, C++
+  is a superset of the C programming language.  In addition to the facilities
+  provided by C, C++ provides flexible and efficient facilities for defining
+  new types.  A programmer can partition an application into manageable pieces
+  by defining new types that closely match the concepts of the application.
+  This technique for program construction is called data abstraction.  Objects
+  of some user-defined types contain type information.  Such objects can be
+  used safely and conveniently in contexts in which their type cannot be
+  determined at compile time.  Programs using objects of such types are often
+  called object based.  When used well, these techniques result in shorter,
+  easier to understand, and easier to maintain programs.
+
+	Preface to the first Edition, The C++ Programming Language, 2nd Ed.
+
+Contains:
+
+  g_p_p     P    g++ - GNU C++
+  libg_p_p  P    libg++ - GNU C++ library
+  nihcl     P    NIHCL - NIH (C++) Class Library
+
+See Also:
+
+  language/c
+
+References:
+
+  The Annotated C++ Reference Manual
+  Margaret A. Ellis,
+  Bjarne Stroustrup
+  Addison-Wesley, 1990, ISBN 0-201-51459-1
+
+  C++: A Guide for C Programmers
+  Sharam Hekmatpour
+  Prentice Hall, 1991, ISBN 0-13-109471-8
+
+  C++: The Complete Reference
+  Herbert Schildt
+  Osborne (McGraw-Hill), 1991, ISBN 0-07-881263-1
+
+  The C++ Answer Book
+  Tony Hansen
+  Addison-Wesley, 1990, ISBN 0-201-11497-6
+
+  C++ for C Programmers
+  Ira Pohl
+  Benjamin/Cummings, 1989, ISBN 0-8053-0910-1
+
+  C++ for Pascal Programmers
+  Ira Pohl
+  Benjamin/Cummings, 1991, ISBN 0-8053-0911-X
+ 
+  C++ Primer, 2nd. Ed.
+  Stanley B. Lippman
+  Addison-Wesley, 1991, ISBN 0-201-54848-8
+
+  C++ Programming
+  John Berry
+  Sams (Macmillan), 1988, ISBN 0-672-22619-7
+
+  The C++ Programming Language, 2nd Ed.
+  Bjarne Stroustrup
+  Addison-Wesley, 1991, ISBN 0-201-53992-6
+
+  The C++ Reference Card
+  ASP, 19??, ISBN 0-935739-15-7
+
+  C++ Techniques & Applications
+  Scott Robert Ladd
+  M & T Books, 1990, ISBN 1-55851-075-3
+
+  A C++ Toolkit
+  Jonathan S. Shapiro
+  Prentice Hall, 1991, ISBN 0-13-127663-8
+
+  The C++ Workbook
+  Richard S. Wiener, Lewis J. Pinson
+  Addison-Wesley, 1990, ISBN 0-201-50930-X
+
+  C/C++ for Expert Systems
+  David Hu
+  MIS:PRESS, 1989, ISBN 0-943518-86-5
+
+  The Complete C++ Primer
+  Keith Weiskamp, Bryan Flamig
+  Academic Press, 1989, ISBN 0-12-742687-6
+
+  Data Abstraction and Object Oriented Programming in C++
+  Keith E. Gorlon, Sanford M. Orlow, Perry S. Plexico
+  John Wiley & Sons, 1990, ISBN 0-471-92751-1
+
+  Graphical User Interfaces in C++ & Object-Oriented Programming
+  Mark Goodwin
+  MIS:PRESS, 19??, ISBN 1-55828-032-4
+

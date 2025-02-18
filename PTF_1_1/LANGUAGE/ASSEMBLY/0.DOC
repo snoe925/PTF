@@ -1,0 +1,19 @@
+Topic:		language/assembly
+
+Description:	Assembly Language Tools
+
+Notes:
+
+  Assembly language commands are mnemonic versions of machine language
+  instructions.  Aside from macros (pre-processed code fragments) and
+  assembler directives (requests to the assembler itself), each line of
+  assembler is translated into a single machine instruction.
+
+Contains:
+
+  as        T    Assemblers
+
+See Also:	?
+
+References:	?
+

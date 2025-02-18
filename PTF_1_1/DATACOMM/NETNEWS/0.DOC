@@ -1,0 +1,39 @@
+Topic:		datacomm/netnews
+
+Description:	Netnews readers, back ends, etc.
+
+Notes:
+
+  The Usenet currently distributes almost 50 MB per day of discussions, code,
+  images, random data, and other items its participants post.  A UNIX site
+  without Usenet access is severely limited in its ability to communicate with
+  the rest of the UNIX community.
+
+Contains:
+
+  anu_news  P    ANU NEWS
+  cnews     P    c-news
+  tmnn      P    tmnn - Teenage Mutant Ninja Netnews
+
+See Also:
+
+  datacomm/uucp
+
+References:
+
+  Managing UUCP and Usenet
+  Tim O'Reilly, Grace Todino
+  O'Reilly, 1988, ISBN 0-937175-09-9
+
+  NetNews Reference Manual, 2nd. Ed.
+  Anatole Olczak
+  ASP, 1989, ISBN 0-935739-18-1
+
+  UNIX Communications
+  Bart Anderson, Bryan Costales, Harry Henderson
+  Sams, 1987, ISBN 0-672-22511-5
+
+  Using UUCP and Usenet
+  Grace Todino, Dale Dougherty
+  O'Reilly, 1987, ISBN 0-937175-10-2
+

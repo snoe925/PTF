@@ -1,0 +1,24 @@
+Package:	usenet/comp/sources/x
+
+Description:	"comp.sources.x" Usenet Archives
+
+Version:	volumes 1-14
+
+Notes:
+
+  This is a collection of programs for use with the X window system.
+
+Language(s):    C
+
+Requirements:   varies by program
+
+Origin:         See a2z/origins/usenet.doc
+
+See Also:
+
+  window/x11
+
+Restrictions:	?
+
+References:	?
+

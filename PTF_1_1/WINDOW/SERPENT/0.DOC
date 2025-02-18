@@ -1,0 +1,47 @@
+Package:	window/serpent
+
+Description:	Serpent user interface management system
+
+Version:	Beta Release 1.2
+
+Notes:
+
+  Serpent is a user interface management system (UIMS) being developed at the
+  Software Engineering Institute (SEI).  Serpent supports the development and
+  implementation of user interfaces, providing an editor to specify the user
+  interface and a runtime system that enables communication between the
+  application and the end user.
+
+  ...
+
+  Serpent consists of:
+
+  *  A language designed for the specification of user interfaces.
+
+  *  A language to define the interface between the application and Serpent.
+
+  *  A transaction proicessing library.
+
+  *  An interactive editor for thge specification of dialogues and for the
+     construction and previewing of displays.
+
+  *  Input/output (I/O) technologies.
+
+	.../docs/overview.ps
+
+
+Language(s):	C, Slang
+
+Requirements:	X11R5
+
+Origin:		Carnegie Mellon University
+		(see a2z/origins/cmu.doc)
+
+See Also:
+
+  window/x11/r5
+
+Restrictions:	See .../man/man1/format.1
+
+References:	?
+

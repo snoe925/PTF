@@ -1,0 +1,16 @@
+Topic:		docprep/check
+
+Description:	Document Checking Tools
+
+Notes:
+
+  These tools assist writers by checking for usage errors.
+
+Contains:
+
+  ispell    P    ispell - GNU spelling checker
+
+See Also:	?
+
+References:	?
+

@@ -1,0 +1,30 @@
+Package:	pgm_tool/cvs
+
+Description:	cvs - Concurrent Version System
+
+Version:	1.2
+
+Notes:
+
+  CVS is a freely available collection of programs that provide for software
+  release and revision control functions in a UNIX environment.  It is
+  designed to work on top of the RCS distribution, V4 (uses the V4 branch
+  support).  CVS does understand how to parse older RCS formats, but cannot
+  do any of the fancier features (like vendor branch support) without RCS
+  branch support.
+
+	.../README
+
+Language(s):    C
+
+Requirements:	RCS
+
+Origin:         GNU Project, Free Software Foundation
+		(see a2z/origins/fsf.doc)
+
+See Also:       ?
+
+Restrictions:   See a2z/text/gnu_gpl.txt
+
+References:	?
+

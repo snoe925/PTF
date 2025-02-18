@@ -1,0 +1,45 @@
+melbourn.doc
+============
+
+University of Melbourne
+
+
+CAP
+---
+
+  The primary source of CAP information is, as always, the network newsgroup
+  comp.protocols.appletalk.  This forum will continue to be used to disseminate
+  information about CAP 6.0 updates, but we would very much like to encourage a
+  slightly more formal approach to the process of propogating CAP patches.
+
+  Therefore, please send patches for CAP bug-fixes and new features to
+
+    cap@munnari.OZ.AU
+
+  Patches are archived at
+
+    munnari.OZ.AU           mac/cap.patches
+    rutgers.EDU             src/cap60.patches
+    gatekeeper.DEC.COM      pub/net/cap/cap.patches
+
+
+VOGL, VOGLE, VOPL, VORT
+-----------------------
+
+  This software is public domain, and provided without guarantee, although if
+  you send beer (use the snail mail address, it's less messy) we will drink it.
+
+  Surfaces, material properties, and general chat can be directed to:
+
+    echidna@munnari.oz
+
+  or by snail mail to:
+
+    The Software Support Programmer
+    Department Of Engineering Computer Resources,
+    Faculty Of Engineering,
+    University Of Melbourne,
+    Parkville, Vic, 3052, Australia.
+
+  Enjoy.
+

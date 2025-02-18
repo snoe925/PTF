@@ -1,0 +1,33 @@
+Package:        datacomm/network/sos
+
+Description:    SOS - Stan's Own (NFS) Server
+
+Version:        Mar  7  1989 (?)
+
+Notes:
+
+  We have designed a file server conforming to the NFS protocol (version 2),
+  that runs on the IBM PC.  This allows a dedicated PC to perform a task
+  otherwise required of a Sun workstation running NFS in kernel, or a VAX
+  running a user-level NFS daemon.  The original project intended for a PC
+  to serve files from an optical disk to a heterogeneous network of Suns
+  and PCs (with PC-NFS) as clients.
+
+	.../sos_doc.rof
+
+  For convenience, we have included the DOS executable as well.
+  
+
+Language(s):    C
+
+Requirements:   ?
+ 
+Origin:         Lawrence Berkeley Laboratory
+		(see a2z/origins/lbl.doc)
+
+See Also:       ?
+
+Restrictions:   See .../README
+
+References:	?
+

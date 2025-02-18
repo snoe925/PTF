@@ -1,0 +1,141 @@
+rwxr-xr-x596/145      0 Sep 29 16:59 1991 gnuplot/
+rw-r--r--596/145    279 Jun 23 19:08 1991 gnuplot/linkopt.tco
+rw-rw-rw-596/145    889 Jun  3 15:25 1991 gnuplot/Copyright
+rw-r--r--596/145  63352 Sep  3 16:22 1991 gnuplot/setshow.c
+rw-r--r--596/145   2406 Sep 19 10:43 1991 gnuplot/README
+rw-r--r--596/145  17904 Jul 24 08:44 1991 gnuplot/help.c
+rw-rw-rw-596/145  51656 Jul 18 11:54 1991 gnuplot/bitmap.c
+rw-rw-rw-596/145   2726 Jun  3 15:25 1991 gnuplot/bitmap.h
+rw-r--r--596/145    918 Sep  9 13:13 1991 gnuplot/buildvms.com
+rw-r--r--596/145  22387 Aug 22 10:20 1991 gnuplot/misc.c
+rw-rw-rw-596/145  41345 Jul 18 11:55 1991 gnuplot/contour.c
+rwxr-xr-x596/145      0 Sep 20 09:44 1991 gnuplot/demo/
+rw-rw-rw-  0/0    781 Mar 26 14:59 1990 gnuplot/demo/1.dat
+rw-rw-rw-  0/0    781 Mar 26 14:59 1990 gnuplot/demo/2.dat
+rw-rw-rw-  0/0    781 Mar 26 14:59 1990 gnuplot/demo/3.dat
+rw-r--r--596/145   3088 Aug  5 07:51 1991 gnuplot/demo/contours.demo
+rw-rw-rw-  0/0    712 Mar 26 14:59 1990 gnuplot/demo/controls.demo
+rw-rw-rw-596/145   2065 Sep 15 10:43 1991 gnuplot/demo/electron.demo
+rw-rw-rw-  0/0   8538 Jan  1 08:38 1991 gnuplot/demo/glass.dat
+rw-rw-rw-596/145    909 Sep 15 10:44 1991 gnuplot/demo/param.demo
+rw-rw-rw-596/145    965 Sep 15 10:44 1991 gnuplot/demo/polar.demo
+rw-rw-rw-596/145   1045 Sep 15 10:44 1991 gnuplot/demo/simple.demo
+rw-r--r--596/145   3111 Aug 25 12:39 1991 gnuplot/demo/surface1.demo
+rw-r--r--596/145   1359 Aug  5 07:51 1991 gnuplot/demo/surface2.demo
+rw-rw-rw-  0/0   5568 Nov 25 07:15 1990 gnuplot/demo/using.dat
+rw-r--r--596/145    708 May 29 12:44 1991 gnuplot/demo/using.demo
+rw-r--r--596/145   3329 Jun 27 14:55 1991 gnuplot/demo/world.cor
+rw-rw-rw-  0/0  16720 May 26 13:35 1991 gnuplot/demo/world.dat
+rw-r--r--596/145   1349 Aug  5 07:59 1991 gnuplot/demo/world.demo
+rw-r--r--596/145    418 Jun 23 09:18 1991 gnuplot/demo/err.dat
+rw-r--r--596/145    491 Sep 15 10:44 1991 gnuplot/demo/poldat.demo
+rw-r--r--596/145   6538 Jul  2 10:34 1991 gnuplot/demo/polar.dat
+rw-r--r--596/145    867 Sep 15 10:43 1991 gnuplot/demo/errorbar.demo
+rw-r--r--596/145  20577 Jul  2 10:34 1991 gnuplot/demo/antenna.dat
+rw-r--r--596/145   1245 Sep 15 10:22 1991 gnuplot/demo/all.demo
+rw-r--r--596/145   2915 Sep 15 10:42 1991 gnuplot/demo/bivariat.demo
+rwxr-xr-x596/145      0 Sep 24 08:23 1991 gnuplot/docs/
+rw-r--r--596/145   2363 Aug 22 07:02 1991 gnuplot/docs/Makefile
+rw-r--r--596/145   3681 Sep  5 09:26 1991 gnuplot/docs/README
+rw-rw-rw-  0/0   1377 Mar 26 14:59 1990 gnuplot/docs/checkdoc.c
+rw-rw-rw-596/145   2021 Jul 11 08:32 1991 gnuplot/docs/doc2gih.c
+rw-rw-rw-596/145   1471 Jul 11 08:34 1991 gnuplot/docs/doc2hlp.c
+rw-rw-rw-  0/0     90 Mar 26 14:59 1990 gnuplot/docs/doc2hlp.com
+rw-r--r--596/145   5125 Aug 26 18:56 1991 gnuplot/docs/doc2ms.c
+rw-r--r--596/145   3718 Sep  5 09:26 1991 gnuplot/docs/gnuplot.1
+rw-r--r--596/145  90586 Sep 17 08:21 1991 gnuplot/docs/gnuplot.doc
+rw-r--r--596/145   1594 Jul  8 14:14 1991 gnuplot/docs/lasergnu.1
+rwxr-xr-x596/145      0 Sep  5 12:26 1991 gnuplot/docs/latextut/
+rw-r--r--596/145    570 Jul  8 13:28 1991 gnuplot/docs/latextut/Makefile
+rw-rw-rw-  0/0     65 Mar 26 14:59 1990 gnuplot/docs/latextut/eg1.plt
+rw-rw-rw-  0/0    219 Mar 26 14:59 1990 gnuplot/docs/latextut/eg2.plt
+rw-rw-rw-  0/0    781 Mar 26 14:59 1990 gnuplot/docs/latextut/eg3.dat
+rw-rw-rw-  0/0    199 Mar 26 15:00 1990 gnuplot/docs/latextut/eg3.plt
+rw-rw-rw-  0/0    227 Mar 26 15:00 1990 gnuplot/docs/latextut/eg4.plt
+rw-rw-rw-  0/0    331 Mar 26 15:00 1990 gnuplot/docs/latextut/eg5.plt
+rw-rw-rw-  0/0    457 Mar 26 15:00 1990 gnuplot/docs/latextut/eg6.plt
+rw-r--r--596/145   1677 Jul  8 13:28 1991 gnuplot/docs/latextut/header.tex
+rw-r--r--596/145  16623 Aug 16 13:42 1991 gnuplot/docs/latextut/tutorial.tex
+rw-r--r--596/145    550 Sep  5 12:26 1991 gnuplot/docs/latextut/linepoint.plt
+rw-r--r--596/145    599 Aug 26 19:00 1991 gnuplot/docs/titlepage.ms
+rw-r--r--596/145   5029 Aug 23 12:40 1991 gnuplot/docs/doc2tex.c
+rw-r--r--596/145   1027 Aug  5 08:45 1991 gnuplot/docs/titlepage.tex
+rw-r--r--596/145   2009 May 30 07:18 1991 gnuplot/docs/toc_entry.sty
+rw-r--r--596/145   2688 Sep  4 12:54 1991 gnuplot/docs/Makefile.ami
+rw-rw-rw-596/145   2272 Jun  3 15:25 1991 gnuplot/corgraph.asm
+rw-rw-rw-596/145   1979 Jul 18 11:56 1991 gnuplot/corplot.c
+rw-rw-rw-596/145   3799 Jul 18 11:56 1991 gnuplot/eval.c
+rw-rw-rw-596/145   5487 Jun  3 15:25 1991 gnuplot/gnuplot.el
+rw-r--r--596/145   8774 Sep  9 13:13 1991 gnuplot/gnuplot_x11.c
+rw-rw-rw-  0/0    252 Jun 23 20:08 1991 gnuplot/linkopt.tc
+rw-r--r--596/145   3801 Sep 10 07:39 1991 gnuplot/lasergnu
+rw-rw-rw-596/145    918 Jun  3 15:25 1991 gnuplot/header.mac
+rw-r--r--596/145  12274 Sep 10 13:19 1991 gnuplot/readline.c
+rw-rw-rw-596/145   1383 Jul 18 11:58 1991 gnuplot/help.h
+rw-rw-rw-596/145   8192 Jun  3 15:25 1991 gnuplot/hrcgraph.asm
+rw-r--r--596/145  16092 Aug 22 10:17 1991 gnuplot/internal.c
+rw-r--r--596/145  85435 Sep 24 07:51 1991 gnuplot/command.c
+rw-rw-rw-596/145   1980 Jun  3 15:25 1991 gnuplot/lineproc.mac
+rw-r--r--596/145    159 Jun 26 06:52 1991 gnuplot/linkopt.msc
+rw-r--r--596/145   4014 Aug 17 13:51 1991 gnuplot/makefile.tc
+rw-rw-rw-596/145     26 Jun  3 15:26 1991 gnuplot/linkopt.vms
+rwxr-xr-x596/145      0 Sep 20 11:33 1991 gnuplot/term/
+rw-r--r--596/145   7115 Jul 25 09:09 1991 gnuplot/term/README
+rw-rw-rw-  0/0   2311 Mar 26 15:02 1990 gnuplot/term/aed.trm
+rw-rw-rw-596/145   3598 Aug 25 11:53 1991 gnuplot/term/bigfig.trm
+rw-rw-rw-  0/0   4407 Dec 16 14:59 1990 gnuplot/term/cgi.trm
+rw-rw-rw-  0/0   2238 Mar 26 15:02 1990 gnuplot/term/dxy.trm
+rw-r--r--596/145   7640 Aug 25 11:54 1991 gnuplot/term/eepic.trm
+rw-rw-rw-596/145  11330 Jul 10 11:13 1991 gnuplot/term/epson.trm
+rw-r--r--596/145   7494 Aug 25 11:54 1991 gnuplot/term/fig.trm
+rw-rw-rw-  0/0   2262 Mar 26 15:02 1990 gnuplot/term/hp26.trm
+rw-rw-rw-  0/0   2113 Mar 26 15:02 1990 gnuplot/term/hp2648.trm
+rw-r--r--596/145   2857 Aug 25 11:55 1991 gnuplot/term/hpgl.trm
+rw-r--r--596/145   8101 Jun 18 10:21 1991 gnuplot/term/hpljii.trm
+rw-r--r--596/145  25264 Aug  4 13:19 1991 gnuplot/term/pc.trm
+rw-rw-rw-596/145   7396 Aug 13 15:26 1991 gnuplot/term/imagen.trm
+rw-r--r--596/145   5305 Jul 12 10:57 1991 gnuplot/term/iris4d.trm
+rw-rw-rw-  0/0   2313 Dec  2 22:17 1990 gnuplot/term/kyo.trm
+rw-r--r--596/145  17764 Sep  5 09:23 1991 gnuplot/term/latex.trm
+rw-rw-rw-  0/0   5063 Mar 26 15:03 1990 gnuplot/term/object.h
+rw-r--r--596/145   9281 Aug 30 07:14 1991 gnuplot/term/post.trm
+rw-r--r--596/145   9980 Jul  9 11:02 1991 gnuplot/term/dxf.trm
+rw-rw-rw-  0/0   3785 Mar 26 15:03 1990 gnuplot/term/qms.trm
+rw-rw-rw-  0/0   2967 Mar 26 15:03 1990 gnuplot/term/regis.trm
+rw-rw-rw-  0/0   6147 Mar 26 15:02 1990 gnuplot/term/sun.trm
+rw-rw-rw-  0/0   5056 Sep 18 14:59 1990 gnuplot/term/t410x.trm
+rw-r--r--596/145   6716 Jun 18 10:00 1991 gnuplot/term/tek.trm
+rw-r--r--596/145  14242 Jul 26 09:36 1991 gnuplot/term/unixpc.trm
+rw-rw-rw-  0/0   1929 Mar 26 15:03 1990 gnuplot/term/unixplot.trm
+rw-rw-rw-  0/0   2579 Mar 26 15:03 1990 gnuplot/term/v384.trm
+rw-r--r--596/145   8014 Sep  8 09:49 1991 gnuplot/term/vws.trm
+rw-r--r--596/145   2240 Jul 25 09:12 1991 gnuplot/term/x11.trm
+rw-r--r--596/145  11637 Jun  3 09:14 1991 gnuplot/term/gpr.trm
+rw-r--r--596/145   6235 Sep  8 09:11 1991 gnuplot/term/dumb.trm
+rw-r--r--596/145  10991 Sep 20 11:31 1991 gnuplot/term/amiga.trm
+rw-r--r--596/145  17013 Jun  3 09:15 1991 gnuplot/term/apollo.trm
+rw-rw-rw-  0/0   1260 Mar 26 15:03 1990 gnuplot/term/impcodes.h
+rw-r--r--596/145  10144 Sep  6 07:00 1991 gnuplot/parse.c
+rw-r--r--596/145   2572 Sep 17 08:20 1991 gnuplot/makefile.msc
+rw-r--r--596/145  52166 Sep 20 09:36 1991 gnuplot/graph3d.c
+rw-r--r--596/145   1998 Sep 17 08:20 1991 gnuplot/makefile.vms
+rw-r--r--596/145  12714 Sep  8 07:01 1991 gnuplot/util.c
+rw-r--r--596/145  25357 Sep 24 08:25 1991 gnuplot/makefile.unx
+rw-rw-rw-596/145   3925 Jun  3 15:26 1991 gnuplot/pcgraph.asm
+rw-r--r--596/145   8795 Sep  5 09:19 1991 gnuplot/plot.c
+rw-r--r--596/145  11940 Sep  5 09:19 1991 gnuplot/plot.h
+rw-r--r--596/145   2981 Sep 20 11:31 1991 gnuplot/README.amiga
+rw-r--r--596/145   8676 Sep  5 09:19 1991 gnuplot/scanner.c
+rw-r--r--596/145   1368 Sep 29 16:59 1991 gnuplot/version.c
+rw-r--r--596/145   3968 Jul 18 12:01 1991 gnuplot/setshow.h
+rw-rw-rw-596/145  15347 Jul 18 12:02 1991 gnuplot/standard.c
+rw-r--r--596/145  50685 Sep  5 09:19 1991 gnuplot/term.c
+rw-r--r--596/145    475 Sep  9 13:12 1991 gnuplot/Intergraph.x11
+rw-rw-rw-596/145    232 Aug 23 12:33 1991 gnuplot/linkopt.amg
+rw-r--r--596/145   7729 Sep 24 08:14 1991 gnuplot/README.Install
+rw-r--r--596/145  10762 Sep 19 10:47 1991 gnuplot/History
+rw-r--r--596/145   1170 Aug 16 13:40 1991 gnuplot/README.gnutex
+rw-r--r--596/145   1808 Sep 12 12:04 1991 gnuplot/makefile.amg
+rw-r--r--596/145  42004 Sep  9 13:13 1991 gnuplot/graphics.c
+rw-r--r--596/145   2916 Sep 20 11:31 1991 gnuplot/makefile.ami
+rw-r--r--596/145   3953 Sep  5 09:19 1991 gnuplot/term.h

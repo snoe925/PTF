@@ -1,0 +1,38 @@
+Topic:		language/yacc
+
+Description:	The Yacc Programming Language
+
+Notes:
+
+  Yacc (and its GNU descendent, bison) is a generator of parsing code.  It
+  translates a syntax description (akin to a BNF grammar) and snippets of C
+  code into a compilable set of C routines for scanning a stream of tokens
+  and parsing for meaningful expressions.
+
+Contains:
+
+  bison     P    bison - GNU yacc
+
+See Also:
+
+  language/lex
+
+References:
+
+  Introduction to Compiler Construction with UNIX
+  Axel T. Schreiner
+  H. George Friedman, Jr.
+  Prentice Hall, 1985, ISBN 0-13-474396-2
+
+  lex & yacc
+  Tony Mason, Doug Brown
+  O'Reilly, 1990, ISBN 0-937175-49-8
+
+  Principles of Compiler Design
+  Alfred V. Aho, Jeffrey D. Ullman
+  Addison-Wesley, 1977, 0-201-00022-9
+
+  UNIX Tool Building
+  Kenneth Ingham
+  Academic Press, 1990, ISBN 0-12-370830-0
+

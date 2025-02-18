@@ -1,0 +1,52 @@
+Package:	os/mach
+
+Description:	The Mach operating system
+
+Version:	Research Distribution of Mach 3.0
+
+Notes:
+
+  The Mach operating system, developed at Carnegie-Mellon University,
+  targets a broad range of computer architectures, including uniprocessor,
+  multiprocessor, and distributed systems.  The designers of Mach intend to
+  produce a compact, efficient kernel on top of which may be layered inter-
+  faces for traditional operating systems such as 4.3BSD, System V, MS-DOS,
+  VMS, etc.  Most traditional kernel support, such as device drivers and
+  filesystem handling, will be provided by a set of user-level servers.  The
+  Mach kernel will provide the mechanisms necessary for simple operation in
+  a distributed environment using uniprocessor or multiprocessor systems.
+  Mach currently provides full backward compatibility with 4.3BSD.
+  
+	Introduction, Mach/4.3BSD: A Conservative Approach to Parallelism
+
+
+  The  Mach  3.0  micro-kernel provides the following functions: virtual
+  memory management, inter-process communication, tasks, threads, exceptions,
+  scheduling primitives and device drivers.
+
+  It  does  not  provide  a file system, tty i/o, network support or other
+  Unix features like signal and Unix tasks. The pure kernel alone does not
+  give you  a usable operating system.
+
+	_etc_atz:README
+
+Language(s):    C
+
+Requirements:   ?
+
+Origin:		Carnegie-Mellon University
+		(see a2z/origins/cmu.doc)
+
+See Also:
+
+  os/bsd
+
+Restrictions:	.../kernel/Makeconf
+
+References:
+
+  Mach/4.3BSD: A Conservative Approach to Parallelism
+  Joseph Boykin, Alan Langerman
+  Volume 3, Number 1, Winter 1990
+  Computing Systems, USENIX Association
+

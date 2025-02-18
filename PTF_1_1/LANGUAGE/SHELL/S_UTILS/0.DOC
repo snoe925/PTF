@@ -1,0 +1,50 @@
+Package:	language/shell/s_utils
+
+Description:	shellutils - GNU Shell Utilities
+
+Version:	1.3
+
+Notes:
+
+  This is a package of small shell programming utilities.  They are mostly
+  compliant with POSIX.2, where applicable.
+
+	.../README
+
+  basename	strip directory and suffix from filenames
+  date		print or set the system date and time
+  dirname	strip filename suffix from pathname
+  env		run a program in a modified environment
+  expr		evaluate expressions
+  groups	print the groups a user is in
+  id		print real and effective UIDs and GIDs
+  logname	print user's login name
+  nice		run a program with modified scheduling priority
+  nohup		run a command immume to hangups, with output to a non-tty
+  pathchk	check whether pathnames are valid or portable
+  printenv	print all or part of environment
+  printf	format and print data
+  sleep		delay for a specified amount of time
+  stty		change and print terminal line settings
+  tee		read from standard input, write to standard output and files
+  test		check file types and compare values
+  tty		print the path of the terminal connected to standard input
+  uname		print system information
+  whoami	print effective userid
+  yes		output a string repeatedly until killed
+
+	.../man/*
+
+Language(s):    C
+
+Requirements:   ?
+
+Origin:         GNU Project, Free Software Foundation
+		(see a2z/origins/fsf.doc)
+
+See Also:       ?
+
+Restrictions:   See a2z/text/gnu_gpl.txt
+
+References:	?
+

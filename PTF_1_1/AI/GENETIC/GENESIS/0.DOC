@@ -1,0 +1,44 @@
+Package:	ai/genetic/genesis
+
+Description:	GENESIS (GENEtic Search Impl. System)
+
+Version:	5.0
+
+Notes:
+ 
+  This document describes the GENEtic Search Implementation System
+  (GENESIS Version 5.0).  This system was written to promote the study of
+  genetic algorithms for function minimization.  Since genetic algorithms
+  are task independent optimizers, the user must provide only an
+  "evaluation" function which returns a value when given a particular
+  point in the search space.  The system is written in the language C.
+  Details concerning the interface between the user-written function and
+  GENESIS are explained below.  Makefiles are provided to ease the
+  construction of genetic algorithms for the user's application.
+ 
+  This version offers several enhancements over previous versions that
+  should make the system much more user friendly.  The major improvement
+  is a user-level representation that allows the user to think about the
+  genetic structures as vectors of real numbers, rather than bit strings.
+  This level of representation should make the application of GENESIS to
+  new problems easier than ever.  A number of new options have been added,
+  including: a display mode that includes an interactive user interface,
+  the option to maximize or minimize the objective function, the choice of
+  rank-based or proportional selection algorithm, and an option to use a
+  Gray code as a transparent lower level representation.
+
+	.../genesis.doc
+
+Language(s):    C
+
+Requirements:   ?
+
+Origin:         Naval Research Laboratory
+		(see a2z/origins/nrl.doc)
+
+See Also:       ?
+
+Restrictions:   See .../*.c
+
+References:	?
+

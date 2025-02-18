@@ -1,0 +1,32 @@
+Package:	misc/less
+
+Description:	less - GNU more (more or less)
+
+Version:	177
+
+Notes:
+
+  Less is a program similar to more (1), but which allows backward movement
+  in the file as well as forward movement.  Also, less does not have to read
+  the entire input file before starting, so with large input files it starts
+  up faster than text editors like vi (1).  Less uses termcap (or terminfo
+  on some systems), so it can run on a variety of terminals.  There is even
+  limited support for hardcopy terminals.  (On a hardcopy terminal, lines
+  which should be printed at the top of the screen are prefixed with an up-
+  arrow.)
+
+	.../less.man
+
+Language(s):    C
+
+Requirements:   ?
+
+Origin:         GNU Project, Free Software Foundation
+		(see a2z/origins/fsf.doc)
+
+See Also:       ?
+
+Restrictions:   See a2z/text/gnu_gpl.txt
+
+References:	?
+

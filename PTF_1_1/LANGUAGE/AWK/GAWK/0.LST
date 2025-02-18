@@ -1,0 +1,16 @@
+2_13_2         1532857  gawk-2.13
+2_13_2           10407  gawk-2.13/atari
+2_13_2           13262  gawk-2.13/config
+2_13_2           43317  gawk-2.13/missing
+2_13_2           12081  gawk-2.13/pc
+2_13_2          126196  gawk-2.13/support
+2_13_2          321201  gawk-2.13/test
+2_13_2           51455  gawk-2.13/test/awf
+2_13_2           85212  gawk-2.13/test/book
+2_13_2           57983  gawk-2.13/test/book.good
+2_13_2            9844  gawk-2.13/test/book.good/bundle.out
+2_13_2           30014  gawk-2.13/test/chem
+2_13_2           40929  gawk-2.13/test/lisp
+2_13_2            7504  gawk-2.13/test/pearls
+2_13_2             698  gawk-2.13/test/reg
+2_13_2          118631  gawk-2.13/vms

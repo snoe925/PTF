@@ -1,0 +1,44 @@
+stanford.doc
+============
+
+Office of Technology Licensing
+Stanford University
+857 Serra Street, Second Floor
+Sanford, CA  94305-6225
+phone:	415-723-0651
+fax:	415-725-7295
+
+
+InterViews
+----------
+
+  InterViews is a research project with participation from both Stanford and
+  Silicon Graphics.  We (the researchers) fix bugs, generate new releases,
+  write documentation, give tutorials, and try to answer questions as best as
+  we can.  Quest Systems, a small company in Santa Clara, now offers support
+  for InterViews (their product is called ObjectViews).  Other companies are
+  considering offering a product based on InterViews.
+
+  ftp:	interviews.stanford.edu (36.22.0.175)
+
+  If you have a bug report, please send it to
+
+        interviews-bugs@interviews.stanford.edu
+
+  If you have any questions or problems, please post them in the USENET
+  newsgroup
+ 
+        comp.windows.interviews
+
+  If you do not have access to news and you wish to be on the InterViews
+  mailing list which is gatewayed with comp.windows.interviews, send a
+  request to
+
+        interviews-requests@interviews.stanford.edu
+
+  The mailing list alias is
+
+        interviews@interviews.stanford.edu
+
+  Please post to only the newsgroup or only the mailing list but not
+  both since whatever you post in one will appear in the other too.

@@ -1,0 +1,25 @@
+Package:	window/x11/r5/andrew
+
+Description:	Andrew - Andrew Window code
+
+Version:	?
+
+Notes:
+
+  The Andrew code is concentrated in a single directory subtree:
+
+    window/r5/mit/con_3		contrib/lib/andrew
+
+Language(s):    C
+
+Requirements:   bit-mapped printing or display device
+
+Origin:		Carnegie-Mellon University
+		(see a2z/origins/cmu.doc)
+
+See Also:	?
+
+Restrictions:   See window/x11/r5
+
+References:	?
+

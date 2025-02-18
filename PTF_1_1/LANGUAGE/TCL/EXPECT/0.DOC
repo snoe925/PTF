@@ -1,0 +1,35 @@
+Package:	language/tcl/expect
+
+Description:	expect - Interactive Program Harness
+
+Version:	2.56
+
+Notes:
+
+  expect is a program that "talks" to other interactive programs according
+  to a script.  Following the script, expect knows what can be expected from
+  a program and what the correct response should be.  An interpreted language
+  provides branching and high-level control structures to direct the dialogue.
+  (Alternatively, the user may use the C language directly. See libexpect(3).)
+  In addition, the user can take control and interact directly when desired,
+  afterward returning control to the script.
+
+	.../expect.man
+
+Language(s):    C
+
+Requirements:   ?
+
+Origin:         National Institute of Standards and Technology
+		(see a2z/origins/nist.doc)
+
+See Also:       ?
+
+Restrictions:   See .../README
+
+References:
+
+  expect: Curing Those Uncontrollable Fits of Interaction
+  Don Libes
+  USENIX Proceedings, Summer, 1990
+

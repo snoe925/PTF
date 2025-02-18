@@ -1,0 +1,24 @@
+Package:        language/lisp/scheme/scheme
+
+Description:    Scheme for assorted machines
+
+Version:        7.1
+
+Notes:
+ 
+  Here are a number of Scheme implementations.  Hope one woks on a machine
+  you have...
+
+Language(s):    C, Scheme
+
+Requirements:   ?
+
+Origin:         Scheme Team, Massachusetts Institute of Technology
+		(see a2z/origins/mit.doc)
+
+See Also:       ?
+
+Restrictions:   See a2z/text/gnu_gpl.txt
+
+References:	?
+

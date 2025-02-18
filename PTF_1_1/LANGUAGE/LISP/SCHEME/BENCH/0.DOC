@@ -1,0 +1,23 @@
+Package:        language/lisp/scheme/bench
+
+Description:    Assorted Scheme Benchmarks
+
+Version:        NA
+
+Notes:
+ 
+  This is a set (Boyer, BROWSE, PUZZLE, TAKR) of benchmarks for Scheme.
+
+Language(s):    Scheme
+
+Requirements:   ?
+
+Origin:         Scheme Team, Massachusetts Institute of Technology
+		(see a2z/origins/mit.doc)
+
+See Also:       ?
+
+Restrictions:   See .../gabriel.*
+
+References:	?
+

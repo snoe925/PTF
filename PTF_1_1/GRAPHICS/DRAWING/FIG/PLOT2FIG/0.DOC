@@ -1,0 +1,29 @@
+Package:	graphics/drawing/fig/plot2fig
+
+Description:	plot2fig - plot(1) to Fig filter
+
+Version:	0.2
+
+Notes:
+
+  plot2fig is a utility for converting unix plot files into the fig file
+  format.  fig files may be editied using fig, or xfig.  They can be
+  converted to other formats using the transfig package.
+
+	.../README
+
+Language(s):    C
+
+Requirements:   ?
+
+Origin:         Lawrence Berkeley Laboratory
+		(see a2z/origins/lbl.doc)
+
+See Also:
+
+  docprep/format/tex
+
+Restrictions:   See a2z/text/gnu_gpl.txt
+
+References:	?
+

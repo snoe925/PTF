@@ -1,0 +1,38 @@
+Package:        language/lisp/kcl/akcl
+
+Description:    AKCL - Austin Kyoto Common Lisp
+
+Version:        1-605
+
+Notes:
+ 
+  The AKCL system contains change files (usually V/* files) together
+  with a method for combining these with the original KCL distribution.
+  The latter is the June 1987 version.  The utility merge, takes files
+  from the original distribution and modifies them according to a
+  prescription in a `change file'.  The change files reside in the
+  directory V.  The enhancements include enhancements to the lisp
+  compiler, loader, and to the basic C code.  If installed properly
+  NOTHING in the original kcl directory should be overwritten.  Files
+  which have not changed will have only a link copy in the akcl directory,
+  and files which do change will have a changed copy in the akcl
+  directory, and an unchanged file in the kcl directory.  To ensure that
+  you do not accidentally alter a file in the original directory you
+  might wish to make the files there unwritable.  You do not need
+  to do a make in the kcl directory.
+
+	.../README
+
+Language(s):    Lisp
+
+Requirements:   KCL
+
+Origin:         W. Schelter, University of Texas, etc.
+		(see a2z/origins/utx.doc)
+
+See Also:       ?
+
+Restrictions:   ?
+
+References:	?
+

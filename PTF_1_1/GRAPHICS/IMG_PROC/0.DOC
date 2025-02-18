@@ -1,0 +1,38 @@
+Topic:		graphics/img_proc
+
+Description:	Image Processing Tools
+
+Notes:
+
+  Image processing  deals with the analysis and modification of existing
+  images, generally from the "real world".  (Computer graphics, in contrast,
+  involves the creation of an artificial image by some algorithmic means.)
+
+  Image processing tools are used to convert the representation of images,
+  perform arithmetic operations on pixels, display images, etc.  Display
+  programs are typically constrained to run with particular display hard-
+  ware and/or a particular window system.
+
+Contains:
+
+  fbm       P    FBM - Fuzzy PixMap library
+  jpeg      P    jpeg - JPEG tools
+  tiff      P    tiff - Tagged Image File Format tools
+  urt       P    urt - Utah Raster Toolkit
+
+See Also:
+
+  graphics
+  window
+
+References:
+
+  Beyond Photography: The Digital Darkroom
+  Gerard J. Holzmann
+  Prentice Hall, 1988, ISBN 0-13-074410-7
+
+  Digital Image Processing
+    Concepts, Algorithms and Scientific Applications
+  Bernd Ja:hne
+  Springer-Verlag, 1991, ISBN 0-387-53782-1
+

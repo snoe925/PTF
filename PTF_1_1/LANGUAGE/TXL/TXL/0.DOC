@@ -1,0 +1,26 @@
+Package:	language/txl/txl
+
+Description:	TXL - Tree Transformation Language
+
+Version:	5.3
+
+Notes:
+
+  TXL is still under development as a general linguistic prototyping tool,
+  and we are interested in any and all experience in its use.
+
+	.../README
+
+Language(s):    C/Turing
+
+Requirements:   ?
+
+Origin:         Queen's University at Kingston, Canada
+		(see a2z/origins/qu.doc)
+
+See Also:       ?
+
+Restrictions:   ?
+
+References:	?
+

@@ -1,0 +1,28 @@
+Package:        language/lisp/scheme/oaklisp
+
+Description:    The CMU implementation of Oaklisp
+
+Version:        release-30-sep-90
+
+Notes:
+ 
+  Oaklisp is an object-oriented dialect of Scheme.  This implementation is
+  highly portable, compiling to a virtual machine which is emulated by a
+  C program.  Nevertheless, reasonable speed is achieved through a variety
+  of sophisticated techniques.
+
+	.../release-30-sep-90/man/man1/oaklisp.1
+
+Language(s):    C, Lisp
+
+Requirements:   ?
+
+Origin:         Barak Pearlmutter, Carnegie-Mellon University
+		(see a2z/origins/cmu.doc)
+
+See Also:       ?
+
+Restrictions:   see .../COPYING
+
+References:	?
+

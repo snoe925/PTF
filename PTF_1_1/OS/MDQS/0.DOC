@@ -1,0 +1,30 @@
+Package:	os/mdqs
+
+Description:	MDQS - Multi-Device Queueing System
+
+Version:	2.13
+
+Notes:
+
+  MDQS was designed with almost everything in mind.  What we currently have
+  is a system to handle a variety of line printer devices (e.g. Dataproducts,
+  Printronix, Versatec, etc.), phototypesetting emulation via an interface
+  to VCAT, laser printers (e.g., Imagen), and batch requests in a fairly
+  civilized manner.  There is also a ``network'' pseudo device that is used
+  to send requests to remote machines for processing.  There are currently
+  network interfaces for Berkeley 2.8BSD TCP/IP, Berkeley 4.2BSD TCP/IP,
+  and UUCP (not fully tested).
+
+Language(s):    C
+
+Requirements:   ?
+
+Origin:         Ballistic Research Laboratory
+                (see a2z/origins/brl.doc)
+
+See Also:	?
+
+Restrictions:	See .../dist.letter
+
+References:	?
+

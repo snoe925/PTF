@@ -1,0 +1,29 @@
+rwxrwxrwx  2/2      0 Oct  8 14:40 1991 dist-7.1.3/
+rwxrwxrwx  2/2      0 Oct  8 14:41 1991 dist-7.1.3/bin/
+r-xr-xr-x  2/2 606208 Aug 28 23:05 1991 dist-7.1.3/bin/scheme
+r-xr-xr-x  2/2 614400 Aug 28 23:06 1991 dist-7.1.3/bin/bchscheme
+r-xr-xr-x  2/2  20480 Aug 28 23:06 1991 dist-7.1.3/bin/hppacache
+rwxrwxrwx  2/2      0 Oct  8 14:44 1991 dist-7.1.3/lib/
+r--r--r--  2/2  13264 Aug 29 02:07 1991 dist-7.1.3/lib/utabmd.bin
+r--r--r--  2/24833392 Sep  5 21:55 1991 dist-7.1.3/lib/compiler.com
+r--r--r--  2/23831692 Sep  6 14:34 1991 dist-7.1.3/lib/edwin.com
+r--r--r--  2/21902600 Sep  5 21:53 1991 dist-7.1.3/lib/runtime.com
+r--r--r--  2/2    560 Apr 30 12:54 1991 dist-7.1.3/lib/HPPAmodels
+rwxrwxrwx  2/2      0 Oct  8 14:39 1991 dist-7.1.3/lib/options/
+r--r--r--  2/2  15488 Sep  5 20:38 1991 dist-7.1.3/lib/options/format.com
+r--r--r--  2/2  26060 Sep  5 20:41 1991 dist-7.1.3/lib/options/hashtb.com
+r--r--r--  2/2  28420 Sep  5 20:46 1991 dist-7.1.3/lib/options/numint.com
+rwxrwxrwx  2/2      0 Oct  8 14:39 1991 dist-7.1.3/lib/edwin/
+rwxrwxrwx  2/2      0 Oct  8 14:40 1991 dist-7.1.3/lib/edwin/autoload/
+r--r--r--  2/2  19064 Sep  5 22:07 1991 dist-7.1.3/lib/edwin/autoload/c-mode.com
+r--r--r--  2/2  20884 Sep  5 22:07 1991 dist-7.1.3/lib/edwin/autoload/cinden.com
+r--r--r--  2/2  28020 Sep  5 22:10 1991 dist-7.1.3/lib/edwin/autoload/dired.com
+r--r--r--  2/2  71500 Sep  5 22:14 1991 dist-7.1.3/lib/edwin/autoload/info.com
+r--r--r--  2/2  11916 Sep  5 22:15 1991 dist-7.1.3/lib/edwin/autoload/keymap.com
+r--r--r--  2/2   6648 Sep  5 22:16 1991 dist-7.1.3/lib/edwin/autoload/midas.com
+r--r--r--  2/2  15952 Sep  5 22:18 1991 dist-7.1.3/lib/edwin/autoload/pasmod.com
+r--r--r--  2/2   9044 Sep  5 22:19 1991 dist-7.1.3/lib/edwin/autoload/reccom.com
+r--r--r--  2/2  21660 Sep  5 22:24 1991 dist-7.1.3/lib/edwin/autoload/tags.com
+r--r--r--  2/2   5304 Sep  5 22:26 1991 dist-7.1.3/lib/edwin/autoload/tximod.com
+r--r--r--  2/2  33852 May 19 10:16 1988 dist-7.1.3/lib/edwin/TUTORIAL
+r--r--r--  2/2  10612 Jan  8 16:05 1991 dist-7.1.3/INSTALL

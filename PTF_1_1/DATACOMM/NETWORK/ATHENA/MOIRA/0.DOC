@@ -1,0 +1,36 @@
+Package:	datacomm/network/athena/moira
+
+Description:	moira - Project Athena Service Mgt. System
+
+Version:	2.2p3
+
+Notes:
+
+  Moira is the Project Athena Service Management System.  It manages the
+  configuration of all of the Athena network services.  It consists of a
+  large relational database, and front end software to control access to
+  that information and automatically update system servers from that
+  information.
+
+	.../manual.txt
+
+Language(s):    C
+
+Requirements: 
+
+  Moira depends on the Kerberos authentication system, and will make use
+  of the Hesiod nameservice and Zephyr notification services if they are
+  present in your system.
+
+	.../manual.txt
+
+Origin:         Project Athena, Massachusetts Institute of Technology
+		(see a2z/origins/mit.doc)
+
+See Also:       ?
+
+Restrictions:   See .../manual.txt, .../include/mit-copyright.h,
+		.../include/mit-sipb-copyright.h
+
+References:	?
+

@@ -1,0 +1,34 @@
+Topic:		usenet
+
+Description:	Usenet Archives
+
+Notes:
+
+  The Usenet is a collection of machines that form a world-wide distributed
+  bulletin board.  The topics are diverse -- over 1000 "newsgroups" are now
+  in existence.  The volume is also high -- a site that takes "everything"
+  could well receive over 30 MB per day.
+
+  Nobody can read that much traffic, but then nobody does.  People find the
+  groups which interest them, "kill" off boring sub-topics, and skim for the
+  nuggets.  Some users have created "agents", which search for interesting
+  postings.  Anything by dmr, for instance.
+
+  Some groups, because of the efforts of a moderator, have relatively high
+  amounts of content.  The trade-off is immediacy -- the moderator may not
+  get to the group every hour, or even every day.  For source code groups,
+  however, this works just fine.
+
+  This sub-tree is very sparse at present -- you will probably want to skip
+  straight to usenet/comp/sources.  We expect to expand it in upcoming discs,
+  however, so we decided to keep the name space in line with that used by
+  the Usenet.  We apologize for any inconvenience.
+
+Contains:
+
+  comp      T    "comp" Usenet Archives
+
+See Also:	?
+
+References:	?
+

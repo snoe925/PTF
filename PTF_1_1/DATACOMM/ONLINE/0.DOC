@@ -1,0 +1,29 @@
+Topic:		datacomm/online
+
+Description:	On-line (Interactive) Data Comm. Tools
+
+Notes:
+
+  Although UNIX comes with tip(1) and/or cu(1), there are many reasons why one
+  would want alternative interactive data communication tools.  The system on
+  the other end of the wire may not run UNIX, error-correction may be needed,
+  etc.
+  
+
+Contains:
+
+  kermit    T    Kermit Terminal Emulator
+
+See Also:	?
+
+References:
+
+  The Hacker's Handbook
+    An Insider's Guide to Modems and Telecomputing
+  Hugo Cornwall
+  E. Arthur Brown, 1986, ISBN 0-912579-06-4
+
+  UNIX Communications
+  Bart Anderson, Bryan Costales, Harry Henderson
+  Sams (Macmillan), 1987, ISBN 0-672-22511-5
+

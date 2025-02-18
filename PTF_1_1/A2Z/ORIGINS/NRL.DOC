@@ -1,0 +1,24 @@
+nrl.doc
+=======
+
+Naval Research Laboratory
+Washington, DC  20375-5000
+
+GENESIS
+-------
+
+  This document describes the GENESIS system for function optimization
+  based on genetic search techniques.  Genetic algorithms appear to hold a
+  lot of promise as general purpose adaptive search procedures.  However,
+  the author disclaims any warranties of fitness for any particular
+  problem.  The purpose of making this system available is to encourage
+  the experimental use of genetic algorithms on realistic optimization
+  problems, and thereby to identify the strengths and weaknesses of
+  genetic algorithms.  Comments and bug reports are also welcome.
+
+  John J. Grefenstette
+  Navy Center for Applied Research in Artificial Intelligence
+  Code 5514
+  Naval Research Laboratory
+  Washington, DC  20375-5000
+  gref@aic.nrl.navy.mil

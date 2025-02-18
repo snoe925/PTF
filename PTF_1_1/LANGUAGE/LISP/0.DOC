@@ -1,0 +1,42 @@
+Topic:		language/lisp
+
+Description:	Lisp Language Tools
+
+Notes:
+
+  The Lisp programming language, possibly because of its very limited
+  notions of syntex, has proven to be a remarkably flexible and extensible
+  tool.  With the advent of standardization, many of the extensions are
+  becoming documented and widely usable.
+
+Contains:
+
+  ew        P    EW - Express Windows
+  kcl       T    KCL - Kyoto Common Lisp
+  leif      P    Leif - Language Oriented Editor
+  pcl       P    PCL - Portable CommonLoops
+  scheme    T    The SCHEME Programming Language
+  t         P    T - dialect of Lisp
+
+See Also:	?
+
+References:
+
+  Anatomy of LISP
+  John Allen
+  McGraw-Hill, 1978, ISBN 0-07-001115-X
+
+  COMMON LISP
+    The Language
+  Guy L. Steele Jr.
+  Digital Press, 1984, ISBN 0-932376-41-X
+
+  LISP
+  Patrick Henry Winston
+  Berthold Klaus Paul Horn
+  Addison-Wesley, 1981, 0-201-08329-9
+
+  LISPcraft
+  Robert Wilensky
+  Norton, 1984, ISBN 0-393-95442-0
+

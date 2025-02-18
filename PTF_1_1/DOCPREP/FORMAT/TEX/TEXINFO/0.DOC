@@ -1,0 +1,36 @@
+Package:	docprep/format/tex/texinfo
+
+Description:	texinfo - documentation system
+
+Version:	2.10, 2.12.1 (late beta)
+
+Notes:
+
+  Texinfo is a documentation system that uses a single source file to
+  produce both on-line information and a printed manual.
+
+  The first part of this master menu lists the major nodes in this Info
+  document, including the @@-command and concept indices.  The rest of
+  the menu lists all the lower level nodes in the document.
+
+	.../texinfo.texi
+
+Language(s):    C
+
+Requirements:   ?
+
+Origin:         GNU Project, Free Software Foundation
+		(see a2z/origins/fsf.doc)
+
+See Also:      
+
+  docprep/troff/texi2rof
+
+Restrictions:   See a2z/text/gnu_gpl.txt
+
+References:
+
+  Texinfo Manual
+  Robert Chassell, Richard M. Stallman
+  Free Software Foundation, October, 1991
+

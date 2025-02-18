@@ -1,0 +1,30 @@
+Package:	graphics/drawing/fig/transfig
+
+Description:	TransFig - Fig to TeX filter
+
+Version:	TranFig Version 1.4-TFX Release 4 (1_4_4),
+		2.1.4, patch 0 (2_1_4_0)
+
+Notes:
+
+  TransFig is a set of tools for creating TeX documents with graphics
+  which are portable, in the sense that they can be printed in a wide
+  variety of environments.
+
+	.../README
+
+Language(s):    C
+
+Requirements:   ?
+
+Origin:         Dept of Computer Science, Cornell University
+		(see a2z/origins/cornell.doc)
+
+See Also:
+
+  docprep/format/tex
+
+Restrictions:   See .../COPYRIGHT
+
+References:	?
+

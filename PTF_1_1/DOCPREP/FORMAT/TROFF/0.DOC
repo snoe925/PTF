@@ -1,0 +1,74 @@
+Topic:		docprep/format/troff
+
+Description:	The Troff System
+
+Notes:
+
+  Both nroff and troff derive from roff, which in turn arose from runoff, a
+  program developed on the MIT CTSS System.  ...  Both nroff and troff were
+  developed in the mid-seventies by Joseph Osanna, who was killed in an
+  accident in 1977.  Since then, the programs have served Bell Labs and a
+  large number of academic institutions well, and in the past few years have
+  spread to private business.
+
+  nroff produces typewritten documents; troff is the typesetting program.
+  It is an important advantage to them that they share common commands, like
+  those that determine the length of a line of formatted text or the length
+  of a page.  It is possible, then, to create a typewritten version of a file
+  and then produce a typeset version without any changes.  Those commands that
+  are appropriate for printing (for example, size of type, spacing between
+  lines) are ignored by nroff.  The two programs were originally created to
+  generate internal memoranda and patent applications, and the pragmatic
+  demands of this work may have determined their essential characteristics as
+  formatters, characteristics that can be described as a blend of inconven-
+  ience and efficiency.
+
+	Introduction, UNIX NROFF/TROFF: A User's Guide
+
+Contains:
+
+  groff     P    groff - GNU troff(1)
+  texi2rof  P    texi2roff - Texinfo to *roff filter
+
+See Also:	?
+
+References:
+
+  Document Formatting and Typesetting on the UNIX System, Volume 1
+  Narain Gehani
+  Silicon Press, 1986, ISBN 0-9615336-0-9
+
+  Document Formatting and Typesetting on the UNIX System, Volume 2
+    grap, mv, ms & troff
+  Narain Gehani, Steven Lally
+  Silicon Press, 1988, ISBN 0-9615336-3-3
+
+  Preparing Documents with UNIX
+  Constance C. Brown, Jack L. Falk, Richard L. Sperline
+  Prentice Hall, 1986, ISBN 0-13-699976-X
+
+  Text Processing and Typesetting with UNIX
+  David Barron, Mike Rees
+  Addison-Wesley, 1987, ISBN 0-201-14219-8
+
+  Troff Typesetting for UNIX Systems
+  Sandra L. Emerson, Karen Paulsell
+  Prentice Hall, 1987, ISBN 0-13-930959-4
+
+  Typesetting Tables on the UNIX System
+  Henry McGilton, Mary McNabb
+  Trilithon Press, 1989, ISBN 0-9626289-0-5
+
+  UNIX NROFF/TROFF
+    A User's Guide
+  Kevin P. Roddy
+  Holt, Rinehart & Winston, 1986, ISBN 0-03-000167-6
+
+  UNIX Text Processing
+  Timothy O'Reilly, Dale Dougherty
+  Sams (Macmillan), 19??, ISBN 0-810-46291-5
+
+  The UNIX Text Processing System
+  Kaare Christian
+  John Wiley & Sons, 1987, ISBN 0-471-85581-2
+

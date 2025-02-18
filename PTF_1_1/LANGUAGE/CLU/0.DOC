@@ -1,0 +1,33 @@
+Package:	language/clu
+
+Description:	CLU
+
+Version:	Sun CLU 1.5, Vax CLU (both on 26 May 1989)
+
+Notes:
+
+  CLU is a highly extensible language, designed for research in language
+  theory.  CLU was one of the earlier languages with abstract data types
+  (called "clusters" in CLU).
+
+Language(s):    C, CLU
+
+Requirements:   ?
+
+Origin:         Massachusetts Institute of Technology
+		(see a2z/origins/mit.doc)
+
+See Also:       ?
+
+Restrictions:   See .../COPYRIGHT
+
+References:
+
+  CLU Reference Manual
+  Barbara Liskov, John Guttag (?)
+  Springer-Verlag, 19??, ISBN  0-387-91253-3
+
+  Data Abstraction and Specification in Program Development
+  Barbara Liskov and John Guttag
+  MIT Press, 1986, ISBN 0-262-12112-3
+

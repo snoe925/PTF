@@ -1,0 +1,53 @@
+Package:	graphics/dataplot/graphics
+
+Description:	GNU graphics utilities
+
+Version:	0.17
+
+Notes:
+
+  The GNU graphics utilities are a set of programs for plotting
+  scientific data.  The program `graph' reads data files and writes a
+  stream of plotting commands in a device independent format refered
+  to below as a GNU plot file.  The remaining programs provide support
+  for displaying GNU plot files on tektronix 4010, PostScript (TM)*,
+  and X window system compatible output devices.
+
+   `graph' reads both ascii and binary data files and writes a plot
+  file with or without axes and labels.  You can specify labels and
+  ranges for the axes, and you can set the sizes and position of the
+  plot on the page.  Each invocation of graph produces a plot with
+  single set of axes and data.  You can place an arbitrary number of
+  plots on the page by concatenating the plot output of several
+  invocations.
+
+   `plot2ps' is a utility for converting plot files into PostScript. 
+  The `plot2ps' utility reads plotting commands from named files or
+  the standard input and writes PostScript to the standard output. 
+  You can then print the PostScript output on a printer, or edit it
+  using the `idraw' graphics editor.  You can also easily include the
+  output in LaTeX documents using `dvips' and the LaTeX command `psfig'.
+
+  Why is this useful? The plot file format is a common standard on
+  un*x systems.  To produces figures for publication, you might need
+  to take data sets, and produce labeled figures from them.  This can
+  be done using `graph', `plot2ps' and the `idraw' editor.  You can
+  also include these figures in LaTeX documents using the `dvips'
+  utility.  All of these utilities, as well as the plot file format
+  and plot library, are discussed in the following sections.
+
+	.../graphics-0.17.info
+
+Language(s):    C
+
+Requirements:   ?
+
+Origin:         GNU Project, Free Software Foundation
+		(see a2z/origins/fsf.doc)
+
+See Also:       ?
+
+Restrictions:   See a2z/text/gnu_gpl.txt
+
+References:	?
+

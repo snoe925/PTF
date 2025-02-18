@@ -1,0 +1,45 @@
+:
+# p.ask - ask about package(s) or topic(s); print *some* info
+#
+# Usage: p.ask [package|topic] ...
+#
+# Written by Rich Morin, CFCL, January, 1992
+#
+# Public Domain - all uses allowed
+
+PTF_CASE=${PTF_CASE-lower}
+if [ $PTF_CASE = lower ]; then 
+  doc=doc 
+else 
+  doc=DOC
+fi 
+
+PTF_PAGE=${PTF_PAGE-more}
+
+TMP=/tmp/p.$$
+
+args="${*-.}"
+
+list=
+for arg in $args; do
+  if [ -f $arg/0.$doc ]; then			# handle topics
+    list="$list $arg/0.$doc"
+  else
+    if [ ! -f $arg.$doc ]; then			# handle errors
+      echo "p.ask: no documentation for package/topic <$arg>"
+      sleep 2
+    fi
+    list="$list $arg.$doc"			# handle packages
+  fi
+done
+
+rm -f $TMP
+for file in $list; do
+  awk '
+    /^Refer/ { printf("%c\n", 12); exit }	# add FF and leave
+	     { print $0 }
+  ' $file >> $TMP
+done
+
+$PTF_PAGE $TMP					# display text
+rm -f $TMP					# then remove it

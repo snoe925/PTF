@@ -1,0 +1,116 @@
+Topic:		language/prolog
+
+Description:	The Prolog Programming Language
+
+Notes:
+
+  The computer programming language Prolog is quickly gaining popularity
+  throughout the world.  Since its beginnings around 1970, Prolog has
+  been chosen by many programmers for applications of symbolic computation,
+  including:
+
+	relational databases
+	mathematical logic
+	abstract problem solving
+	understanding natural language
+	architectural design
+	symbolic equation solving
+	biochemical structure analysis
+	many areas of artificial intelligence
+
+  ...
+
+  Many newcomers to Prolog find that the task of writing a Prolog program
+  is not like specifying an algorithm in the same way as in a conventional
+  programming language.  Instead, the Prolog programmer asks more what
+  formal relationships and objects occur in his problem, and what rela-
+  tionships are "true" about the desired solution.  So, Prolog can be
+  viewed as a descriptive language as well as a prescriptive one.  The
+  Prolog approach is rather to describe known facts and relationships about
+  a problem, than to prescribe the sequence of steps taken by a computer
+  to solve the problem.  When a computer is programmed in Prolog, the actual
+  way the computer carries out the computation is specified partly by the
+  logical declarative semantics of Prolog, partly by what new facts Prolog
+  can 'infer' from the given ones, and only partly by explicit control
+  information supplied by the programmer.
+
+  Prolog is a practical and efficient implementation of many aspects of
+  'intelligent' program execution, such as non-determinism, parallelism,
+  and pattern-directed procedure call.  Prolog provides a uniform data
+  structure, called the term, out of which all data, as well as Prolog
+  programs, are constructed.  A Prolog program consists of a set of
+  clauses, where each clause is either a fact about the given information
+  or a rule about how the solution may relate to or be 'inferred' from
+  the given facts.  Thus, Prolog can be seen as a first step towards the
+  ultimate goal of programming in logic.
+
+	Preface, Programming in Prolog
+
+Contains:
+
+  sbprolog  P    The SB-Prolog system
+
+See Also:
+
+  ai
+  language/lisp
+
+References:
+
+  Algebraic and Logic Programming
+  H. Kirchner, W. Wechsler, eds.
+  Springer-Verlag, 1990, 0-387-53162-9
+
+  The Art of Prolog
+  Leon Sterling, Ehud Shapiro
+  MIT Press, 1986, ISBN 0-262-?
+
+  Concurrent Prolog
+    Collected Papers, Volumes 1 and 2
+  Ehud Shapiro, ed.
+  MIT Press, 1987, ISBN ?
+
+  The Craft of Prolog
+  Richard A. O'Keefe
+  MIT Press, 1990, ISBN 0-262-?
+
+  Implementations of Prolog
+  J.A. Campbell, ed.
+  Ellis Horwood, 19??, ISBN ?
+
+  Introduction to Logic Programming
+  Christopher John Hogger
+  Academic Press, 1984, ISBN 0-12-352092-4
+
+  Logic, Algebra and Databases
+  Peter Gray
+  Ellis Horwood, 1984, ISBN 0-85312-709-3
+
+  Logic for Problem Solving
+  Robert Kowalski
+  North Holland, 1979, ISBN 0-444-00368-1
+
+  Logic Programming
+  K.L. Clark, S.-A. Tarnlund
+  Academic Press, 1982, ISBN 0-12-175520-7
+
+  The Practice of Prolog
+  Leon Sterling, ed.
+  MIT Press, 1990, ISBN 0-262-19301-9
+
+  Programming in Prolog
+  W.F. Clocksin, C.S. Mellish
+  Springer-Verlag, 1981, 0-387-11046-1
+
+  PROLOG and its Applications
+  Alan Bond, Ross A. Overbeck, eds.
+  MIT Press, 1990, ISBN ?
+
+  Prolog for Programmers
+  Feliks Kluzniak, Stanislaw Szpakowicz, Janusz S. Bien
+  Academic Press, 1985, 0-12-416520-6
+
+  PROLOG VLSI Implementations
+  Pierluigi Civera, Gianluca Piccinini, Maurizio Zamboni
+  MIT Press, 1990, ISBN ?
+

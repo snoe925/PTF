@@ -1,0 +1,21 @@
+Topic:		language/bc
+
+Description:	bc - arbitrary precision desk calculator
+
+Notes:
+
+  bc is an arbitrary precision numeric processing language.  Syntax is
+  similar to C, but differs in many substantial areas.  It supports
+  interactive execution of statements.  bc is a utility included in the
+  POSIX P1003.2/D11 draft standard.
+
+	gnu_bc:.../README
+
+Contains:
+
+  gnu_bc    P    gnu_bc - GNU bc
+
+See Also:	?
+
+References:	?
+

@@ -1,0 +1,60 @@
+Package:	language/abc
+
+Description:	The ABC Programming Language
+
+Version:	?
+
+Notes:
+
+  ABC is an imperative language originally designed as a replacement for
+  BASIC: interactive, very easy to learn, but structured, high-level,
+  and easy to use. ABC has been designed iteratively, and the present
+  version is the 4th iteration. The previous versions were called B (not
+  to be confused with the predecessor of C).
+
+  It is suitable for general everyday programming, the sort of
+  programming that you would use BASIC, Pascal, or AWK for. It is not a
+  systems-programming language. It is an excellent teaching language,
+  and because it is interactive, excellent for prototyping. It is much
+  faster than Unix 'bc' for doing quick calculations.
+ 
+  ABC programs are typically very compact, around a quarter to a fifth
+  the size of the equivalent Pascal or C program. However, this is not
+  at the cost of readability, on the contrary in fact (see the examples
+  below).
+
+  ABC is simple to learn due to the small number of types in the
+  language (five). If you already know Pascal or something similar you
+  can learn the whole language in an hour or so.  It is easy to use
+  because the data-types are very high-level.
+
+  The five types are:
+
+     numbers: unbounded length, with exact arithmetic the rule
+
+     texts (strings): also unbounded length
+
+     compounds: records without field names
+
+     lists: sorted collections of any one type of items (bags or multi-sets)
+
+     tables: generalised arrays with any one type of keys, any one type
+             of items (finite mappings).
+
+Language(s):    ?
+
+Requirements:   ?
+
+Origin:         ABC Implementations, CWI/AA
+		(see a2z/origins/abc.doc)
+
+See Also:       ?
+
+Restrictions:   ?
+
+References:
+
+  ABC Programmer's Handbook
+  Leo Geurts, Lambert Meertens, Steven Pemberton
+  Prentice Hall, 1990, ISBN 0-13-000027-2
+

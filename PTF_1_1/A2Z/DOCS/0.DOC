@@ -1,0 +1,14 @@
+Admin:		a2z/doc
+
+Description:	Documentation files relating to the disc as a whole
+
+Notes:
+
+  These files contain text files that relate to the disc as a whole.
+
+Contains:
+
+  booklet.ps	booklet text, in PostScript form
+  gnu_gpl.txt	GNU General Public License
+
+See Also:	?

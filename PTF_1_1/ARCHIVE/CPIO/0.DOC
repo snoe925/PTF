@@ -1,0 +1,38 @@
+Package:	archive/cpio
+
+Description:	GNU cpio(1)
+
+Version:	1.5
+
+Notes:
+
+  This is GNU tar.  It is based heavily on John Gilmore's public domain
+  tar, but with added features.  The manual is currently being written.
+  An old manual, surely riddled with errors, is in tar.texinfo.  Please
+  don't send in bug reports about that manual.  In particular, the
+  mechanism for doing incremental dumps has been significantly changed.
+
+	.../README
+
+  John Gilmore (gnu) enhanced tar substantially.  His version contains
+  error recovery, compression, and some other nifty features.  The folks
+  at FSF are maintaining and improving it, but it is already the tar of
+  choice for many sites.
+
+  A hint on unpacking the packages:  If you already have compress and
+  tar(1) utilities, the *.atz file(s) should serve your needs just fine.
+  If not, use the *.as (shell archive) file(s) instead.
+
+Language(s):    yacc, C
+
+Requirements:   ?
+
+Origin:         GNU Project, Free Software Foundation
+		(see a2z/origins/fsf.doc)
+
+See Also:       ?
+
+Restrictions:   See a2z/text/gnu_gpl.txt
+
+References:	?
+

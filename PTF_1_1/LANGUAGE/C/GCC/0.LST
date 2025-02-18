@@ -1,0 +1,14 @@
+1_39           7679922  gcc-1.39
+1_39           1858003  gcc-1.39/config
+1_40           7752828  gcc-1.40
+1_40           1869100  gcc-1.40/config
+vms_1_39       1783743  gccdist
+vms_1_39        160501  gccdist/bison
+vms_1_39       1522770  gccdist/gcc
+vms_1_39         99176  gccdist/gcc-src
+vms_1_39         99176  gccdist/gcc-src/vms
+vms_1_39         39383  gccdist/gcc-src/vms/gcclib
+vms_1_39         18789  gccdist/gcc-src/vms/old-driver
+vms_1_39        216116  gccdist/gcc/include
+vms_1_39          3985  gccdist/gcc/include/sys
+vms_1_39         59342  gccdist/gcc/include/vms

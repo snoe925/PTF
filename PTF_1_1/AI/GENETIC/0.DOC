@@ -1,0 +1,59 @@
+Topic:		ai/genetic
+
+Description:	Genetic Algorithm Tools
+
+Notes:
+
+  Genetic Algorithms are search programs that borrow heavily from biological
+  genetics.  That is, they encode parameters into "genes" (usually encoded
+  as bit strings), generate and test sets of "individuals", then "breed" on
+  a selective basis, using crossover, mutation, etc.
+
+  Genetic Algorithms are finding increasing interest in solving optimization
+  problems, particularly in cases where no effective algorithms or heuristics
+  are known.  They are also being used in combination with other methods.
+
+Contains:
+
+  genesis   P    GENESIS (GENEtic Search Impl. System)
+
+See Also:	?
+
+References:
+
+  (assorted papers)
+  The Clearinghouse for Genetic Algorithms (TCGA), University of Alabama
+  Illinois Genetic Algorithms Laboratory, University of Illinois
+
+  Adaptation in Natural and Artificial Systems
+  John Holland
+  University of Michigan Press, 1975, ISBN 0-472-08460-7
+
+  Foundations of Genetic Algorithms
+  Gregory J.E. Rawlins, ed.
+  Morgan Kaufman, 1991, ISBN 1-55860-170-8
+
+  Genetic Algorithms in Search, Optimization, and Machine Learning
+  David Goldberg
+  Addison-Wesley, 1989, ISBN 0-201-15767-5
+
+  Handbook of Genetic Algorithms
+  Lawrence Davis, ed.
+  Van Nostrand Reinhold, 1991, ISBN 0-442-00173-8
+
+  Proceedings of the First International Conference on Genetic Algorithms
+  John J. Grefenstette, ed.
+  Lawrence Erlbaum Associates, 1985, ISBN 0-8058-0426-9
+
+  Proceedings of the Second International Conference on Genetic Algorithms
+  John J. Grefenstette, ed.
+  Lawrence Erlbaum Associates, 1987, ISBN 0-8058-0159-6
+
+  Proceedings of the Third International Conference on Genetic Algorithms
+  Richard K. Belew, Lashon B. Booker, eds.
+  Morgan Kaufman, 1989, ISBN 1-55860-006-3
+
+  Proceedings of the Fourth International Conference on Genetic Algorithms
+  Richard K. Belew, Lashon B. Booker, eds.
+  Morgan Kaufman, 1991, ISBN 1-55860-208-9
+

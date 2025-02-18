@@ -1,0 +1,25 @@
+Topic:		language/txl
+
+Description:	TXL - Tree Transformation Language
+
+Notes:
+
+  TXL is a generalized source-to-source translation system suitable for 
+  prototyping computer languages of any kind.  It has been used to 
+  prototype several new programming languages as well as specification 
+  and command languages.  TXL takes as input an arbitrary context-free 
+  grammar in BNF-like notation, and a set of show-by-example transformation 
+  rules to be applied to inputs parsed using the grammar.  TXL will 
+  automatically parse inputs in the language described by the grammar, 
+  no matter how ambiguous or left-recursive, and then successively apply 
+  the transformation rules to the parsed input until they fail, producing 
+  as output the transformed source.
+
+Contains:
+
+  txl       P    TXL - Tree Transformation Language
+
+See Also:	?
+
+References:	?
+

@@ -1,0 +1,76 @@
+Topic:		language/p_script
+
+Description:	PostScript Language Tools
+
+Notes:
+
+  The PostScript language is a simple interpretive programming language with
+  powerful graphics capabilities.  Its primary application is to describe the
+  appearance of text, graphical images, and sampled images on printed or
+  displayed pages.  A programm in this language can communicate a description
+  of a document from a composition system to a printing system or control the
+  appearance of text and graphics on a display.  The description is high
+  level and device independent.
+
+	Introduction, PostScript Language Reference Manual, 2nd. Ed.
+
+Contains:
+
+  g_script  P    GhostScript - GNU PostScript interpreter
+
+See Also:
+
+  docprep/format
+  language/forth
+  window/news
+
+References:
+
+  Display PostScript Programming
+  David Holzgang
+  Addison-Wesley, 1990, ISBN 0-201-51814-7
+
+  graphic design with PostScript
+  Gerard Kunkel
+  Scott, Foresman, 1990, ISBN 0-673-38794-1
+
+  Inside PostScript
+  Frank Merritt Braswell
+  Peachpit Press, 1989, ISBN 0-938151-10-X
+
+  Learning PostScript: A Visual Approach
+  Ross Smith
+  Peachpit Press, 1990, ISBN 0-938151-12-6
+
+  The NeWS Book
+  James Gosling, David S. Rosenthal, Michelle J. Arden
+  Springer-Verlag, 1989, ISBN 0-387-96915-2
+
+  PostScript Language Program Design
+  Adobe Systems Inc.
+  Addison-Wesley, 1988, ISBN 0-201-14396-8
+
+  PostScript Language Reference Manual, 2nd. Ed.
+  Adobe Systems Inc.
+  Addison-Wesley, 1990, ISBN 0-201-18127-4
+
+  PostScript Language Tutorial and Cookbook
+  Adobe Systems Inc.
+  Addison-Wesley, 1985, ISBN 0-201-10179-3
+
+  Real World PostScript
+  Stephen F. Roth
+  Addison-Wesley, 1988, ISBN 0-201-06663-7
+
+  Thinking in PostScript
+  Glenn C. Reid
+  Addison-Wesley, 1990, ISBN 0-201-52372-8
+
+  Understanding PostScript Programming
+  David A. Holzgang
+  Sybex, 1987, ISBN 0-89588-396-1
+
+  The Verbum Book of PostScript Illustration
+  Michael Gosney, Linnea Dayton, Janet Ashford
+  M & T Books, 19??, ISBN ???
+

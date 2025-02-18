@@ -1,0 +1,25 @@
+rwxrwx--- 20/10      0 Jan  1 21:12 1992 Samples/
+rwxrwx--- 20/10      0 Jan  1 21:09 1992 Samples/dmf/
+rw-r----- 20/10 281608 Dec 31 04:02 1991 Samples/dmf/2n71.rea.hdf
+rw-r----- 20/10   4453 Dec 31 03:56 1991 Samples/README.samples
+rw-r----- 20/10    768 Dec 31 03:56 1991 Samples/barb.pal
+rw-r----- 20/10 585447 Dec 31 03:56 1991 Samples/brain.iso.Ras8.hdf
+rw-r----- 20/10 659573 Dec 31 03:57 1991 Samples/brain.vbuff.Ras8.hdf.Z
+rw-r----- 20/10    485 Dec 31 03:57 1991 Samples/bubble.pal.Z
+rw-r----- 20/10  51328 Dec 31 03:57 1991 Samples/bubble400x399.Z
+rw-r----- 20/10    768 Dec 31 03:57 1991 Samples/carl.pal
+rw-r----- 20/10 464769 Dec 31 03:57 1991 Samples/cloud.arb.Ras8.Z
+rw-r----- 20/10 477083 Dec 31 03:57 1991 Samples/cloud.dice.Ras8.hdf.Z
+rw-r----- 20/101143945 Dec 31 03:58 1991 Samples/cloud57x57x57.hdf.Z
+rw-r----- 20/10 454061 Dec 31 03:58 1991 Samples/corn64x64x64.hdf.Z
+rw-r----- 20/10   4174 Dec 31 03:58 1991 Samples/cpic.c
+rw-r----- 20/10    768 Dec 31 03:58 1991 Samples/den.pal
+rw-r----- 20/101531809 Dec 31 03:59 1991 Samples/denaj+.hdf.Z
+rw-r----- 20/10    768 Dec 31 03:59 1991 Samples/gray.pal
+rw-r----- 20/10 121010 Dec 31 03:59 1991 Samples/jet2.hdf
+rw-r----- 20/10    768 Dec 31 04:00 1991 Samples/macSys.pal
+rw-r----- 20/10 803975 Dec 31 04:01 1991 Samples/sbub.hdf.Z
+rw-r----- 20/10 435792 Dec 31 04:01 1991 Samples/skull.iso.Ras8.hdf.Z
+rw-r----- 20/10  45412 Dec 31 04:01 1991 Samples/star.hdf.Z
+rw-r----- 20/10 117525 Dec 31 04:01 1991 Samples/spine.vbuff.Ras8.hdf.Z
+rw-r----- 20/10  33982 Dec 31 04:01 1991 Samples/spine64x64x64.hdf.Z

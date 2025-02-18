@@ -1,0 +1,43 @@
+Package:	language/s_talk/gnu_st
+
+Description:	GNU SmallTalk
+
+Version:	1.1.1
+
+Notes:
+
+  GNU Smalltalk attempts to be a reasonably faithful implementation of
+  Smalltalk-80 as described in the "Blue Book", also known as "Smalltalk-80,
+  the Language and its Implementation", by Adele Goldberg and David Robson.
+  The syntax that the language accepts and the byte codes that the virtual
+  machine interprets are exactly as they appear in the Blue Book.  Most of
+  the primitives are the same as well, although due to the differing nature
+  of the implementation some of the primitives haven't been implemented, and
+  other new ones have been.
+
+  The current implementation has the following features:
+
+    * Incremental garbage collector
+    * Binary image save capability
+    * C-callout (allows Smalltalk to invoke user-written C code and pass
+      parameters to it)
+    * GNU Emacs editing mode
+    * Highly portable C code implementation
+    * Optional byte code compilation tracing and byte code execution tracing
+    * Automatically loaded per-user initialization files
+
+	.../README
+
+Language(s):    C, SmallTalk
+
+Requirements:   ?
+
+Origin:         GNU Project, Free Software Foundation
+		(see a2z/origins/fsf.doc)
+
+See Also:       ?
+
+Restrictions:   See a2z/text/gnu_gpl.txt
+
+References:	?
+

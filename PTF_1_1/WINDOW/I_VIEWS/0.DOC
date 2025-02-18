@@ -1,0 +1,49 @@
+Package:	window/i_views
+
+Description:	InterViews - window-based appl. env.
+
+Version:	3.0
+
+Notes:
+
+  InterViews is a software system for window-based applications.  Like most
+  user environments, InterViews is object-oriented in that components such
+  as windows, buttons, menus, and documents are active elements with
+  inherited behavior.  The name InterViews comes from the idea of a user
+  interface object presenting an interactive view of some data.  For example,
+  a text editor implements an interactive view of the contents of a text file.
+
+	.../iv/src/man/refman/ch1.doc
+
+  InterViews is a system for building and using interactive software.
+  Written in C++, InterViews provides a set of C++ class libraries
+  with high-level abstractions for implementing interactive programs.
+  InterViews includes specific support for resolution-independent
+  graphics, sophisticated document formatting, and graphical connectivity.
+  InterViews currently runs on top of the X window system.
+
+  Here is a summary of key InterViews features:
+
+    Native C++
+    Glyphs - lightweight, shareable objects
+    Sophisticated layout objects
+    Resolution-independent graphics, printing, overlays
+    Incremental update, double-buffering
+    Graphical editing framework
+    Apps: drawing editor, WYSIWYG document editor, interface builder
+
+	.../iv/src/man/faq/faq.out
+
+Language(s):	C++
+
+Requirements:	X11R[45]
+
+Origin:		Stanford University & Silicon Graphics
+		(see a2z/origins/stanford.doc)
+
+See Also:	window/x11/r5
+
+Restrictions:	See .../iv/Copyright
+
+References:	?
+

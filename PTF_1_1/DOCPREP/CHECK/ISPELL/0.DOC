@@ -1,0 +1,44 @@
+Package:	docprep/check/ispell
+
+Description:	ispell - GNU spelling checker
+
+Version:	2.0.02
+
+Notes:
+
+  Ispell is fashioned after the spell program from ITS (called ispell on
+  Twenex systems.)  The most common usage is "ispell filename".  In this
+  case, ispell will display each word which does not appear in the
+  dictionary, and allow you to change it.  If there are "near misses" in
+  the dictionary (words which differ by only a single letter, a missing
+  or extra letter, or a pair of transposed letters), then they are also
+  displayed.  If you think the word is correct as it stands, you can type
+  either "Space" to accept it this one time, or "I" to accept it and put
+  it in your private dictionary.  If one of the near misses is the word
+  you want, type the corresponding number.  (If there are more than 10
+  choices, you may have to type a carriage return to complete a single-
+  digit number).  Finally, if none of these choices is right, you can
+  type "R" and you will be prompted for a replacement word.  If you want
+  to see a list of words that might be close using wildcard characters,
+  type "L" to lookup a word in the system dictionary.
+
+  When a misspelled word is found, it is printed at the top of the screen.
+  Any near misses will be printed on the following lines, and finally, two
+  lines containing the word are printed at the bottom of the screen.  If
+  your terminal can type in reverse video, the word itself is highlighted.
+
+	.../ispell.1
+
+Language(s):    C
+
+Requirements:   ?
+
+Origin:         GNU Project, Free Software Foundation
+		(see a2z/origins/fsf.doc)
+
+See Also:       ?
+
+Restrictions:   See a2z/text/gnu_gpl.txt
+
+References:	?
+

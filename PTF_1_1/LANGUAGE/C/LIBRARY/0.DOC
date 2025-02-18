@@ -1,0 +1,18 @@
+Topic:		language/c/library
+
+Description:	C Language Libraries
+
+Notes:
+
+  C is a very small language.  Much of its power comes from the large
+  numbers of libraries that UNIX (among other operating systems) provide.
+
+Contains:
+
+  gmp       P    gmp - GNU multiple precision (MP) library
+  readline  P    GNU history and readline libraries
+
+See Also:	?
+
+References:	?
+

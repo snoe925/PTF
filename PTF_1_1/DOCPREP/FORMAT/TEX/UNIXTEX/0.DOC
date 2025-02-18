@@ -1,0 +1,38 @@
+Package:	docprep/format/tex/unixtex
+
+Description:	The unixtex distribution
+
+Version:	?
+
+Notes:
+
+  The unixtex distribution contains current versions for the mainstream TeX
+  packages.  It is thus a very good starting point the TeX system.
+
+    ams		ams		AMS-Tex/AMS-LaTex stuff
+    babel	babel		assorted non-English fonts
+    cmfonts	cmfonts		Computer Modern fonts
+    c_tex	commontex29	?
+    dviware	DVIware		drivers to print/display *.dvi files
+    l_fonts	LaTeXfonts	LaTeX fonts
+    tex		TeX3.14		TeX, LaTeX, METAFONT, etc.
+    u_fonts	utilityfonts	Utility fonts
+    unsupp	Unsupported 	*.pxl and undump stuff
+    web2c	web2c		Web-to-C translator
+
+Language(s):	?
+
+Requirements:	?
+
+Origin:		?
+
+See Also:
+
+  docprep/format/tex/latex
+  docprep/format/tex/metafont
+  docprep/format/tex/tex
+
+Restrictions:	See .../00README.ftp, .../TeX3.14/COPYING.POLICY
+
+References:	?
+

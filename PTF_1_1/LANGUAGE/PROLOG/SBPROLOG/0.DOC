@@ -1,0 +1,33 @@
+Package:	language/prolog/sbprolog
+
+Description:	The SB-Prolog system
+
+Version:	3.1
+
+Notes:
+
+  SB-Prolog is a Prolog system for Unix based systems.  The core of the
+  system is an emulator, written in C for portability, of a Prolog virtual
+  machine that is an extension of the Warren Abstract Machine.  The
+  remainder of the system, including the translator from Prolog to the
+  virtual machine instructions, is written in Prolog.
+
+  Parts of this manual, specifically the sections on Prolog syntax and
+  descriptions of some of the builtins, are based on the C-Prolog User
+  Manual by Fernando Pereira.
+
+	.../sbp_doc.me
+
+Language(s):    C, Prolog
+
+Requirements:   ?
+
+Origin:         University of Arizona
+		(see a2z/origins/uaz.doc)
+
+See Also:       ?
+
+Restrictions:   See .../COPYING
+
+References:	?
+

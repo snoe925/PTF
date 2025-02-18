@@ -1,0 +1,70 @@
+Package:	window/andrew
+
+Description:	The Andrew Distribution
+
+Version:	Version 5.0.0 (1991)
+
+Notes:
+
+  Andrew is contains a raft of subsystems, but the major ones contained here
+  are:
+
+    ams	- The Andrew Message System
+
+      The Andrew Message System (AMS) is a project with the goal of producing
+      a production-quality electronic communication environment with several
+      types of functionality which have hitherto either not been provided by
+      electronic message systems or have been found only in experimental
+      systems.  The primary contributions of the AMS are:
+
+        Machine and location independence
+        Integration of communication database
+        Separation of interface from functionality
+        Support for multi-media communication
+        Support for coping with information flood
+        Flexible Architecture
+
+	.../ams/doc/AMS.ovr
+
+    atk - The Andrew Toolkit
+
+      The Andrew Toolkit (ATK) is a user interface toolkit with two primary
+      goals: (1) to support the development of stand-alone applications that
+      integrate text, graphics and images in a standard, efficient user
+      interface; and (2) to support the development of multi-media editors,
+      that is, editors that allow users to edit text, equations, graphs,
+      tables, pictures, and so forth, all in a single program.
+
+	.../atk/doc/overview.doc
+
+
+Language(s):	C
+
+Requirements:	X11R5
+
+  The Andrew Distribution is portable to a number of system types.  Andrew
+  is able to run on RT AOS 3.4, RT AIX 2.2.1, RS/6000 AIX3.1, PS/2 AIX1.2,
+  Sun3 3.5, Sun3 4.1, Sun4 4.1, Vax Ultrix 3.1, Vax BSD, DEC MIPS, Apollo,
+  HP, and Macintosh II MacMach.  We run it on RT AOS 3.4 and Sun3 3.5.
+
+  In addition to space requirements, the distribution assumes that you
+  have the X Window System Distribution from MIT, which contains the
+  following files and programs:
+
+    imake -- part of program construction (makefile) facility
+    bdftosnf -- font compiler
+    makedepend --part of program construction (makefile) facility
+    Xlib -- X.V11 include files and libraries
+
+	.../README
+
+Origin:		Carnegie Mellon University
+		(see a2z/origins/cmu.doc)
+
+See Also:	window/x11/r5
+
+Restrictions:	See .../config/COPYRITE, .../config/COPYRITE.MIT,
+		.../config/COPYRITE.att, and config/COPYRITE.bls.
+
+References:	?
+

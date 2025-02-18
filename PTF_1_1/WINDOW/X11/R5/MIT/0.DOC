@@ -1,0 +1,30 @@
+Package:	window/x11/r5/mit
+
+Description:	X Window System, Version 11 (MIT files)
+
+Version:	r5
+
+Notes:
+
+  Release 5 is the latest version of X11.  It adds scalable fonts, PEX (PHIGS
+  Extension to X), and some other niceties.  Mostly, however, it continues to
+  represent the flowering of the X user and programmer communities.
+
+  Because of the size and complexity of X11R5, the distribution is split up
+  into a number of pieces.  This is a slight nuisance for folks who want the
+  whole thing, but greatly speeds up the process of extracting parts of the
+  distribution.  Hint: Grab _etc_.at first...
+
+Language(s):	C, C++, etc.
+
+Requirements:	Bit-mapped display, mouse, etc.
+
+Origin:		MIT Software Distribution Center
+		(see a2z/origins/mit.doc)
+
+See Also:	?
+
+Restrictions:	?
+
+References:	See window/x11
+

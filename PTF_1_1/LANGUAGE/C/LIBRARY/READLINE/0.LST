@@ -1,0 +1,16 @@
+1_1              12929  COPYING
+1_1               4304  ChangeLog
+1_1               3886  Makefile
+1_1               1434  chardefs.h
+1_1             256359  doc
+1_1              18513  emacs_keymap.c
+1_1              11736  examples
+1_1               6551  funmap.c
+1_1              38870  history.c
+1_1               4793  history.h
+1_1               4008  keymaps.c
+1_1               1546  keymaps.h
+1_1             141176  readline.c
+1_1               7281  readline.h
+1_1              17701  vi_keymap.c
+1_1              17964  vi_mode.c

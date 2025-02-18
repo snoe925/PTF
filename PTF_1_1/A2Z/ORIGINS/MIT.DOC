@@ -1,0 +1,86 @@
+mit.doc
+=======
+
+Massachusetts Institute of Technology
+
+
+Athena
+------
+
+  ftp:	ATHENA-DIST.MIT.EDU:/pub/*
+
+
+CLU
+---
+
+  CLU is no longer licensed.  See ~CLU/COPYRIGHT for distribution information.
+
+  If you have problems with this distribution, you can call Paul Johnson or
+  Dorothy Curtis at (617) 253-1945 to get help.  If you find bugs, please
+  tell us about them, either in writing or by sending network mail to
+  PRJ@PM-PRJ.LCS.MIT.EDU and/or DCurtis@MESON.LCS.MIT.EDU.  We do not have
+  the time or the staff for "releases"; you will have to either FTP a new
+  copy or request a distribution tape (for a fee) periodically.  The sytem
+  is quite stable; no changes other than bug fixes are contemplated.  We are
+  now hard at work on Argus, the distributed computing successor to CLU.
+
+  ftp:	pion.lcs.mit.edu (18.26.0.64)
+
+  ... If the reader has been confused by all of this, one of the CLU group
+  should be consulted (actually, an ambitious hacker can just go and try
+  things to see if they work).  Questions are best addressed to Bob Scheifler
+  (RWS  at  MIT-XX  or MIT-BOLD)  and  Paul Johnson (PRJOHNSON@MIT-XX).  We
+  can be reached by phone at (617) 253-1945.
+
+
+Scheme
+------
+
+
+  For bug reports or comments to the MIT Scheme implementors, send
+  computer mail to
+
+    bug-cscheme@zurich.ai.mit.edu (on the Arpanet/Internet)
+
+  or US Snail to
+
+    Scheme Team
+    c/o Prof. Hal Abelson
+    545 Technology Sq. rm 410
+    Cambridge MA 02139
+
+Other relevant mailing lists:
+
+  info-cscheme@zurich.ai.mit.edu
+    Questions, notices of bug fixes, etc.  This list is the same
+    as the usenet news group "comp.lang.scheme.c".
+
+    Send mail to "info-cscheme-request" to be added.
+ 
+  scheme@mc.lcs.mit.edu
+    Applications, mostly for educational uses.  This list is the
+    same as the usenet news group "comp.lang.scheme".
+
+    Note that this mailing list is NOT MIT Scheme specific.  It
+    covers general language issues, relevant to all the
+    implementations of the scheme language (MIT Scheme, Yale
+    University's T, Indiana University's Scheme84, Semantic
+    Microsystems' MacScheme, and Texas Instruments' PC Scheme
+    among others).
+
+    Send mail to "scheme-request" to be added.
+
+
+X11R5
+-----
+
+  MIT Software Distribution Center
+  Technology Licensing Office
+  room E32-300
+  77 Massachusetts Avenue
+  Cambridge, MA  02139
+
+  X Ordering Hotline: +1 (617) 258-8330
+
+  ftp:	export.lcs.mit.edu
+		/pub/R5

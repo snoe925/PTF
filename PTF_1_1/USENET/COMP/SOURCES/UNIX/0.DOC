@@ -1,0 +1,22 @@
+Package:	usenet/comp/sources/unix
+
+Description:	"comp.sources.unix" Usenet Archives
+
+Version:	volumes 1-24
+
+Notes:
+
+  This is a collection of programs for UNIX systems.
+
+Language(s):    C
+
+Requirements:   varies by program
+
+Origin:         See a2z/origins/usenet.doc
+
+See Also:	?
+
+Restrictions:	?
+
+References:	?
+

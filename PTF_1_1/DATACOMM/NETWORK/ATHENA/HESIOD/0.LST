@@ -1,0 +1,14 @@
+h_sample         14940  .
+hesiod          701848  .
+hesiod          119801  ./doc
+hesiod            5797  ./examples
+hesiod           42970  ./hesiod
+hesiod            7280  ./hesiod/RCS
+hesiod               0  ./hesiod/profiled
+hesiod           15454  ./include
+hesiod           15454  ./include/arpa
+hesiod            8032  ./include/arpa/RCS
+hesiod          492017  ./named
+hesiod          214325  ./named/RCS
+hesiod           22108  ./res
+hesiod           11704  ./res/RCS

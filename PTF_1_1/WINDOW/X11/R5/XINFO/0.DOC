@@ -1,0 +1,34 @@
+Package:	window/x11/r5/xinfo
+
+Description:	xinfo - X Info Widget
+
+Version:	1.01.01
+
+Notes:
+
+  This is the latest, and hopefully last, major release of the Info widget
+  posted on two other occasions to comp.sources.x. I will continute to
+  provide fixes and small functionality updates as necessary, of course,
+  but feel that this is now as featureful as it needs to be, given its
+  intended use.
+
+  ...
+
+  This directory contains the sources for an "Emacs Info" browsing widget,
+  subclassed from the Composite widget.
+
+	.../README
+
+Language(s):    C
+
+Requirements:   X
+
+Origin:         GNU Project, Free Software Foundation
+		(see a2z/origins/fsf.doc)
+
+See Also:       ?
+
+Restrictions:   See a2z/text/gnu_gpl.txt
+
+References:	?
+

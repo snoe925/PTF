@@ -1,0 +1,86 @@
+Package:        datacomm/network/finger
+
+Description:    finger - GNU finger
+
+Version:        1.0b
+
+Notes:
+
+  GNU Finger is a utility program designed to allow users of Unix hosts on
+  the Internet network to get information about each other. It is a direct
+  replacement for the Berkeley 4.3 finger code.
+
+  Why Another Finger?
+  ===================
+
+  Originally, each host on the Internet network consisted of a single,
+  reasonably powerful computer, capable of handling many users at the same
+  time.  Typically, a "site" (physical location of computer users) would
+  have only one or two computers, even if they had 20 or more people who
+  used them.  If a user at site A wanted to know about users logged on at
+  site B, a simple program could be invoked to query the host at site B
+  about the users which were logged on.
+
+  With the onset of more-power-per-person computing, the mainframe
+  has been set aside.  A modern computing facility usually consists
+  of one user per host, and many hosts per site.  This makes it a
+  trial to find out about logged on users at another site, since you
+  must query each host to find out about the single user who is
+  logged on.  If the site had 20 hosts, you would have to invoke a
+  finger program 20 times just to find out who was logged on!
+
+  GNU Finger is a simple and effective way around this problem.  For
+  sites with many hosts, a single host may be designated as the
+  finger "server" host.  This host collects information about who is
+  logged on to other hosts at that site.  If a user at site A wants
+  to know about users logged on at site B, only the server host need
+  be queried, instead of each host at that site.  This is very
+  convenient.
+
+  GNU Finger is also a direct replacement for the existing finger
+  programs.  Since the finger "protocol" (rules for communication) is
+  very simple, GNU Finger follows that protocol in responding to
+  simple requests.  But GNU Finger also implements another protocol
+  which allows two finger programs to exchange information in a
+  predetermined way, which allows faster and wider bandwidth
+  communication.
+
+  A definition for the passing graphic images is built on the new
+  protocol.  A user at site A (e.g. MIT) may now see the picture of a
+  user at site B (e.g. UCSB), simply by typing a finger request!  The
+  conversion of graphic data from one format to another is done
+  through GNU Finger; no site need know where or how such images are
+  stored on any other site to be able to display those images.
+
+  Finger delivers information about users in varying formats,
+  depending on how it is invoked.  `finger' invoked with no switch
+  arguments performs a *site wide* finger request, no matter which
+  machine it has been invoked from.  Switch arguments exist for
+  getting the ``long'' form of finger information and for getting
+  information only about the local machine.
+
+  If a user on host A wants to know about a user on host B, Finger
+  must make a network "connection" to host B.  If host B is running a
+  finger program, that program is asked to relay information about
+  the user in question through the connection back to host A, where
+  Finger can display it.
+
+  GNU Finger also runs a "server" process on a given host, whose job
+  is to keep track of which users are logged in to local machines.
+
+	.../doc/finger.info
+
+Language(s):    C
+
+Requirements:   ?
+ 
+Origin:         Automation Sciences Laboratory,
+		Northrop Research and Technology Center
+		(see a2z/origins/northrop.doc)
+
+See Also:       ?
+
+Restrictions:   See a2z/text/gnu_gpl.txt
+
+References:	?
+

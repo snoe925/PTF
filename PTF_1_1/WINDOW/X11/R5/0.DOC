@@ -1,0 +1,24 @@
+Topic:		window/x11/r5
+
+Description:	X Window System, Vers. 11, Rel. 5
+
+Notes:
+
+  Release 5 is the latest version of X11.  It adds scalable fonts, PEX (PHIGS
+  Extension to X), and some other niceties.  Mostly, however, it continues to
+  represent the flowering of the X user and programmer communities.
+
+Contains:
+
+  andrew    P    Andrew - Andrew Window code
+  athena    P    Athena Demonstration Programs
+  mit       P    X Window System, Version 11 (MIT files)
+  pbmplus   P    pbmplus - Poskanzer Bit Map Utilities
+  pex       P    pex - PHIGS Extension to X
+  xinfo     P    xinfo - X Info Widget
+  xview     P    XView - SunView-like API
+
+See Also:	?
+
+References:	?
+

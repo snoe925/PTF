@@ -1,0 +1,50 @@
+nist.doc
+========
+
+National Institute of Standards and Technology
+
+
+EXPECT
+------
+
+  expect may be ftp'd as pub/expect.shar.Z from durer.cme.nist.gov.
+  Request email delivery by mailing to "library@cme.nist.gov".  The
+  contents of the message should be (no subject line) "send
+  pub/expect.shar.Z".  Once you have retrieved the system, please read
+  the INSTALL file.  The papers mentioned above can be retrieved
+  separately as pub/expect.ps.Z and pub/expect-sysadm.ps.Z.
+
+  The expect program requires Tcl (which you may already have).  (The
+  expect library does not need Tcl.)  Tcl may be retrieved as
+  pub/tcl.tar.Z in the same way as described above for expect.  I am
+  told that it runs on SV with minor modifications (although I don't
+  know what they are - sorry).  When new releases of Tcl appear from
+  Berkeley, I will try to check them out for expect as soon as possible.
+  If you would like to get the newest Tcl release without waiting, ftp
+  pub/tcl.tar.Z from ucbvax.berkeley.edu.  You may request email copies
+  of Tcl by writing to ouster@sprite.berkeley.edu.
+
+  expect is known to work on BSD systems and will probably work on all
+  BSD-derived systems.  expect works on SVR4 systems and earlier
+  releases of SV which support the system calls: select or poll.
+  Systems which do not support these can run expect, but without the job
+  control facility.  Minor work is left to make this feature work on
+  System V.3.  No coding has been done for POSIX, though I have set up
+  templates, and only minor work should be necessary.  (See the Makefile
+  for more info.)  I would be willing to work with you to complete a
+  port.
+ 
+  Although I can't promise anything in the way of support, I'd be
+  interested to hear about your experiences using it (either good or
+  bad).  I'm also interested in hearing bug reports (please include
+  version # reported by expect -d) and suggestions for improvement even
+  though I can't promise to implement them immediately.
+
+  Please send money, love letters, and bug reports to:
+
+  Don Libes
+  National Institute of Standards and Technology
+  Bldg 220, Rm A-127
+  Gaithersburg, MD  20899
+  (301) 975-3535
+  libes@cme.nist.gov   or   uunet!cme-durer!libes

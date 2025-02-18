@@ -1,0 +1,24 @@
+Package:	graphics/drawing/fig/fig_fs
+
+Description:	fig-fs - modified Fig
+
+Version:	1.4-FS, patch 2
+
+Notes:
+
+  This version of fig incorporates has a number of new features,
+  improvements, and bug fixes of fig 1.4.
+
+Language(s):    C
+
+Requirements:   ?
+
+Origin:         Dept of Computer Science, Cornell University
+		(see a2z/origins/cornell.doc)
+
+See Also:       ?
+
+Restrictions:   ?
+
+References:	?
+

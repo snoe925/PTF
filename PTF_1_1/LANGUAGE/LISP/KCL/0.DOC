@@ -1,0 +1,35 @@
+Topic:		language/lisp/kcl
+
+Description:	KCL - Kyoto Common Lisp
+
+Notes:
+
+  The distribution policy for Kyoto Common Lisp has had a strong effect on
+  the package's use and development.  KCL users are required to send in a
+  license form, and are not allowed to distribute modified version of the
+  package.  Consequently, all modifications to KCL take the form of deltas
+  against the original KCL distribution.
+
+  More particularly, it has had an effect on us.  As we read their notice,
+  we are prohibited from including the package on our disc, because we have
+  no way of ensuring that all of our purchasers have sent in the form.  So
+  we find ourselves in the peculiar position of supplying a large number of
+  patches to a freeware package that we cannot supply.  With luck, this may
+  be resolved at some future point.  Until then, you'll have to rely on
+  FTP, etc., to get the KCL distribution...
+
+Contains:
+
+  akcl      P    AKCL - Austin Kyoto Common Lisp
+  kcl       P    KCL - Kyoto Common Lisp
+  low       P    low for Kyoto Common Lisp (KCL)
+
+See Also:	?
+
+References:
+
+  COMMON LISP
+    The Language
+  Guy L. Steele Jr.
+  Digital Press, 1984, ISBN 0-932376-41-X
+

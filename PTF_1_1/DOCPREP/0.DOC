@@ -1,0 +1,28 @@
+Topic:		docprep
+
+Description:	Document Preparation Tools
+
+Notes:
+
+  Document preparation tools provide a variety of related functions, from text
+  editing and formatting to error checking.  Because these tools are used a
+  great deal, their users tend to get quite committed to them.  One thus hears
+  "religious arguments" about the benefits and drawbacks of this or that tool.
+  Try to avoid getting involved in such discussions; pick and use a tool,
+  switch if you find a better one.
+
+Contains:
+
+  check     T    Document Checking Tools
+  edit      T    Text Editors
+  format    T    Text Formatters
+  misc      T    Miscellaneous Document Preparation Tools
+
+See Also:	?
+
+References:
+
+  The UNIX Text Processing System
+  Kaare Christian
+  Wiley, 19??, ISBN 0-471-85581-2
+

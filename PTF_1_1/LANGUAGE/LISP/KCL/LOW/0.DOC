@@ -1,0 +1,28 @@
+Package:        language/lisp/kcl/low
+
+Description:    low for Kyoto Common Lisp (KCL)
+
+Version:        ?
+
+Notes:
+ 
+  The reason these are here is because the KCL compiler does not allow
+  LET to return FIXNUM values as values of (c) type int, hence the use
+  of LOCALLY (which expands into (LET () (DECLARE ...) ...)) forces
+  conversion of ints to objects.
+
+	.../kcl-low.lisp
+
+Language(s):    Lisp
+
+Requirements:   KCL
+
+Origin:         CommonLoops Coordinator, Xerox PARC
+		(see a2z/origins/xerox.doc)
+
+See Also:       ?
+
+Restrictions:   See low
+
+References:	?
+

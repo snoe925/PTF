@@ -1,0 +1,28 @@
+Topic:		window
+
+Description:	Window Systems
+
+Notes:
+
+  Window systems manage "windows" (contiguous sets of pixels) on bit-mapped
+  display devices.  Some modern window systems support network protocols:
+  an application on one machine may have a window on another.  Others leave
+  the network details to the applications, and require the at least part of
+  the application to reside on the computer having the display.
+
+Contains:
+
+  andrew    P    The Andrew Distribution
+  i_views   P    InterViews - window-based appl. env.
+  news      T    NeWS - Network/extensible Window System
+  screen    P    screen - window system
+  serpent   P    Serpent user interface management system
+  x11       T    The X Window System, Version 11
+
+See Also:
+
+  graphics
+  image
+
+References:	?
+

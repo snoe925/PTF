@@ -1,0 +1,31 @@
+Package:	misc/ms
+
+Description:	MandelSpawn - network Mandelbrot
+
+Version:	0.04
+
+Notes:
+
+  Ms is a program for interactive display of the Mandelbrot and Julia sets
+  under the X window system.  You can select an area of interest using the
+  mouse and zoom in on it either in the same window or by popping up a new
+  window.
+
+  Ms relies on "computation server" processes (see mslaved (1)) running on
+  one or more machines to do the actual computations.
+
+	.../client/ms.man
+
+Language(s):    C
+
+Requirements:   ?
+
+Origin:         GNU Project, Free Software Foundation
+		(see a2z/origins/fsf.doc)
+
+See Also:       ?
+
+Restrictions:   See a2z/text/gnu_gpl.txt
+
+References:	?
+

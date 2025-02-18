@@ -1,0 +1,72 @@
+Topic:		language/awk
+
+Description:	The AWK Programming Language
+
+Notes:
+
+  Computer users spend a lot of time doing simple, mechanical data manipula-
+  tion -- changing the format of data, checking its validity, finding items
+  with some property, adding up numbers, printing reports, and the like.  All
+  of these jobs ought to be mechanized, but it's a real nuisance to have to
+  write a special-purpose program in a standardized language like C or Pascal
+  each time such a task comes up.
+
+  Awk is a programming language that makes it possible to handle such tasks
+  with very short programs, often only one or two lines long.  An awk program
+  is a sequence of patterns and actionsthat tell what to look for in the input
+  data and what to do when it's found.  Awk searches a set of files for lines
+  matched by any of the patterns; when a matching line is found, the corres-
+  ponding action is performed.  A pattern can select lines by combinations of
+  regular expressions and comparison operations on strings, numbers, fields,
+  variables, and array elements.  Actions may perform arbitrary processing on
+  selected lines; the action language looks like C but there are no declara-
+  tions, and strings and numbers are built-in data types.
+
+  Awk scans the input files and splits each input line into fields automatic-
+  ally.  Because so many things are automatic -- input, field splitting,
+  storage management, initialization -- awk programs are usually much smaller
+  than they would be in a more conventional language.  Thus one common use of
+  awk is for the kind of data manipulation suggested above.  Programs, a line
+  or two long, are composed at the keyboard, run once, then discarded.  In
+  effect, awk is a general-purpose programmable tool that can replace a host
+  of specialized tools or programs.
+
+	Preface, The AWK Programming Language
+
+Contains:
+
+  gawk      P    gawk - GNU AWK
+
+See Also:
+
+  language/perl
+  language/sed
+  language/shell
+
+References:
+
+  The AWK Programming Language
+  Alfred V. Aho, Brian W. Kernighan, Peter J. Weinberger
+  Addison-Wesley, 1988, 0-201-07981-X
+
+  More Programming Pearls
+    Confessions of a Coder
+  Jon Louis Bentley
+  Addison-Wesley, 1988, ISBN 0-201-11889-0
+
+  Programming Pearls
+  Jon Louis Bentley
+  Addison-Wesley, 1986, ISBN 0-201-10331-1
+
+  sed & awk
+  Dale Dougherty
+  O'Reilly, 1990, ISBN 0-937175-59-5
+
+  The UNIX Programming Environment
+  Brian W. Kernighan, Rob Pike
+  Prentice-Hall, 1984, ISBN 0-13-937681-X
+
+  UNIX Tool Building
+  Kenneth Ingham
+  Academic Press, 1990, ISBN 0-12-370830-0
+

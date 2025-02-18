@@ -1,0 +1,41 @@
+Package:	game/empire
+
+Description:	BSD Empire
+
+Version:	1.1
+
+Notes:
+
+  Empire falls into the broad category of simulation games and involves
+  military, political, and economic factors.  Although no goal is explicitly
+  stated, players rapidly derive their own, ranging from the mundane desire
+  to be the biggest, mightiest country in the game and "conquer" all others
+  to the more refined goals of having the most efficient land use possible
+  or the lowest ratio of military to civilians while still surviving,
+  etcetera.
+
+  WHY USE A COMPUTER?
+
+  The role of the computer in Empire is that of modeling the physical/economic
+  system.  Players interact through the computer rather than with the computer.
+  The game is played in a "real-time" environment; players log on and allocate
+  resources, attack neighbors, send diplomatic communiques, etc. whenever it
+  is convenient.  The program keeps track of these activities, maintaining a
+  record of time spent and arranging for time to accumulate when players are
+  not logged in to the game.
+
+	.../info/Overview.t
+
+Language(s):    C
+
+Requirements:   ?
+
+Origin:         UC Berkeley
+		(see a2z/origins/ucb.doc)
+
+See Also:       ?
+
+Restrictions:   See .../README
+
+References:	?
+

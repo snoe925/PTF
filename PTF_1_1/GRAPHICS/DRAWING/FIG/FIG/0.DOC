@@ -1,0 +1,33 @@
+Package:	graphics/drawing/fig/fig
+
+Description:	original Fig
+
+Version:	2.1R1
+
+Notes:
+
+  Most V2.1 improvements were in fact implemented for V1.4 R3, which was never 
+  actually released.  Please read README-V1.4R3 for details of these changes.
+  After receiving Baron's code for Fig-FS 1.4 R3, I decided to upgrade it to a
+  version which would be compatible with XFig Version 2.0.  This involved
+  making small changes to the handling of text objects and area fill.
+
+  Unfortunately, Fig code V2.0 as defined by Brian Smith in XFig has an
+  irregularity in the definition of line objects which I have chosen to
+  correct rather than perpetuate.  This makes the output format of this
+  version Fig slightly incompatible with XFig 2.0, but I am hopeful that a
+  compatible XFig 2.1 will soon be available.
+
+Language(s):    C
+
+Requirements:   ?
+
+Origin:         Dept of Computer Science, Cornell University
+		(see a2z/origins/cornell.doc)
+
+See Also:       ?
+
+Restrictions:   ?
+
+References:	?
+

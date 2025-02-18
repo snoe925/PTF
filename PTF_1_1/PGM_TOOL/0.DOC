@@ -1,0 +1,30 @@
+Topic:		pgm_tool
+
+Description:	Programming Tools
+
+Notes:
+
+  Programming tools help programmers in a number of areas, including
+  source code control, "build" management, etc.  They are not normally
+  tied to a given computer language, and thus can be used with almost
+  any (or even no) language.
+
+Contains:
+
+  b_utils   P    binutils - GNU binary file utilities
+  cvs       P    cvs - Concurrent Version System
+  diff      P    diff - GNU file difference analyzer
+  dld       P    dld - dynamic link/unlink editor
+  indent    P    indent - indent and format C program source
+  make      P    make - dependency driven programming language
+  patch     P    patch - update files per a diff file
+  rcs       P    rcs - Revision Control System
+  time      P    GNU time
+
+See Also:
+
+  archive
+  language
+
+References:	?
+

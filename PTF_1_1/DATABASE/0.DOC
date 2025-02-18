@@ -1,0 +1,32 @@
+Topic:		database
+
+Description:	Data Base Maintenance Tools
+
+Notes:
+
+  As applications grow in complexity, it is frequently useful to abstract the
+  data management tasks, handing them off to a specialized subsystem.  Data
+  Base Management Systems manage sets of data, providing consistent abstract
+  interfaces, consistency management, and other features.
+
+Contains:
+
+  ingres    T    INGRES Data Base Management System
+
+See Also:	?
+
+References:
+
+  Database Programming Languages
+    2nd International Workshop
+  Richard Hull, Ron Morrison, David Stemple, eds.
+  Morgan Kaufman, 1988, ISBN 0-934613-65-6
+
+  Readings in Database Systems
+  Michael Stonebraker, ed.
+  Morgan Kaufman, 1988, ISBN 1-55860-072-8
+
+  Readings in Object-Oriented Database Systems
+  Stanley B. Zdonik, David Maier, eds.
+  Morgan Kaufman, 1990, ISBN 1-55860-000-0
+

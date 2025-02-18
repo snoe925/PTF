@@ -1,0 +1,23 @@
+Package:	language/assembly/as/gas
+
+Description:	gas - GNU as
+
+Version:	1.38.1
+
+Notes:
+
+  Gas is a clone of the UNIX as(1) utility.
+
+Language(s):    C
+
+Requirements:   ?
+
+Origin:         GNU Project, Free Software Foundation
+		(see a2z/origins/fsf.doc)
+
+See Also:       ?
+
+Restrictions:   See a2z/text/gnu_gpl.txt
+
+References:	?
+

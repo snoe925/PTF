@@ -1,0 +1,166 @@
+ucb.doc
+=======
+
+UC Berkeley
+
+EECS/ERL Industrial Liaison Program Office
+Software Distribution
+479 Cory Hall
+University of California
+Berkeley, CA 94720
+Attn: Cindy Manly-Fields
++1 415 643-6687
+
+Office of Technology Licensing
+2150  Shattuck Ave., #510
+Berkeley, CA 94704
++1 415 643-7201
+
+
+BSD
+---
+
+  Computer Science Research Group
+  Department of Electrical Engineering and Computer Sciences
+  University of California
+  Berkeley, CA 94720
+
+  The Computer Science Research Group (CSRG) has produced a sequence of
+  UNIX releases, of which BSD 4.4 is the latest.  They were an early
+  focal point for UNIX development, and have brought (through invention
+  or adoption) a wide variety of programs into UNIX.
+
+
+Empire
+------
+
+  If you have a problem with Empire, and want some semantic changed,
+  change it yourself!  In the past, changes to the master copy of the
+  source came fast and furious, and were mostly untested.  A stricter
+  policy is now in force, with major semantic changes requiring
+  significant playtesting, discussion, and documenation before being
+  integrated to the main game source.
+
+  Without doubt there are dozens if not hundreds of bugs left in the game.
+  Empire was playtested at Berkeley this past summer (1989), but many bugs
+  still remain.  Major bugs (something that causes a core-dump or other
+  dramatic termination, or results in players being able to arbitrarily
+  manufacture game items) will be fixed and integrated as quickly as
+  possible, and patches will be distributed.  Major bug reports should
+  include all possible information, preferably with a fix attached.  
+  Reproduction of bugs that depend on your particular machine and empire 
+  game will be difficult if not impossible for me to perform.
+
+  Bugs which are not classed as "major" will be noted, but not integrated
+  or distributed until a major release occurs.
+
+  The current documentation is definitely out-of-date.  We're working
+  on it.  (One thing you should know about Empire -- the documentation
+  is *always* out-of-date).  Documentation patches will be sent seperately
+  from code changes.
+
+  If you have a bug report, you should send it to me.  If the bug report
+  is unclear, it probably won't be fixed unless I have the time to eyeball
+  the code in question.  My mail address is
+
+        mr-frog@scam.berkeley.edu
+
+  A final note; the fact that my name (and Peter's) appears at
+  the top is because we've done the most work.  This should not take
+  away from the contributions which dozens of people have made to
+  the game over the four years it has been around.  The list of
+  contributors is located in the doc directory, entitled CREDITS.
+
+  Dave Pare
+  Sat Sep 30 00:02:06 PDT 1989
+
+
+Gabriel
+-------
+
+  DSP Design Group
+  Department of Electrical Engineering and Computer Sciences
+  University of California
+  Berkeley, CA 94720
+
+
+Ingres
+-------
+
+  ftp:	postgres.berkeley.edu
+
+
+Picasso
+-------
+
+  Picasso Project 
+  c/o Professor Lawrence A. Rowe
+  Computer Science Division
+  571 Evans Hall
+  University of California
+  Berkeley, CA   94720
+
+  If you choose to install this system, please send mail to: 
+
+    picasso-list@postgres.berkeley.edu
+
+  with your name, address, and e-mail address.  Also please indicate
+  whether you wish to join the picasso-users mailing list.  Mail can be
+  sent to this list at
+
+        picasso-users@postgres.berkeley.edu
+
+
+Postgres
+--------
+
+  Postgres Project 
+  Department of Electrical Engineering and Computer Sciences
+  University of California
+  Berkeley, CA 94720
+
+  phone:	510-642-7520 (1-4pm, M-F)
+
+  bug-postgres@postgres.berkeley.edu		bug reports
+  post_questions@postgres.berkeley.edu		questions
+  postgres@postgres.berkeley.edu		mailing list
+  postgres-adm@postgres.berkeley.edu		administrative issues
+  postgres-request@postgres.berkeley.edu	mailing list (admin.)
+
+
+TCL, TK
+-------
+
+  I can't promise to provide a lot of help to people trying to use Tcl, but
+  I am interested in hearing about bugs or suggestions for improvements.
+  Send them to me at "ouster@sprite.berkeley.edu".
+
+  There exists a mail distribution list for the exchange of information
+  about Tcl, Tk, and their applications.  If you would like to be added
+  to this mailing list, send an e-mail message to
+  "tcl-request@sprite.berkeley.edu"
+
+  John Ousterhout
+
+
+TIFF
+----
+
+  This is PD software for reading and writing Tagged Image File Format (TIFF).
+  Source is in v2.2.tar.Z and sample images are in v2.2pics.tar.Z
+
+  The files are compressed tar files.  Copy the stuff you want to a UNIX
+  system and
+    uncompress v2.2.tar.Z
+    tar xvf v2.2.tar
+    (or similar).
+
+  There is also a mailing list for people that use the software:
+  tiff@ucbvax.berkeley.edu.  If you want to get on the list, send a
+  note to tiff-request@ucbvax.berkeley.edu.
+
+    Sam Leffler
+    sam@ucbvax.berkeley.ed
+    ucbvax!sam
+
+	.../tiff.readme (for release 2.2)

@@ -1,0 +1,11 @@
+com_err         136511  com_err
+com_err              0  com_err/profiled
+im_files          6891  Imake.rules
+im_files          3322  Imake.tmpl
+im_files           762  site.def
+imake            52866  imake
+imake            27122  imake/RCS
+makedep          52358  makedepend
+makedep          11969  makedepend/RCS
+ss               61441  ss
+ss                   0  ss/profiled

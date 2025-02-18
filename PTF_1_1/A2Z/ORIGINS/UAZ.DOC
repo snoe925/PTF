@@ -1,0 +1,93 @@
+uaz.doc
+=======
+
+University of Arizona
+
+
+Bibleref
+--------
+
+  Doubtless you will find problems, more options not discussed in the
+  documentation, and just general indications that this program was
+  written late at night after I was done all my serious work for the
+  day :-).  If - no, when - this happens, I encourage you to drop me a
+  line.  I'd like to know about any flaws you run into, especially
+  major, systemic ones.
+
+  Generally, I really hope that the bugs will not prove too annoying,
+  and that the package will prove generally useful to you the user,
+  and, if you place it in a public directory, to anyone else who
+  might happen to try it out.
+
+   -Richard L. Goerwitz              goer%sophist@uchicago.bitnet
+   goer@sophist.uchicago.edu         rutgers!oddjob!gide!sophist!goer
+
+
+Icon
+----
+
+  Icon Project
+  Department of Computer Science
+  Gould-Simpson Building
+  University of Arizona
+  Tucson, AZ  85721 USA
+  voice:  +1 602 621 8448
+  fax:    +1 602 621 4246
+
+  ftp:    cs.arizona.edu
+		/icon
+
+  email:
+    icon-compiler@cs.arizona.edu		# Icon Compiler
+    icon-project@cs.arizona.edu			# Icon Project
+    icon-group@cs.arizona.edu			# Icon Mailing List
+    icon-group-request@cs.arizona.edu		# Icon Mailing List (Admin.)
+
+  If you get a copy of this material from a source other than the Icon
+  Project, please let us know. We will put you on our mailing list
+  and inform you of corrections and updates.
+
+
+SB-Prolog
+---------
+
+  ftp:    cs.arizona.edu
+		/sbprolog
+
+  SB-Prolog is no longer actively supported at the University
+  of Arizona.  We believe there is some development work that is
+  going on at SUNY Stony Brook, where SB-Prolog originated: you
+  might try sending e-mail to warren@sbcs.sunysb.edu if you have
+  questions.
+
+
+SR
+--
+
+  SR is available by anonymous FTP from cs.arizona.edu (128.196.128.118 or
+  192.12.69.1).  SR tar(1) files are available in the sr subdirectory;
+  be sure to transfer files in binary (image) mode.  The files are:
+
+    sr.tar      The SR programming language, including source code,
+                documentation, checkout programs, and examples.
+
+    vs.tar      Extended verification suite, needed only if you're going to
+                modify the system or port it to a new architecture.
+
+  The same files are also available in compress(1) form as sr.tar.Z and
+  vs.tar.Z. If you pick up a copy of SR by FTP, please let us know by email
+  to "sr-project@cs.arizona.edu".  This address can also be used for any
+  questions or comments.  Via uucp, you can reach us at
+  uunet!arizona!sr-project.
+
+  SR is available by mail on 1/2" magnetic tape or 1/4" Sun cartridge.  For
+  details and an order blank, contact the SR project at the email address
+  above; or call (602) 621-2018; or send a letter to:
+
+    SR Project
+    Department of Computer Science
+    University of Arizona
+    Tucson, AZ  85721
+
+  An electronic mailing list is in place for discussing SR topics.  You can
+  join by sending your email address to "info-sr-request@cs.arizona.edu".

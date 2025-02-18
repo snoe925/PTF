@@ -1,0 +1,53 @@
+Package:	docprep/edit/emacs/epoch
+
+Description:	emacs - GNU Emacs for X
+
+Version:	3.2 (based on GNU Emacs 18.55)
+
+Notes:
+
+  Epoch is a modified version of GNU Emacs 18.55 with several major
+  enhancements:
+
+    o Multiple X-Window support
+
+    o Marked and Attributed regions of text
+
+    o Support for multiple fonts (fixed size), underlining, and
+      stipple patterns.
+
+    o Asynchronous communication with other X-Clients (usually the
+      window manager)
+
+    o Mouse-dragging with highlighting to support mouse-based cut-and-
+      paste.
+
+    o Access to raw X-Window objects
+
+	.../announce3.2
+
+Language(s):    C
+
+Requirements:   ?
+
+Origin:         University of Illinois
+		(see a2z/origins/uil.doc)
+
+See Also:	?
+
+Restrictions:   See a2z/text/gnu_gpl.txt
+
+References:
+
+  GNU Emacs Manual
+  Richard M. Stallman
+  Free Software Foundation, March, 1987
+
+  GNU Emacs Calc Manual
+  ?
+  Free Software Foundation, Janury, 1992
+
+  GNU Emacs Lisp Reference Manual
+  Bil Lewis, Dan LaLiberte, The GNU Manual Group
+  Free Software Foundation, June, 1991
+

@@ -1,0 +1,79 @@
+Topic:		language/shell
+
+Description:	The Shell Programming Language
+
+Notes:
+
+  Shell unlocks the power of UNIX.  It presumes that users can and will do
+  remarkable things.  Shell teaches productivity; one line od Shell can do
+  the work of 100 lines of C language.  Shell teaches programming through
+  composition of existing programs, not through coding of complex, custom
+  software.  Shell teaches reuse in ways that support such as advanced
+  concepts as object-oriented programming.
+
+	Preface, UNIX Shell Programming
+
+Contains:
+
+  bash      P    bash - GNU Bourne Again SHell
+  rc        P    rc
+  s_utils   P    shellutils - GNU Shell Utilities
+  tcsh      P    tcsh - modifications for csh.
+  tput      P    tput - Portable Terminal Control Utility
+  zsh       P    zsh - the Z shell
+
+See Also:
+
+  language/awk
+  language/perl
+  language/sed
+
+References:
+
+  The KornShell
+    Command and Programming Language
+  Morris I. Bolsky, David G. Korn
+  Prentice Hall, 1989, ISBN 0-13-516972-0
+
+  More Programming Pearls
+    Confessions of a Coder
+  Jon Louis Bentley
+  Addison-Wesley, 1988, ISBN 0-201-11889-0
+
+  Programming Pearls
+  Jon Louis Bentley
+  Addison-Wesley, 1986, ISBN 0-201-10331-1
+
+  UNIX Applications Programming
+    Mastering the Shell
+  Ray Swartz
+  Sams (Macmillan), 1989, ISBN 0-672-22715-0
+
+  The UNIX C Shell Field Guide
+  Gail Anderson, Paul Anderson
+  Prentice Hall, 1986, ISBN 0-13-937468-X
+
+  The UNIX Programming Environment
+  Brian W. Kernighan, Rob Pike
+  Prentice Hall, 1984, ISBN 0-13-937681-X
+
+  UNIX Shell Programming
+  Lowell Jay Arthur
+  John Wiley & Sons, 1985, ISBN 0-471-83900-0
+
+  UNIX Shell Programming, Rev. Ed.
+  Stephan G. Kochan, Patrick H. Wood
+  Hayden (Macmillan), 1990, ISBN 0-672-48448-X
+
+  UNIX Shell Programming for Business
+  Ray Swartz
+  Sams (Macmillan), 1990, ISBN 0-672-22715-0
+
+  The UNIX Shell Programming Language
+  Rod Manis, Marc H. Meyer
+  Macmillan, 1986, ISBN 0-672-22497-6
+
+  UNIX Tool Building
+  Kenneth Ingham
+  Academic Press, 1990, ISBN 0-12-370830-0
+

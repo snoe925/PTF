@@ -1,0 +1,13 @@
+rwxrwxrwx9080/1      0 Aug  8 11:30 1991 sed-1.08/
+rw-rw-rw-9080/1  17982 Jun  2 13:22 1991 sed-1.08/COPYING
+rw-rw-rw-9080/1   6391 Aug  8 11:22 1991 sed-1.08/ChangeLog
+rw-rw-rw-9080/11   2248 Aug  2 13:19 1991 sed-1.08/README
+rw-rw-rw-9080/11   2154 Aug  7 13:41 1991 sed-1.08/Makefile.in
+rwxrwxrwx9080/11   4903 Aug  2 09:30 1991 sed-1.08/configure
+rw-rw-rw-5200/1   9545 Jul 26 20:09 1991 sed-1.08/regex.h
+rw-rw-rw-9080/11   3560 Jun  3 16:36 1991 sed-1.08/getopt.h
+rw-r--r--9080/11  34773 Aug  8 11:17 1991 sed-1.08/sed.c
+rw-rw-rw-9080/11   6022 Aug  7 16:17 1991 sed-1.08/utils.c
+rw-rw-rw-9080/1  83787 Aug  5 15:26 1991 sed-1.08/regex.c
+rw-rw-rw-9080/1  17059 Jul 24 00:31 1991 sed-1.08/getopt.c
+rw-rw-rw-9080/1   3369 Jul 24 00:31 1991 sed-1.08/getopt1.c

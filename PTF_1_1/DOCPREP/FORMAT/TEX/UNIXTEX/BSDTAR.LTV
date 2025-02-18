@@ -1,0 +1,6 @@
+rwxr-xr-x4010/30      0 May  8 11:50 1991 bsdtar/
+rw-r--r--4010/30   1803 Jan 17 14:38 1991 bsdtar/COPYING
+rw-r--r--4010/30    251 Jan 17 14:38 1991 bsdtar/Makefile
+rw-r--r--4010/30   1452 Jan 17 14:38 1991 bsdtar/README
+rw-r--r--4010/30   3597 Jan 17 14:38 1991 bsdtar/bsdtar.1
+rw-r--r--4010/30  31017 Jan 17 14:38 1991 bsdtar/bsdtar.c
